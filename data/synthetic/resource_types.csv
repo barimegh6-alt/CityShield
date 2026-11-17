@@ -1,0 +1,11 @@
+resource_type_id,name,unit
+1,Drinking Water,L
+2,Food Packs,packs
+3,Blankets,units
+4,Medical Kits,kits
+5,Oxygen Cylinders,cylinders
+6,Rescue Boats,boats
+7,Generators,units
+8,Stretchers,units
+9,Fuel,L
+10,Tents,units

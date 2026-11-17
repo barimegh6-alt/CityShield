@@ -1,0 +1,1001 @@
+incident_id,incident_code,type_id,zone_id,description,severity,urgency,affected_people,status,reported_at,created_at,updated_at
+1,INC-0001,1,29,Warehouse fire on the main road in Bandra Kurla Complex spreading to adjacent shops,4,4,12,ARCHIVED,2026-10-16T12:31:00,2026-10-16T12:31:00,2026-10-16T12:36:00
+2,INC-0002,1,33,Short-circuit fire in the Ghatkopar market area; residents evacuating,4,4,12,CANCELLED,2026-10-16T13:11:00,2026-10-16T13:11:00,2026-10-16T13:16:00
+3,INC-0003,2,47,"Elderly resident unconscious on the main road in Malad, ambulance needed",3,3,4,ARCHIVED,2026-10-16T13:56:00,2026-10-16T13:56:00,2026-10-16T14:01:00
+4,INC-0004,3,39,Bus and truck collision near Andheri station with injuries,3,3,12,RESOLVED,2026-10-16T15:00:00,2026-10-16T15:00:00,2026-10-16T15:05:00
+5,INC-0005,4,39,"Water logging in the Andheri market area, drain overflow and stranded commuters",3,2,21,RESOLVED,2026-10-16T16:16:00,2026-10-16T16:16:00,2026-10-16T16:21:00
+6,INC-0006,2,19,"Elderly resident unconscious near Dadar station, ambulance needed",1,1,14,CANCELLED,2026-10-16T16:30:00,2026-10-16T16:30:00,2026-10-16T16:35:00
+7,INC-0007,2,16,Medical emergency at a residential block in Worli: patient with chest pain,5,4,1,RESOLVED,2026-10-16T17:22:00,2026-10-16T17:22:00,2026-10-16T17:27:00
+8,INC-0008,6,22,Power outage near the Mahim flyover affecting hundreds of homes,2,2,11,RESOLVED,2026-10-16T17:53:00,2026-10-16T17:53:00,2026-10-16T17:58:00
+9,INC-0009,6,49,Gas leak near Borivali station; area cordoned off,3,4,11,ARCHIVED,2026-10-16T18:16:00,2026-10-16T18:16:00,2026-10-16T18:21:00
+10,INC-0010,7,44,Public safety incident in the Aarey Colony market area: unattended suspicious bag,4,3,32,RESOLVED,2026-10-16T18:32:00,2026-10-16T18:32:00,2026-10-16T18:37:00
+11,INC-0011,3,15,Road accident near the Parel flyover: two vehicles collided,2,2,36,ARCHIVED,2026-10-16T18:39:00,2026-10-16T18:39:00,2026-10-16T18:44:00
+12,INC-0012,2,27,"Elderly resident unconscious at a residential block in Bandra, ambulance needed",2,2,4,CANCELLED,2026-10-16T18:41:00,2026-10-16T18:41:00,2026-10-16T18:46:00
+13,INC-0013,2,42,"Elderly resident unconscious at a residential block in Jogeshwari, ambulance needed",3,3,7,ARCHIVED,2026-10-16T19:14:00,2026-10-16T19:14:00,2026-10-16T19:19:00
+14,INC-0014,3,34,Road accident near the Vile Parle flyover: two vehicles collided,2,2,84,RESOLVED,2026-10-16T20:30:00,2026-10-16T20:30:00,2026-10-16T20:35:00
+15,INC-0015,8,12,Tree fall at an industrial unit in Byculla blocking road,1,1,5,RESOLVED,2026-10-16T20:48:00,2026-10-16T20:48:00,2026-10-16T20:53:00
+16,INC-0016,4,14,Severe water logging at an industrial unit in Lower Parel; vehicles stranded,3,2,16,RESOLVED,2026-10-16T21:27:00,2026-10-16T21:27:00,2026-10-16T21:32:00
+17,INC-0017,6,42,Power outage at a residential block in Jogeshwari affecting hundreds of homes,2,3,8,CANCELLED,2026-10-16T23:48:00,2026-10-16T23:48:00,2026-10-16T23:53:00
+18,INC-0018,8,19,Stranded lift passengers near the Dadar flyover,1,1,5,RESOLVED,2026-10-16T23:59:00,2026-10-16T23:59:00,2026-10-17T00:04:00
+19,INC-0019,1,17,Fire reported near the Prabhadevi flyover with heavy smoke,3,2,15,ARCHIVED,2026-10-17T02:24:00,2026-10-17T02:24:00,2026-10-17T02:29:00
+20,INC-0020,6,42,Power outage at a residential block in Jogeshwari affecting hundreds of homes,2,2,7,RESOLVED,2026-10-17T02:32:00,2026-10-17T02:32:00,2026-10-17T02:37:00
+21,INC-0021,2,34,Multiple people unwell on the main road in Vile Parle after food poisoning,1,1,7,RESOLVED,2026-10-17T03:01:00,2026-10-17T03:01:00,2026-10-17T03:06:00
+22,INC-0022,4,42,"Water logging at a residential block in Jogeshwari, drain overflow and stranded commuters",2,3,7,RESOLVED,2026-10-17T03:14:00,2026-10-17T03:14:00,2026-10-17T03:19:00
+23,INC-0023,4,42,Severe water logging in the Jogeshwari market area; vehicles stranded,3,4,11,ARCHIVED,2026-10-17T04:48:00,2026-10-17T04:48:00,2026-10-17T04:53:00
+24,INC-0024,3,12,Road accident near Byculla station: two vehicles collided,2,1,7,RESOLVED,2026-10-17T05:22:00,2026-10-17T05:22:00,2026-10-17T05:27:00
+25,INC-0025,3,18,"Motorcycle accident near the Wadala flyover, traffic blocked",3,2,15,ARCHIVED,2026-10-17T05:44:00,2026-10-17T05:44:00,2026-10-17T05:49:00
+26,INC-0026,1,24,Short-circuit fire at an industrial unit in Sion; residents evacuating,3,3,11,CANCELLED,2026-10-17T05:56:00,2026-10-17T05:56:00,2026-10-17T06:01:00
+27,INC-0027,2,29,Multiple people unwell on the main road in Bandra Kurla Complex after food poisoning,2,1,4,RESOLVED,2026-10-17T06:24:00,2026-10-17T06:24:00,2026-10-17T06:29:00
+28,INC-0028,3,32,Bus and truck collision near Santacruz station with injuries,2,1,13,ARCHIVED,2026-10-17T06:29:00,2026-10-17T06:29:00,2026-10-17T06:34:00
+29,INC-0029,2,17,Multiple people unwell near the Prabhadevi flyover after food poisoning,4,5,11,RESOLVED,2026-10-17T06:40:00,2026-10-17T06:40:00,2026-10-17T06:45:00
+30,INC-0030,2,17,"Elderly resident unconscious at an industrial unit in Prabhadevi, ambulance needed",3,3,4,ARCHIVED,2026-10-17T07:21:00,2026-10-17T07:21:00,2026-10-17T07:26:00
+31,INC-0031,3,18,Road accident at a residential block in Wadala: two vehicles collided,3,3,14,ARCHIVED,2026-10-17T08:03:00,2026-10-17T08:03:00,2026-10-17T08:08:00
+32,INC-0032,7,29,Public safety incident in the Bandra Kurla Complex market area: unattended suspicious bag,4,4,24,RESOLVED,2026-10-17T08:51:00,2026-10-17T08:51:00,2026-10-17T08:56:00
+33,INC-0033,7,32,Crowd surge in the Santacruz market area; police assistance requested,2,3,8,RESOLVED,2026-10-17T08:51:00,2026-10-17T08:51:00,2026-10-17T08:56:00
+34,INC-0034,1,45,Warehouse fire near the Goregaon flyover spreading to adjacent shops,2,3,21,RESOLVED,2026-10-17T09:22:00,2026-10-17T09:22:00,2026-10-17T09:27:00
+35,INC-0035,7,36,Crowd surge at an industrial unit in Juhu; police assistance requested,3,3,14,RESOLVED,2026-10-17T14:07:00,2026-10-17T14:07:00,2026-10-17T14:12:00
+36,INC-0036,4,8,"Water logging at a residential block in Grant Road, drain overflow and stranded commuters",2,3,33,RESOLVED,2026-10-17T14:27:00,2026-10-17T14:27:00,2026-10-17T14:32:00
+37,INC-0037,3,50,Bus and truck collision in the Dahisar market area with injuries,4,3,274,CANCELLED,2026-10-17T14:48:00,2026-10-17T14:48:00,2026-10-17T14:53:00
+38,INC-0038,2,27,"Elderly resident unconscious at an industrial unit in Bandra, ambulance needed",5,5,6,CANCELLED,2026-10-17T15:00:00,2026-10-17T15:00:00,2026-10-17T15:05:00
+39,INC-0039,6,8,Gas leak at an industrial unit in Grant Road; area cordoned off,3,2,12,ARCHIVED,2026-10-17T15:19:00,2026-10-17T15:19:00,2026-10-17T15:24:00
+40,INC-0040,4,16,Flooding at an industrial unit in Worli entering ground-floor homes,3,3,9,RESOLVED,2026-10-17T17:07:00,2026-10-17T17:07:00,2026-10-17T17:12:00
+41,INC-0041,4,45,Severe water logging at an industrial unit in Goregaon; vehicles stranded,4,3,29,RESOLVED,2026-10-17T17:19:00,2026-10-17T17:19:00,2026-10-17T17:24:00
+42,INC-0042,3,21,"Motorcycle accident near Matunga station, traffic blocked",1,2,11,RESOLVED,2026-10-17T17:30:00,2026-10-17T17:30:00,2026-10-17T17:35:00
+43,INC-0043,2,47,"Elderly resident unconscious at an industrial unit in Malad, ambulance needed",2,1,2,RESOLVED,2026-10-17T17:54:00,2026-10-17T17:54:00,2026-10-17T17:59:00
+44,INC-0044,2,15,Multiple people unwell in the Parel market area after food poisoning,1,1,1,RESOLVED,2026-10-17T18:59:00,2026-10-17T18:59:00,2026-10-17T19:04:00
+45,INC-0045,7,30,Crowd surge at an industrial unit in Khar; police assistance requested,4,4,13,CANCELLED,2026-10-17T20:23:00,2026-10-17T20:23:00,2026-10-17T20:28:00
+46,INC-0046,1,43,Fire reported near Bhandup station with heavy smoke,1,1,3,ARCHIVED,2026-10-17T20:54:00,2026-10-17T20:54:00,2026-10-17T20:59:00
+47,INC-0047,7,47,Public safety incident at a residential block in Malad: unattended suspicious bag,3,4,18,RESOLVED,2026-10-17T21:10:00,2026-10-17T21:10:00,2026-10-17T21:15:00
+48,INC-0048,1,36,Fire reported near the Juhu flyover with heavy smoke,5,5,19,RESOLVED,2026-10-17T21:25:00,2026-10-17T21:25:00,2026-10-17T21:30:00
+49,INC-0049,5,3,Partial building collapse in the Nariman Point market area after heavy rain,5,5,33,RESOLVED,2026-10-17T21:42:00,2026-10-17T21:42:00,2026-10-17T21:47:00
+50,INC-0050,3,43,"Motorcycle accident in the Bhandup market area, traffic blocked",3,4,10,RESOLVED,2026-10-17T22:51:00,2026-10-17T22:51:00,2026-10-17T22:56:00
+51,INC-0051,3,30,Bus and truck collision near the Khar flyover with injuries,2,2,6,CANCELLED,2026-10-17T23:10:00,2026-10-17T23:10:00,2026-10-17T23:15:00
+52,INC-0052,4,10,Severe water logging at an industrial unit in Mazgaon; vehicles stranded,4,4,28,ARCHIVED,2026-10-17T23:31:00,2026-10-17T23:31:00,2026-10-17T23:36:00
+53,INC-0053,6,36,Gas leak at a residential block in Juhu; area cordoned off,1,1,3,ARCHIVED,2026-10-17T23:40:00,2026-10-17T23:40:00,2026-10-17T23:45:00
+54,INC-0054,3,42,"Motorcycle accident in the Jogeshwari market area, traffic blocked",4,3,24,ARCHIVED,2026-10-17T23:53:00,2026-10-17T23:53:00,2026-10-17T23:58:00
+55,INC-0055,1,29,Short-circuit fire at an industrial unit in Bandra Kurla Complex; residents evacuating,3,3,9,RESOLVED,2026-10-18T00:37:00,2026-10-18T00:37:00,2026-10-18T00:42:00
+56,INC-0056,5,47,Building collapse at a residential block in Malad; people trapped under debris,5,4,15,CANCELLED,2026-10-18T01:15:00,2026-10-18T01:15:00,2026-10-18T01:20:00
+57,INC-0057,4,1,Severe water logging at an industrial unit in Colaba; vehicles stranded,3,2,9,RESOLVED,2026-10-18T01:43:00,2026-10-18T01:43:00,2026-10-18T01:48:00
+58,INC-0058,4,50,Severe water logging at an industrial unit in Dahisar; vehicles stranded,2,2,8,CANCELLED,2026-10-18T02:03:00,2026-10-18T02:03:00,2026-10-18T02:08:00
+59,INC-0059,7,43,Public safety incident in the Bhandup market area: unattended suspicious bag,2,2,8,RESOLVED,2026-10-18T02:14:00,2026-10-18T02:14:00,2026-10-18T02:19:00
+60,INC-0060,3,19,"Motorcycle accident in the Dadar market area, traffic blocked",3,3,43,RESOLVED,2026-10-18T02:25:00,2026-10-18T02:25:00,2026-10-18T02:30:00
+61,INC-0061,6,48,Power outage near Kandivali station affecting hundreds of homes,3,3,14,CANCELLED,2026-10-18T02:28:00,2026-10-18T02:28:00,2026-10-18T02:33:00
+62,INC-0062,4,28,Severe water logging in the Chembur market area; vehicles stranded,3,3,17,RESOLVED,2026-10-18T04:15:00,2026-10-18T04:15:00,2026-10-18T04:20:00
+63,INC-0063,7,47,Crowd surge at an industrial unit in Malad; police assistance requested,2,3,9,ARCHIVED,2026-10-18T05:15:00,2026-10-18T05:15:00,2026-10-18T05:20:00
+64,INC-0064,2,44,Multiple people unwell at an industrial unit in Aarey Colony after food poisoning,5,5,1,RESOLVED,2026-10-18T06:24:00,2026-10-18T06:24:00,2026-10-18T06:29:00
+65,INC-0065,6,49,Gas leak near Borivali station; area cordoned off,4,4,20,ARCHIVED,2026-10-18T06:55:00,2026-10-18T06:55:00,2026-10-18T07:00:00
+66,INC-0066,3,47,Road accident near the Malad flyover: two vehicles collided,1,1,3,ARCHIVED,2026-10-18T08:02:00,2026-10-18T08:02:00,2026-10-18T08:07:00
+67,INC-0067,6,19,Gas leak at an industrial unit in Dadar; area cordoned off,2,2,8,RESOLVED,2026-10-18T09:08:00,2026-10-18T09:08:00,2026-10-18T09:13:00
+68,INC-0068,7,9,Crowd surge at an industrial unit in Mumbai Central; police assistance requested,1,1,5,ARCHIVED,2026-10-18T10:05:00,2026-10-18T10:05:00,2026-10-18T10:10:00
+69,INC-0069,8,42,Stranded lift passengers in the Jogeshwari market area,3,2,20,RESOLVED,2026-10-18T12:06:00,2026-10-18T12:06:00,2026-10-18T12:11:00
+70,INC-0070,2,20,Multiple people unwell in the Antop Hill market area after food poisoning,2,2,4,CANCELLED,2026-10-18T13:17:00,2026-10-18T13:17:00,2026-10-18T13:22:00
+71,INC-0071,8,11,Tree fall in the Tardeo market area blocking road,2,3,43,RESOLVED,2026-10-18T13:56:00,2026-10-18T13:56:00,2026-10-18T14:01:00
+72,INC-0072,3,22,Road accident at an industrial unit in Mahim: two vehicles collided,4,4,24,ARCHIVED,2026-10-18T14:47:00,2026-10-18T14:47:00,2026-10-18T14:52:00
+73,INC-0073,3,18,Road accident in the Wadala market area: two vehicles collided,3,2,15,RESOLVED,2026-10-18T14:50:00,2026-10-18T14:50:00,2026-10-18T14:55:00
+74,INC-0074,1,25,Fire reported near Mankhurd station with heavy smoke,2,3,120,RESOLVED,2026-10-18T14:55:00,2026-10-18T14:55:00,2026-10-18T15:00:00
+75,INC-0075,1,32,Warehouse fire at a residential block in Santacruz spreading to adjacent shops,5,5,15,RESOLVED,2026-10-18T15:15:00,2026-10-18T15:15:00,2026-10-18T15:20:00
+76,INC-0076,3,12,Road accident in the Byculla market area: two vehicles collided,2,2,6,CANCELLED,2026-10-18T15:36:00,2026-10-18T15:36:00,2026-10-18T15:41:00
+77,INC-0077,2,4,Medical emergency in the Fort market area: patient with chest pain,3,3,6,RESOLVED,2026-10-18T17:33:00,2026-10-18T17:33:00,2026-10-18T17:38:00
+78,INC-0078,3,17,Bus and truck collision near Prabhadevi station with injuries,1,1,3,CANCELLED,2026-10-18T18:35:00,2026-10-18T18:35:00,2026-10-18T18:40:00
+79,INC-0079,7,3,Public safety incident near Nariman Point station: unattended suspicious bag,2,2,136,RESOLVED,2026-10-18T19:32:00,2026-10-18T19:32:00,2026-10-18T19:37:00
+80,INC-0080,7,14,Crowd surge at a residential block in Lower Parel; police assistance requested,3,2,12,RESOLVED,2026-10-18T19:49:00,2026-10-18T19:49:00,2026-10-18T19:54:00
+81,INC-0081,1,18,Fire reported in the Wadala market area with heavy smoke,3,2,42,RESOLVED,2026-10-18T20:10:00,2026-10-18T20:10:00,2026-10-18T20:15:00
+82,INC-0082,2,3,Medical emergency at a residential block in Nariman Point: patient with chest pain,2,2,2,CANCELLED,2026-10-18T20:24:00,2026-10-18T20:24:00,2026-10-18T20:29:00
+83,INC-0083,2,8,"Elderly resident unconscious on the main road in Grant Road, ambulance needed",5,4,1,RESOLVED,2026-10-18T21:38:00,2026-10-18T21:38:00,2026-10-18T21:43:00
+84,INC-0084,3,2,Road accident on the main road in Cuffe Parade: two vehicles collided,3,3,12,RESOLVED,2026-10-18T21:41:00,2026-10-18T21:41:00,2026-10-18T21:46:00
+85,INC-0085,6,50,Gas leak at a residential block in Dahisar; area cordoned off,1,1,5,RESOLVED,2026-10-18T21:55:00,2026-10-18T21:55:00,2026-10-18T22:00:00
+86,INC-0086,6,29,Gas leak near Bandra Kurla Complex station; area cordoned off,3,3,17,RESOLVED,2026-10-18T22:28:00,2026-10-18T22:28:00,2026-10-18T22:33:00
+87,INC-0087,6,13,Power outage in the Lalbaug market area affecting hundreds of homes,1,1,3,CANCELLED,2026-10-18T22:44:00,2026-10-18T22:44:00,2026-10-18T22:49:00
+88,INC-0088,2,6,"Elderly resident unconscious at a residential block in Girgaon, ambulance needed",2,2,14,RESOLVED,2026-10-19T00:06:00,2026-10-19T00:06:00,2026-10-19T00:11:00
+89,INC-0089,6,42,Gas leak on the main road in Jogeshwari; area cordoned off,2,2,6,ARCHIVED,2026-10-19T00:45:00,2026-10-19T00:45:00,2026-10-19T00:50:00
+90,INC-0090,1,40,Warehouse fire at a residential block in Kanjurmarg spreading to adjacent shops,5,4,22,RESOLVED,2026-10-19T02:44:00,2026-10-19T02:44:00,2026-10-19T02:49:00
+91,INC-0091,5,32,Partial building collapse near Santacruz station after heavy rain,5,5,20,RESOLVED,2026-10-19T03:22:00,2026-10-19T03:22:00,2026-10-19T03:27:00
+92,INC-0092,2,22,Medical emergency near Mahim station: patient with chest pain,1,1,3,ARCHIVED,2026-10-19T05:46:00,2026-10-19T05:46:00,2026-10-19T05:51:00
+93,INC-0093,1,39,Warehouse fire near Andheri station spreading to adjacent shops,4,4,17,RESOLVED,2026-10-19T05:58:00,2026-10-19T05:58:00,2026-10-19T06:03:00
+94,INC-0094,2,48,Multiple people unwell in the Kandivali market area after food poisoning,2,2,3,ARCHIVED,2026-10-19T06:26:00,2026-10-19T06:26:00,2026-10-19T06:31:00
+95,INC-0095,3,34,"Motorcycle accident at a residential block in Vile Parle, traffic blocked",3,3,14,ARCHIVED,2026-10-19T07:15:00,2026-10-19T07:15:00,2026-10-19T07:20:00
+96,INC-0096,1,44,Short-circuit fire near the Aarey Colony flyover; residents evacuating,3,3,24,ARCHIVED,2026-10-19T08:12:00,2026-10-19T08:12:00,2026-10-19T08:17:00
+97,INC-0097,4,22,Severe water logging in the Mahim market area; vehicles stranded,4,3,12,CANCELLED,2026-10-19T08:44:00,2026-10-19T08:44:00,2026-10-19T08:49:00
+98,INC-0098,8,44,Stranded lift passengers near Aarey Colony station,1,1,5,RESOLVED,2026-10-19T09:04:00,2026-10-19T09:04:00,2026-10-19T09:09:00
+99,INC-0099,6,12,"Water main burst at a residential block in Byculla, supply disrupted",4,4,17,ARCHIVED,2026-10-19T09:06:00,2026-10-19T09:06:00,2026-10-19T09:11:00
+100,INC-0100,3,30,Bus and truck collision near Khar station with injuries,4,5,14,RESOLVED,2026-10-19T09:10:00,2026-10-19T09:10:00,2026-10-19T09:15:00
+101,INC-0101,2,27,Medical emergency on the main road in Bandra: patient with chest pain,1,2,6,RESOLVED,2026-10-19T10:44:00,2026-10-19T10:44:00,2026-10-19T10:49:00
+102,INC-0102,1,47,Short-circuit fire in the Malad market area; residents evacuating,3,2,39,ARCHIVED,2026-10-19T11:39:00,2026-10-19T11:39:00,2026-10-19T11:44:00
+103,INC-0103,8,1,Tree fall near Colaba station blocking road,1,2,5,RESOLVED,2026-10-19T11:45:00,2026-10-19T11:45:00,2026-10-19T11:50:00
+104,INC-0104,8,5,Tree fall at an industrial unit in Marine Lines blocking road,3,4,14,RESOLVED,2026-10-19T12:24:00,2026-10-19T12:24:00,2026-10-19T12:29:00
+105,INC-0105,4,8,Flooding in the Grant Road market area entering ground-floor homes,5,4,23,RESOLVED,2026-10-19T14:00:00,2026-10-19T14:00:00,2026-10-19T14:05:00
+106,INC-0106,2,42,Multiple people unwell near Jogeshwari station after food poisoning,4,5,2,RESOLVED,2026-10-19T15:37:00,2026-10-19T15:37:00,2026-10-19T15:42:00
+107,INC-0107,2,18,"Elderly resident unconscious at an industrial unit in Wadala, ambulance needed",4,5,2,ARCHIVED,2026-10-19T16:15:00,2026-10-19T16:15:00,2026-10-19T16:20:00
+108,INC-0108,2,47,"Elderly resident unconscious at an industrial unit in Malad, ambulance needed",4,5,1,ARCHIVED,2026-10-19T17:13:00,2026-10-19T17:13:00,2026-10-19T17:18:00
+109,INC-0109,7,40,Crowd surge in the Kanjurmarg market area; police assistance requested,3,3,10,RESOLVED,2026-10-19T18:18:00,2026-10-19T18:18:00,2026-10-19T18:23:00
+110,INC-0110,6,15,Power outage near Parel station affecting hundreds of homes,4,4,12,RESOLVED,2026-10-19T20:44:00,2026-10-19T20:44:00,2026-10-19T20:49:00
+111,INC-0111,2,39,"Elderly resident unconscious near the Andheri flyover, ambulance needed",3,3,3,CANCELLED,2026-10-19T20:47:00,2026-10-19T20:47:00,2026-10-19T20:52:00
+112,INC-0112,2,34,Medical emergency on the main road in Vile Parle: patient with chest pain,5,4,6,RESOLVED,2026-10-19T21:48:00,2026-10-19T21:48:00,2026-10-19T21:53:00
+113,INC-0113,6,35,"Water main burst near the Sakinaka flyover, supply disrupted",3,3,10,RESOLVED,2026-10-19T21:51:00,2026-10-19T21:51:00,2026-10-19T21:56:00
+114,INC-0114,4,23,Flooding near the Dharavi flyover entering ground-floor homes,4,3,13,CANCELLED,2026-10-19T21:53:00,2026-10-19T21:53:00,2026-10-19T21:58:00
+115,INC-0115,2,13,"Elderly resident unconscious in the Lalbaug market area, ambulance needed",3,3,9,ARCHIVED,2026-10-19T22:20:00,2026-10-19T22:20:00,2026-10-19T22:25:00
+116,INC-0116,4,26,"Water logging in the Govandi market area, drain overflow and stranded commuters",4,3,26,ARCHIVED,2026-10-19T22:53:00,2026-10-19T22:53:00,2026-10-19T22:58:00
+117,INC-0117,6,42,Gas leak at an industrial unit in Jogeshwari; area cordoned off,2,1,15,ARCHIVED,2026-10-19T23:34:00,2026-10-19T23:34:00,2026-10-19T23:39:00
+118,INC-0118,2,47,"Elderly resident unconscious at a residential block in Malad, ambulance needed",1,1,7,RESOLVED,2026-10-20T00:18:00,2026-10-20T00:18:00,2026-10-20T00:23:00
+119,INC-0119,8,11,Stranded lift passengers at an industrial unit in Tardeo,1,1,4,RESOLVED,2026-10-20T00:43:00,2026-10-20T00:43:00,2026-10-20T00:48:00
+120,INC-0120,4,34,Severe water logging at a residential block in Vile Parle; vehicles stranded,4,4,21,ARCHIVED,2026-10-20T00:48:00,2026-10-20T00:48:00,2026-10-20T00:53:00
+121,INC-0121,7,4,Crowd surge in the Fort market area; police assistance requested,4,4,15,RESOLVED,2026-10-20T01:08:00,2026-10-20T01:08:00,2026-10-20T01:13:00
+122,INC-0122,6,24,"Water main burst at a residential block in Sion, supply disrupted",2,3,10,RESOLVED,2026-10-20T01:26:00,2026-10-20T01:26:00,2026-10-20T01:31:00
+123,INC-0123,1,34,Short-circuit fire on the main road in Vile Parle; residents evacuating,3,2,12,ARCHIVED,2026-10-20T01:45:00,2026-10-20T01:45:00,2026-10-20T01:50:00
+124,INC-0124,3,32,Road accident in the Santacruz market area: two vehicles collided,1,1,12,ARCHIVED,2026-10-20T02:12:00,2026-10-20T02:12:00,2026-10-20T02:17:00
+125,INC-0125,3,13,"Motorcycle accident in the Lalbaug market area, traffic blocked",2,2,7,CANCELLED,2026-10-20T03:35:00,2026-10-20T03:35:00,2026-10-20T03:40:00
+126,INC-0126,7,27,Public safety incident on the main road in Bandra: unattended suspicious bag,4,4,72,RESOLVED,2026-10-20T04:12:00,2026-10-20T04:12:00,2026-10-20T04:17:00
+127,INC-0127,2,41,Multiple people unwell near the Versova flyover after food poisoning,1,2,1,RESOLVED,2026-10-20T04:31:00,2026-10-20T04:31:00,2026-10-20T04:36:00
+128,INC-0128,1,24,Fire reported near Sion station with heavy smoke,5,5,134,RESOLVED,2026-10-20T05:23:00,2026-10-20T05:23:00,2026-10-20T05:28:00
+129,INC-0129,4,42,Severe water logging in the Jogeshwari market area; vehicles stranded,3,4,13,CANCELLED,2026-10-20T06:18:00,2026-10-20T06:18:00,2026-10-20T06:23:00
+130,INC-0130,3,43,"Motorcycle accident near Bhandup station, traffic blocked",4,4,19,CANCELLED,2026-10-20T06:33:00,2026-10-20T06:33:00,2026-10-20T06:38:00
+131,INC-0131,2,22,Multiple people unwell on the main road in Mahim after food poisoning,3,4,7,CANCELLED,2026-10-20T07:04:00,2026-10-20T07:04:00,2026-10-20T07:09:00
+132,INC-0132,3,18,"Motorcycle accident near the Wadala flyover, traffic blocked",1,1,3,ARCHIVED,2026-10-20T07:21:00,2026-10-20T07:21:00,2026-10-20T07:26:00
+133,INC-0133,4,32,Severe water logging in the Santacruz market area; vehicles stranded,5,4,91,ARCHIVED,2026-10-20T07:46:00,2026-10-20T07:46:00,2026-10-20T07:51:00
+134,INC-0134,5,30,Building collapse in the Khar market area; people trapped under debris,5,5,15,RESOLVED,2026-10-20T09:34:00,2026-10-20T09:34:00,2026-10-20T09:39:00
+135,INC-0135,1,6,Short-circuit fire on the main road in Girgaon; residents evacuating,5,5,269,RESOLVED,2026-10-20T09:56:00,2026-10-20T09:56:00,2026-10-20T10:01:00
+136,INC-0136,2,30,Multiple people unwell at an industrial unit in Khar after food poisoning,3,3,6,RESOLVED,2026-10-20T10:21:00,2026-10-20T10:21:00,2026-10-20T10:26:00
+137,INC-0137,6,10,Gas leak near Mazgaon station; area cordoned off,1,1,4,ARCHIVED,2026-10-20T11:00:00,2026-10-20T11:00:00,2026-10-20T11:05:00
+138,INC-0138,3,19,Bus and truck collision near Dadar station with injuries,2,1,6,CANCELLED,2026-10-20T11:25:00,2026-10-20T11:25:00,2026-10-20T11:30:00
+139,INC-0139,4,46,"Water logging in the Mulund market area, drain overflow and stranded commuters",5,4,65,RESOLVED,2026-10-20T11:36:00,2026-10-20T11:36:00,2026-10-20T11:41:00
+140,INC-0140,1,39,Warehouse fire at a residential block in Andheri spreading to adjacent shops,4,4,21,ARCHIVED,2026-10-20T11:40:00,2026-10-20T11:40:00,2026-10-20T11:45:00
+141,INC-0141,2,46,Multiple people unwell near the Mulund flyover after food poisoning,1,1,1,RESOLVED,2026-10-20T14:38:00,2026-10-20T14:38:00,2026-10-20T14:43:00
+142,INC-0142,6,23,"Water main burst at a residential block in Dharavi, supply disrupted",1,1,3,RESOLVED,2026-10-20T14:44:00,2026-10-20T14:44:00,2026-10-20T14:49:00
+143,INC-0143,4,36,Severe water logging on the main road in Juhu; vehicles stranded,3,2,598,RESOLVED,2026-10-20T15:13:00,2026-10-20T15:13:00,2026-10-20T15:18:00
+144,INC-0144,7,27,Public safety incident in the Bandra market area: unattended suspicious bag,2,2,13,CANCELLED,2026-10-20T16:17:00,2026-10-20T16:17:00,2026-10-20T16:22:00
+145,INC-0145,3,35,Bus and truck collision near the Sakinaka flyover with injuries,3,3,15,RESOLVED,2026-10-20T16:41:00,2026-10-20T16:41:00,2026-10-20T16:46:00
+146,INC-0146,2,24,"Elderly resident unconscious in the Sion market area, ambulance needed",4,4,11,ARCHIVED,2026-10-20T16:52:00,2026-10-20T16:52:00,2026-10-20T16:57:00
+147,INC-0147,1,19,Warehouse fire at a residential block in Dadar spreading to adjacent shops,2,1,10,RESOLVED,2026-10-20T17:21:00,2026-10-20T17:21:00,2026-10-20T17:26:00
+148,INC-0148,4,8,Flooding near the Grant Road flyover entering ground-floor homes,4,5,33,ARCHIVED,2026-10-20T18:39:00,2026-10-20T18:39:00,2026-10-20T18:44:00
+149,INC-0149,5,43,Partial building collapse in the Bhandup market area after heavy rain,5,4,56,RESOLVED,2026-10-20T20:22:00,2026-10-20T20:22:00,2026-10-20T20:27:00
+150,INC-0150,8,46,Tree fall at an industrial unit in Mulund blocking road,2,3,15,CANCELLED,2026-10-20T20:29:00,2026-10-20T20:29:00,2026-10-20T20:34:00
+151,INC-0151,2,18,Medical emergency on the main road in Wadala: patient with chest pain,4,5,1,CANCELLED,2026-10-20T20:46:00,2026-10-20T20:46:00,2026-10-20T20:51:00
+152,INC-0152,2,11,Multiple people unwell in the Tardeo market area after food poisoning,2,3,1,CANCELLED,2026-10-20T23:18:00,2026-10-20T23:18:00,2026-10-20T23:23:00
+153,INC-0153,2,15,Multiple people unwell in the Parel market area after food poisoning,1,1,2,ARCHIVED,2026-10-20T23:21:00,2026-10-20T23:21:00,2026-10-20T23:26:00
+154,INC-0154,2,18,Multiple people unwell on the main road in Wadala after food poisoning,3,2,4,RESOLVED,2026-10-21T00:13:00,2026-10-21T00:13:00,2026-10-21T00:18:00
+155,INC-0155,4,26,Flooding in the Govandi market area entering ground-floor homes,2,2,6,RESOLVED,2026-10-21T01:08:00,2026-10-21T01:08:00,2026-10-21T01:13:00
+156,INC-0156,2,3,Medical emergency at an industrial unit in Nariman Point: patient with chest pain,2,2,2,RESOLVED,2026-10-21T01:56:00,2026-10-21T01:56:00,2026-10-21T02:01:00
+157,INC-0157,6,46,"Water main burst at a residential block in Mulund, supply disrupted",3,3,12,ARCHIVED,2026-10-21T01:58:00,2026-10-21T01:58:00,2026-10-21T02:03:00
+158,INC-0158,7,34,Public safety incident near the Vile Parle flyover: unattended suspicious bag,3,2,16,RESOLVED,2026-10-21T03:16:00,2026-10-21T03:16:00,2026-10-21T03:21:00
+159,INC-0159,2,22,Multiple people unwell near the Mahim flyover after food poisoning,2,2,1,RESOLVED,2026-10-21T03:49:00,2026-10-21T03:49:00,2026-10-21T03:54:00
+160,INC-0160,2,24,"Elderly resident unconscious near Sion station, ambulance needed",3,3,8,ARCHIVED,2026-10-21T04:27:00,2026-10-21T04:27:00,2026-10-21T04:32:00
+161,INC-0161,6,44,"Water main burst near Aarey Colony station, supply disrupted",3,3,12,RESOLVED,2026-10-21T05:57:00,2026-10-21T05:57:00,2026-10-21T06:02:00
+162,INC-0162,3,29,Bus and truck collision near Bandra Kurla Complex station with injuries,4,4,119,ARCHIVED,2026-10-21T07:32:00,2026-10-21T07:32:00,2026-10-21T07:37:00
+163,INC-0163,6,1,"Water main burst near the Colaba flyover, supply disrupted",4,4,17,CANCELLED,2026-10-21T08:07:00,2026-10-21T08:07:00,2026-10-21T08:12:00
+164,INC-0164,2,1,Medical emergency in the Colaba market area: patient with chest pain,3,3,12,RESOLVED,2026-10-21T11:20:00,2026-10-21T11:20:00,2026-10-21T11:25:00
+165,INC-0165,3,10,Bus and truck collision on the main road in Mazgaon with injuries,3,2,16,RESOLVED,2026-10-21T11:24:00,2026-10-21T11:24:00,2026-10-21T11:29:00
+166,INC-0166,7,24,Crowd surge near Sion station; police assistance requested,3,4,9,RESOLVED,2026-10-21T13:08:00,2026-10-21T13:08:00,2026-10-21T13:13:00
+167,INC-0167,7,39,Crowd surge on the main road in Andheri; police assistance requested,1,1,6,ARCHIVED,2026-10-21T13:22:00,2026-10-21T13:22:00,2026-10-21T13:27:00
+168,INC-0168,2,27,Medical emergency on the main road in Bandra: patient with chest pain,3,2,1,RESOLVED,2026-10-21T14:05:00,2026-10-21T14:05:00,2026-10-21T14:10:00
+169,INC-0169,7,47,Crowd surge on the main road in Malad; police assistance requested,3,3,50,RESOLVED,2026-10-21T15:01:00,2026-10-21T15:01:00,2026-10-21T15:06:00
+170,INC-0170,3,17,Road accident at an industrial unit in Prabhadevi: two vehicles collided,4,3,12,ARCHIVED,2026-10-21T15:08:00,2026-10-21T15:08:00,2026-10-21T15:13:00
+171,INC-0171,7,4,Public safety incident near Fort station: unattended suspicious bag,2,2,27,CANCELLED,2026-10-21T15:16:00,2026-10-21T15:16:00,2026-10-21T15:21:00
+172,INC-0172,8,15,Tree fall at a residential block in Parel blocking road,2,1,6,RESOLVED,2026-10-21T16:06:00,2026-10-21T16:06:00,2026-10-21T16:11:00
+173,INC-0173,2,34,"Elderly resident unconscious on the main road in Vile Parle, ambulance needed",4,4,16,RESOLVED,2026-10-21T16:28:00,2026-10-21T16:28:00,2026-10-21T16:33:00
+174,INC-0174,2,23,Multiple people unwell in the Dharavi market area after food poisoning,2,2,9,CANCELLED,2026-10-21T16:39:00,2026-10-21T16:39:00,2026-10-21T16:44:00
+175,INC-0175,4,43,Severe water logging on the main road in Bhandup; vehicles stranded,3,4,15,CANCELLED,2026-10-21T16:43:00,2026-10-21T16:43:00,2026-10-21T16:48:00
+176,INC-0176,4,34,Flooding at an industrial unit in Vile Parle entering ground-floor homes,3,4,9,RESOLVED,2026-10-21T18:32:00,2026-10-21T18:32:00,2026-10-21T18:37:00
+177,INC-0177,1,11,Short-circuit fire on the main road in Tardeo; residents evacuating,5,5,23,RESOLVED,2026-10-21T18:49:00,2026-10-21T18:49:00,2026-10-21T18:54:00
+178,INC-0178,3,11,Bus and truck collision near Tardeo station with injuries,2,3,8,ARCHIVED,2026-10-21T19:27:00,2026-10-21T19:27:00,2026-10-21T19:32:00
+179,INC-0179,1,21,Warehouse fire in the Matunga market area spreading to adjacent shops,3,3,109,RESOLVED,2026-10-21T21:09:00,2026-10-21T21:09:00,2026-10-21T21:14:00
+180,INC-0180,1,34,Warehouse fire at a residential block in Vile Parle spreading to adjacent shops,4,4,15,RESOLVED,2026-10-21T22:14:00,2026-10-21T22:14:00,2026-10-21T22:19:00
+181,INC-0181,3,7,Road accident in the Malabar Hill market area: two vehicles collided,2,1,20,CANCELLED,2026-10-21T23:02:00,2026-10-21T23:02:00,2026-10-21T23:07:00
+182,INC-0182,4,50,"Water logging on the main road in Dahisar, drain overflow and stranded commuters",2,1,8,RESOLVED,2026-10-21T23:18:00,2026-10-21T23:18:00,2026-10-21T23:23:00
+183,INC-0183,3,13,Road accident at an industrial unit in Lalbaug: two vehicles collided,4,4,13,RESOLVED,2026-10-22T00:09:00,2026-10-22T00:09:00,2026-10-22T00:14:00
+184,INC-0184,8,42,Stranded lift passengers at an industrial unit in Jogeshwari,2,3,12,RESOLVED,2026-10-22T01:22:00,2026-10-22T01:22:00,2026-10-22T01:27:00
+185,INC-0185,3,4,Bus and truck collision at a residential block in Fort with injuries,1,2,3,RESOLVED,2026-10-22T01:51:00,2026-10-22T01:51:00,2026-10-22T01:56:00
+186,INC-0186,1,13,Short-circuit fire at an industrial unit in Lalbaug; residents evacuating,5,4,16,ARCHIVED,2026-10-22T02:28:00,2026-10-22T02:28:00,2026-10-22T02:33:00
+187,INC-0187,2,22,Medical emergency at a residential block in Mahim: patient with chest pain,2,1,3,RESOLVED,2026-10-22T03:26:00,2026-10-22T03:26:00,2026-10-22T03:31:00
+188,INC-0188,7,36,Crowd surge at a residential block in Juhu; police assistance requested,1,2,3,RESOLVED,2026-10-22T04:06:00,2026-10-22T04:06:00,2026-10-22T04:11:00
+189,INC-0189,6,2,"Water main burst near the Cuffe Parade flyover, supply disrupted",2,2,6,RESOLVED,2026-10-22T04:21:00,2026-10-22T04:21:00,2026-10-22T04:26:00
+190,INC-0190,3,30,"Motorcycle accident on the main road in Khar, traffic blocked",1,1,4,CANCELLED,2026-10-22T05:48:00,2026-10-22T05:48:00,2026-10-22T05:53:00
+191,INC-0191,2,40,Multiple people unwell at a residential block in Kanjurmarg after food poisoning,3,3,2,RESOLVED,2026-10-22T07:21:00,2026-10-22T07:21:00,2026-10-22T07:26:00
+192,INC-0192,2,39,Medical emergency at a residential block in Andheri: patient with chest pain,4,5,1,CANCELLED,2026-10-22T07:58:00,2026-10-22T07:58:00,2026-10-22T08:03:00
+193,INC-0193,4,25,"Water logging near the Mankhurd flyover, drain overflow and stranded commuters",4,4,15,RESOLVED,2026-10-22T08:06:00,2026-10-22T08:06:00,2026-10-22T08:11:00
+194,INC-0194,7,4,Crowd surge at an industrial unit in Fort; police assistance requested,3,4,12,RESOLVED,2026-10-22T08:31:00,2026-10-22T08:31:00,2026-10-22T08:36:00
+195,INC-0195,2,1,"Elderly resident unconscious on the main road in Colaba, ambulance needed",1,2,11,RESOLVED,2026-10-22T08:56:00,2026-10-22T08:56:00,2026-10-22T09:01:00
+196,INC-0196,2,48,"Elderly resident unconscious in the Kandivali market area, ambulance needed",3,4,10,RESOLVED,2026-10-22T09:29:00,2026-10-22T09:29:00,2026-10-22T09:34:00
+197,INC-0197,4,5,Severe water logging at a residential block in Marine Lines; vehicles stranded,3,3,12,CANCELLED,2026-10-22T09:50:00,2026-10-22T09:50:00,2026-10-22T09:55:00
+198,INC-0198,2,38,Medical emergency in the Powai market area: patient with chest pain,3,2,2,CANCELLED,2026-10-22T10:47:00,2026-10-22T10:47:00,2026-10-22T10:52:00
+199,INC-0199,4,48,Flooding at a residential block in Kandivali entering ground-floor homes,3,3,21,RESOLVED,2026-10-22T10:55:00,2026-10-22T10:55:00,2026-10-22T11:00:00
+200,INC-0200,4,40,"Water logging near the Kanjurmarg flyover, drain overflow and stranded commuters",2,3,97,ARCHIVED,2026-10-22T11:14:00,2026-10-22T11:14:00,2026-10-22T11:19:00
+201,INC-0201,1,18,Warehouse fire near Wadala station spreading to adjacent shops,3,2,18,CANCELLED,2026-10-22T11:25:00,2026-10-22T11:25:00,2026-10-22T11:30:00
+202,INC-0202,7,22,Public safety incident at a residential block in Mahim: unattended suspicious bag,4,4,30,CANCELLED,2026-10-22T11:26:00,2026-10-22T11:26:00,2026-10-22T11:31:00
+203,INC-0203,2,7,"Elderly resident unconscious at a residential block in Malabar Hill, ambulance needed",3,2,8,RESOLVED,2026-10-22T11:27:00,2026-10-22T11:27:00,2026-10-22T11:32:00
+204,INC-0204,2,4,Multiple people unwell near Fort station after food poisoning,2,3,2,RESOLVED,2026-10-22T13:21:00,2026-10-22T13:21:00,2026-10-22T13:26:00
+205,INC-0205,6,4,"Water main burst in the Fort market area, supply disrupted",3,3,9,RESOLVED,2026-10-22T13:30:00,2026-10-22T13:30:00,2026-10-22T13:35:00
+206,INC-0206,2,15,Medical emergency near Parel station: patient with chest pain,4,4,2,CANCELLED,2026-10-22T14:27:00,2026-10-22T14:27:00,2026-10-22T14:32:00
+207,INC-0207,6,18,"Water main burst on the main road in Wadala, supply disrupted",2,2,11,ARCHIVED,2026-10-22T14:55:00,2026-10-22T14:55:00,2026-10-22T15:00:00
+208,INC-0208,1,15,Fire reported near Parel station with heavy smoke,3,3,10,CANCELLED,2026-10-22T15:11:00,2026-10-22T15:11:00,2026-10-22T15:16:00
+209,INC-0209,2,17,Medical emergency at a residential block in Prabhadevi: patient with chest pain,3,3,11,ARCHIVED,2026-10-22T16:16:00,2026-10-22T16:16:00,2026-10-22T16:21:00
+210,INC-0210,8,21,Stranded lift passengers in the Matunga market area,1,1,4,RESOLVED,2026-10-22T17:57:00,2026-10-22T17:57:00,2026-10-22T18:02:00
+211,INC-0211,2,17,"Elderly resident unconscious near the Prabhadevi flyover, ambulance needed",3,3,8,ARCHIVED,2026-10-22T18:09:00,2026-10-22T18:09:00,2026-10-22T18:14:00
+212,INC-0212,8,33,Stranded lift passengers at a residential block in Ghatkopar,3,3,23,RESOLVED,2026-10-22T19:52:00,2026-10-22T19:52:00,2026-10-22T19:57:00
+213,INC-0213,4,47,"Water logging at a residential block in Malad, drain overflow and stranded commuters",3,2,11,RESOLVED,2026-10-22T20:15:00,2026-10-22T20:15:00,2026-10-22T20:20:00
+214,INC-0214,6,32,Power outage at a residential block in Santacruz affecting hundreds of homes,4,4,13,ARCHIVED,2026-10-22T20:53:00,2026-10-22T20:53:00,2026-10-22T20:58:00
+215,INC-0215,6,37,Power outage at an industrial unit in Vikhroli affecting hundreds of homes,3,3,14,RESOLVED,2026-10-22T21:53:00,2026-10-22T21:53:00,2026-10-22T21:58:00
+216,INC-0216,3,25,Bus and truck collision near Mankhurd station with injuries,1,1,3,ARCHIVED,2026-10-22T22:02:00,2026-10-22T22:02:00,2026-10-22T22:07:00
+217,INC-0217,4,37,"Water logging at an industrial unit in Vikhroli, drain overflow and stranded commuters",2,2,9,ARCHIVED,2026-10-22T22:23:00,2026-10-22T22:23:00,2026-10-22T22:28:00
+218,INC-0218,3,49,Bus and truck collision near the Borivali flyover with injuries,4,4,21,RESOLVED,2026-10-22T23:36:00,2026-10-22T23:36:00,2026-10-22T23:41:00
+219,INC-0219,7,17,Crowd surge at an industrial unit in Prabhadevi; police assistance requested,1,1,5,CANCELLED,2026-10-23T00:31:00,2026-10-23T00:31:00,2026-10-23T00:36:00
+220,INC-0220,6,33,Power outage in the Ghatkopar market area affecting hundreds of homes,4,5,62,ARCHIVED,2026-10-23T00:48:00,2026-10-23T00:48:00,2026-10-23T00:53:00
+221,INC-0221,2,13,Multiple people unwell at a residential block in Lalbaug after food poisoning,3,3,7,RESOLVED,2026-10-23T02:12:00,2026-10-23T02:12:00,2026-10-23T02:17:00
+222,INC-0222,8,14,Tree fall near Lower Parel station blocking road,1,1,13,RESOLVED,2026-10-23T03:42:00,2026-10-23T03:42:00,2026-10-23T03:47:00
+223,INC-0223,2,34,Multiple people unwell on the main road in Vile Parle after food poisoning,3,4,7,RESOLVED,2026-10-23T04:10:00,2026-10-23T04:10:00,2026-10-23T04:15:00
+224,INC-0224,1,36,Short-circuit fire in the Juhu market area; residents evacuating,3,4,9,RESOLVED,2026-10-23T04:43:00,2026-10-23T04:43:00,2026-10-23T04:48:00
+225,INC-0225,7,44,Crowd surge near Aarey Colony station; police assistance requested,1,2,5,RESOLVED,2026-10-23T04:50:00,2026-10-23T04:50:00,2026-10-23T04:55:00
+226,INC-0226,3,2,"Motorcycle accident near Cuffe Parade station, traffic blocked",3,2,33,CANCELLED,2026-10-23T05:41:00,2026-10-23T05:41:00,2026-10-23T05:46:00
+227,INC-0227,2,46,Medical emergency at a residential block in Mulund: patient with chest pain,2,3,6,RESOLVED,2026-10-23T06:28:00,2026-10-23T06:28:00,2026-10-23T06:33:00
+228,INC-0228,3,47,"Motorcycle accident on the main road in Malad, traffic blocked",4,4,16,CANCELLED,2026-10-23T08:33:00,2026-10-23T08:33:00,2026-10-23T08:38:00
+229,INC-0229,6,32,"Water main burst on the main road in Santacruz, supply disrupted",2,2,19,RESOLVED,2026-10-23T08:51:00,2026-10-23T08:51:00,2026-10-23T08:56:00
+230,INC-0230,2,10,Multiple people unwell on the main road in Mazgaon after food poisoning,5,5,6,ARCHIVED,2026-10-23T09:06:00,2026-10-23T09:06:00,2026-10-23T09:11:00
+231,INC-0231,7,23,Public safety incident on the main road in Dharavi: unattended suspicious bag,2,1,6,ARCHIVED,2026-10-23T09:48:00,2026-10-23T09:48:00,2026-10-23T09:53:00
+232,INC-0232,3,19,"Motorcycle accident at a residential block in Dadar, traffic blocked",4,3,43,RESOLVED,2026-10-23T09:55:00,2026-10-23T09:55:00,2026-10-23T10:00:00
+233,INC-0233,4,24,"Water logging in the Sion market area, drain overflow and stranded commuters",3,3,10,RESOLVED,2026-10-23T11:31:00,2026-10-23T11:31:00,2026-10-23T11:36:00
+234,INC-0234,1,31,Short-circuit fire on the main road in Kurla; residents evacuating,2,2,26,ARCHIVED,2026-10-23T11:53:00,2026-10-23T11:53:00,2026-10-23T11:58:00
+235,INC-0235,5,21,Building collapse at a residential block in Matunga; people trapped under debris,4,5,12,RESOLVED,2026-10-23T12:59:00,2026-10-23T12:59:00,2026-10-23T13:04:00
+236,INC-0236,3,50,"Motorcycle accident at a residential block in Dahisar, traffic blocked",3,2,9,RESOLVED,2026-10-23T14:20:00,2026-10-23T14:20:00,2026-10-23T14:25:00
+237,INC-0237,7,40,Public safety incident at a residential block in Kanjurmarg: unattended suspicious bag,2,2,9,RESOLVED,2026-10-23T15:26:00,2026-10-23T15:26:00,2026-10-23T15:31:00
+238,INC-0238,2,6,"Elderly resident unconscious on the main road in Girgaon, ambulance needed",3,4,6,CANCELLED,2026-10-23T15:26:00,2026-10-23T15:26:00,2026-10-23T15:31:00
+239,INC-0239,2,48,Medical emergency at a residential block in Kandivali: patient with chest pain,4,4,8,RESOLVED,2026-10-23T16:16:00,2026-10-23T16:16:00,2026-10-23T16:21:00
+240,INC-0240,4,42,Severe water logging in the Jogeshwari market area; vehicles stranded,2,1,13,CANCELLED,2026-10-23T16:30:00,2026-10-23T16:30:00,2026-10-23T16:35:00
+241,INC-0241,8,1,Stranded lift passengers in the Colaba market area,2,2,7,CANCELLED,2026-10-23T17:01:00,2026-10-23T17:01:00,2026-10-23T17:06:00
+242,INC-0242,3,48,Bus and truck collision in the Kandivali market area with injuries,2,3,13,RESOLVED,2026-10-23T17:16:00,2026-10-23T17:16:00,2026-10-23T17:21:00
+243,INC-0243,1,47,Warehouse fire near Malad station spreading to adjacent shops,1,1,4,ARCHIVED,2026-10-23T17:33:00,2026-10-23T17:33:00,2026-10-23T17:38:00
+244,INC-0244,3,19,Bus and truck collision at an industrial unit in Dadar with injuries,2,2,10,RESOLVED,2026-10-23T18:06:00,2026-10-23T18:06:00,2026-10-23T18:11:00
+245,INC-0245,1,12,Fire reported near the Byculla flyover with heavy smoke,4,4,17,CANCELLED,2026-10-23T18:50:00,2026-10-23T18:50:00,2026-10-23T18:55:00
+246,INC-0246,2,42,Multiple people unwell in the Jogeshwari market area after food poisoning,2,3,6,CANCELLED,2026-10-23T19:57:00,2026-10-23T19:57:00,2026-10-23T20:02:00
+247,INC-0247,2,3,Multiple people unwell in the Nariman Point market area after food poisoning,2,1,3,RESOLVED,2026-10-23T23:00:00,2026-10-23T23:00:00,2026-10-23T23:05:00
+248,INC-0248,6,18,Gas leak near the Wadala flyover; area cordoned off,3,4,14,RESOLVED,2026-10-23T23:56:00,2026-10-23T23:56:00,2026-10-24T00:01:00
+249,INC-0249,1,19,Warehouse fire near the Dadar flyover spreading to adjacent shops,3,2,264,RESOLVED,2026-10-24T00:21:00,2026-10-24T00:21:00,2026-10-24T00:26:00
+250,INC-0250,1,44,Warehouse fire in the Aarey Colony market area spreading to adjacent shops,5,4,16,RESOLVED,2026-10-24T01:08:00,2026-10-24T01:08:00,2026-10-24T01:13:00
+251,INC-0251,8,9,Stranded lift passengers near Mumbai Central station,2,2,6,RESOLVED,2026-10-24T01:31:00,2026-10-24T01:31:00,2026-10-24T01:36:00
+252,INC-0252,4,46,Severe water logging near Mulund station; vehicles stranded,3,4,9,CANCELLED,2026-10-24T02:06:00,2026-10-24T02:06:00,2026-10-24T02:11:00
+253,INC-0253,6,19,Gas leak at an industrial unit in Dadar; area cordoned off,2,2,12,RESOLVED,2026-10-24T03:00:00,2026-10-24T03:00:00,2026-10-24T03:05:00
+254,INC-0254,2,11,Medical emergency near Tardeo station: patient with chest pain,4,4,5,RESOLVED,2026-10-24T04:02:00,2026-10-24T04:02:00,2026-10-24T04:07:00
+255,INC-0255,4,43,"Water logging at an industrial unit in Bhandup, drain overflow and stranded commuters",4,4,79,RESOLVED,2026-10-24T05:52:00,2026-10-24T05:52:00,2026-10-24T05:57:00
+256,INC-0256,3,18,Bus and truck collision at a residential block in Wadala with injuries,1,1,6,RESOLVED,2026-10-24T06:41:00,2026-10-24T06:41:00,2026-10-24T06:46:00
+257,INC-0257,3,15,"Motorcycle accident in the Parel market area, traffic blocked",3,3,31,RESOLVED,2026-10-24T07:58:00,2026-10-24T07:58:00,2026-10-24T08:03:00
+258,INC-0258,2,46,Medical emergency at a residential block in Mulund: patient with chest pain,5,4,2,RESOLVED,2026-10-24T08:40:00,2026-10-24T08:40:00,2026-10-24T08:45:00
+259,INC-0259,1,1,Fire reported on the main road in Colaba with heavy smoke,4,4,35,CANCELLED,2026-10-24T09:19:00,2026-10-24T09:19:00,2026-10-24T09:24:00
+260,INC-0260,7,45,Crowd surge at an industrial unit in Goregaon; police assistance requested,2,2,6,RESOLVED,2026-10-24T09:49:00,2026-10-24T09:49:00,2026-10-24T09:54:00
+261,INC-0261,4,34,Flooding near Vile Parle station entering ground-floor homes,2,1,6,RESOLVED,2026-10-24T11:11:00,2026-10-24T11:11:00,2026-10-24T11:16:00
+262,INC-0262,3,1,Road accident near Colaba station: two vehicles collided,4,4,16,ARCHIVED,2026-10-24T12:39:00,2026-10-24T12:39:00,2026-10-24T12:44:00
+263,INC-0263,2,26,"Elderly resident unconscious near the Govandi flyover, ambulance needed",2,2,2,RESOLVED,2026-10-24T14:51:00,2026-10-24T14:51:00,2026-10-24T14:56:00
+264,INC-0264,1,42,Short-circuit fire on the main road in Jogeshwari; residents evacuating,2,1,11,CANCELLED,2026-10-24T15:18:00,2026-10-24T15:18:00,2026-10-24T15:23:00
+265,INC-0265,2,27,Medical emergency near Bandra station: patient with chest pain,4,4,28,RESOLVED,2026-10-24T15:57:00,2026-10-24T15:57:00,2026-10-24T16:02:00
+266,INC-0266,4,19,Severe water logging at an industrial unit in Dadar; vehicles stranded,3,3,9,RESOLVED,2026-10-24T16:00:00,2026-10-24T16:00:00,2026-10-24T16:05:00
+267,INC-0267,8,39,Stranded lift passengers at a residential block in Andheri,1,1,3,ARCHIVED,2026-10-24T16:34:00,2026-10-24T16:34:00,2026-10-24T16:39:00
+268,INC-0268,4,25,"Water logging on the main road in Mankhurd, drain overflow and stranded commuters",3,3,14,RESOLVED,2026-10-24T17:11:00,2026-10-24T17:11:00,2026-10-24T17:16:00
+269,INC-0269,2,3,"Elderly resident unconscious near the Nariman Point flyover, ambulance needed",4,5,4,ARCHIVED,2026-10-24T18:55:00,2026-10-24T18:55:00,2026-10-24T19:00:00
+270,INC-0270,3,48,"Motorcycle accident on the main road in Kandivali, traffic blocked",3,3,11,RESOLVED,2026-10-24T19:45:00,2026-10-24T19:45:00,2026-10-24T19:50:00
+271,INC-0271,6,34,Gas leak on the main road in Vile Parle; area cordoned off,3,2,22,RESOLVED,2026-10-24T21:27:00,2026-10-24T21:27:00,2026-10-24T21:32:00
+272,INC-0272,2,32,"Elderly resident unconscious in the Santacruz market area, ambulance needed",4,3,4,CANCELLED,2026-10-24T21:37:00,2026-10-24T21:37:00,2026-10-24T21:42:00
+273,INC-0273,2,50,Multiple people unwell near the Dahisar flyover after food poisoning,2,1,6,RESOLVED,2026-10-24T21:43:00,2026-10-24T21:43:00,2026-10-24T21:48:00
+274,INC-0274,3,23,Bus and truck collision near the Dharavi flyover with injuries,2,3,13,RESOLVED,2026-10-24T23:08:00,2026-10-24T23:08:00,2026-10-24T23:13:00
+275,INC-0275,3,17,Road accident on the main road in Prabhadevi: two vehicles collided,2,2,57,ARCHIVED,2026-10-24T23:12:00,2026-10-24T23:12:00,2026-10-24T23:17:00
+276,INC-0276,7,47,Crowd surge near Malad station; police assistance requested,2,3,9,CANCELLED,2026-10-24T23:31:00,2026-10-24T23:31:00,2026-10-24T23:36:00
+277,INC-0277,6,17,"Water main burst at a residential block in Prabhadevi, supply disrupted",2,3,15,RESOLVED,2026-10-24T23:57:00,2026-10-24T23:57:00,2026-10-25T00:02:00
+278,INC-0278,4,3,"Water logging at an industrial unit in Nariman Point, drain overflow and stranded commuters",4,4,18,CANCELLED,2026-10-25T03:11:00,2026-10-25T03:11:00,2026-10-25T03:16:00
+279,INC-0279,4,36,Flooding near Juhu station entering ground-floor homes,2,1,6,ARCHIVED,2026-10-25T04:13:00,2026-10-25T04:13:00,2026-10-25T04:18:00
+280,INC-0280,8,18,Tree fall on the main road in Wadala blocking road,2,3,79,ARCHIVED,2026-10-25T05:13:00,2026-10-25T05:13:00,2026-10-25T05:18:00
+281,INC-0281,7,43,Public safety incident near the Bhandup flyover: unattended suspicious bag,4,4,92,RESOLVED,2026-10-25T06:22:00,2026-10-25T06:22:00,2026-10-25T06:27:00
+282,INC-0282,3,8,"Motorcycle accident near Grant Road station, traffic blocked",3,3,12,CANCELLED,2026-10-25T06:24:00,2026-10-25T06:24:00,2026-10-25T06:29:00
+283,INC-0283,1,27,Short-circuit fire in the Bandra market area; residents evacuating,2,3,12,RESOLVED,2026-10-25T07:21:00,2026-10-25T07:21:00,2026-10-25T07:26:00
+284,INC-0284,7,32,Public safety incident at an industrial unit in Santacruz: unattended suspicious bag,4,4,14,RESOLVED,2026-10-25T07:59:00,2026-10-25T07:59:00,2026-10-25T08:04:00
+285,INC-0285,4,12,"Water logging on the main road in Byculla, drain overflow and stranded commuters",4,5,21,RESOLVED,2026-10-25T08:17:00,2026-10-25T08:17:00,2026-10-25T08:22:00
+286,INC-0286,7,37,Crowd surge on the main road in Vikhroli; police assistance requested,2,2,9,RESOLVED,2026-10-25T09:53:00,2026-10-25T09:53:00,2026-10-25T09:58:00
+287,INC-0287,5,35,Building collapse in the Sakinaka market area; people trapped under debris,4,3,12,CANCELLED,2026-10-25T10:11:00,2026-10-25T10:11:00,2026-10-25T10:16:00
+288,INC-0288,4,26,Flooding near Govandi station entering ground-floor homes,2,3,8,CANCELLED,2026-10-25T10:23:00,2026-10-25T10:23:00,2026-10-25T10:28:00
+289,INC-0289,4,29,Flooding on the main road in Bandra Kurla Complex entering ground-floor homes,4,3,83,RESOLVED,2026-10-25T10:25:00,2026-10-25T10:25:00,2026-10-25T10:30:00
+290,INC-0290,3,32,Road accident at an industrial unit in Santacruz: two vehicles collided,4,4,89,RESOLVED,2026-10-25T10:53:00,2026-10-25T10:53:00,2026-10-25T10:58:00
+291,INC-0291,4,49,Flooding in the Borivali market area entering ground-floor homes,5,5,91,RESOLVED,2026-10-25T11:13:00,2026-10-25T11:13:00,2026-10-25T11:18:00
+292,INC-0292,4,42,Severe water logging in the Jogeshwari market area; vehicles stranded,5,5,23,ARCHIVED,2026-10-25T11:33:00,2026-10-25T11:33:00,2026-10-25T11:38:00
+293,INC-0293,2,47,Multiple people unwell near Malad station after food poisoning,2,3,4,RESOLVED,2026-10-25T12:47:00,2026-10-25T12:47:00,2026-10-25T12:52:00
+294,INC-0294,1,35,Short-circuit fire in the Sakinaka market area; residents evacuating,3,3,10,CANCELLED,2026-10-25T14:38:00,2026-10-25T14:38:00,2026-10-25T14:43:00
+295,INC-0295,3,12,Bus and truck collision on the main road in Byculla with injuries,3,4,9,RESOLVED,2026-10-25T15:05:00,2026-10-25T15:05:00,2026-10-25T15:10:00
+296,INC-0296,1,3,Short-circuit fire in the Nariman Point market area; residents evacuating,3,3,9,RESOLVED,2026-10-25T15:15:00,2026-10-25T15:15:00,2026-10-25T15:20:00
+297,INC-0297,4,5,"Water logging in the Marine Lines market area, drain overflow and stranded commuters",5,5,27,RESOLVED,2026-10-25T16:09:00,2026-10-25T16:09:00,2026-10-25T16:14:00
+298,INC-0298,6,48,Power outage near the Kandivali flyover affecting hundreds of homes,4,4,69,ARCHIVED,2026-10-25T19:10:00,2026-10-25T19:10:00,2026-10-25T19:15:00
+299,INC-0299,2,19,"Elderly resident unconscious near Dadar station, ambulance needed",3,3,2,RESOLVED,2026-10-25T20:40:00,2026-10-25T20:40:00,2026-10-25T20:45:00
+300,INC-0300,2,5,Medical emergency at an industrial unit in Marine Lines: patient with chest pain,2,3,5,RESOLVED,2026-10-25T20:47:00,2026-10-25T20:47:00,2026-10-25T20:52:00
+301,INC-0301,6,18,Power outage near the Wadala flyover affecting hundreds of homes,2,1,8,ARCHIVED,2026-10-25T21:25:00,2026-10-25T21:25:00,2026-10-25T21:30:00
+302,INC-0302,2,13,Medical emergency at an industrial unit in Lalbaug: patient with chest pain,2,2,3,RESOLVED,2026-10-25T23:12:00,2026-10-25T23:12:00,2026-10-25T23:17:00
+303,INC-0303,7,23,Crowd surge near the Dharavi flyover; police assistance requested,2,3,121,RESOLVED,2026-10-26T00:14:00,2026-10-26T00:14:00,2026-10-26T00:19:00
+304,INC-0304,1,32,Fire reported on the main road in Santacruz with heavy smoke,4,3,24,CANCELLED,2026-10-26T02:00:00,2026-10-26T02:00:00,2026-10-26T02:05:00
+305,INC-0305,6,48,"Water main burst at a residential block in Kandivali, supply disrupted",3,4,28,RESOLVED,2026-10-26T02:14:00,2026-10-26T02:14:00,2026-10-26T02:19:00
+306,INC-0306,4,3,Severe water logging at a residential block in Nariman Point; vehicles stranded,4,5,261,RESOLVED,2026-10-26T02:39:00,2026-10-26T02:39:00,2026-10-26T02:44:00
+307,INC-0307,4,43,"Water logging near Bhandup station, drain overflow and stranded commuters",4,3,19,RESOLVED,2026-10-26T03:09:00,2026-10-26T03:09:00,2026-10-26T03:14:00
+308,INC-0308,3,3,Bus and truck collision in the Nariman Point market area with injuries,2,2,112,ARCHIVED,2026-10-26T03:22:00,2026-10-26T03:22:00,2026-10-26T03:27:00
+309,INC-0309,7,41,Public safety incident at an industrial unit in Versova: unattended suspicious bag,2,2,28,RESOLVED,2026-10-26T03:25:00,2026-10-26T03:25:00,2026-10-26T03:30:00
+310,INC-0310,4,44,"Water logging at a residential block in Aarey Colony, drain overflow and stranded commuters",5,4,106,RESOLVED,2026-10-26T03:45:00,2026-10-26T03:45:00,2026-10-26T03:50:00
+311,INC-0311,6,34,Gas leak near Vile Parle station; area cordoned off,1,1,3,ARCHIVED,2026-10-26T03:53:00,2026-10-26T03:53:00,2026-10-26T03:58:00
+312,INC-0312,4,4,Flooding at an industrial unit in Fort entering ground-floor homes,4,4,15,RESOLVED,2026-10-26T04:09:00,2026-10-26T04:09:00,2026-10-26T04:14:00
+313,INC-0313,3,30,"Motorcycle accident on the main road in Khar, traffic blocked",3,3,14,RESOLVED,2026-10-26T06:23:00,2026-10-26T06:23:00,2026-10-26T06:28:00
+314,INC-0314,6,31,"Water main burst at an industrial unit in Kurla, supply disrupted",2,1,15,RESOLVED,2026-10-26T07:18:00,2026-10-26T07:18:00,2026-10-26T07:23:00
+315,INC-0315,1,15,Warehouse fire on the main road in Parel spreading to adjacent shops,1,1,4,CANCELLED,2026-10-26T07:32:00,2026-10-26T07:32:00,2026-10-26T07:37:00
+316,INC-0316,4,46,Severe water logging on the main road in Mulund; vehicles stranded,3,3,12,RESOLVED,2026-10-26T09:40:00,2026-10-26T09:40:00,2026-10-26T09:45:00
+317,INC-0317,4,25,"Water logging on the main road in Mankhurd, drain overflow and stranded commuters",4,4,15,ARCHIVED,2026-10-26T09:47:00,2026-10-26T09:47:00,2026-10-26T09:52:00
+318,INC-0318,3,25,"Motorcycle accident on the main road in Mankhurd, traffic blocked",3,2,19,RESOLVED,2026-10-26T09:59:00,2026-10-26T09:59:00,2026-10-26T10:04:00
+319,INC-0319,1,12,Short-circuit fire at a residential block in Byculla; residents evacuating,5,5,51,RESOLVED,2026-10-26T10:27:00,2026-10-26T10:27:00,2026-10-26T10:32:00
+320,INC-0320,3,30,Bus and truck collision at a residential block in Khar with injuries,4,3,15,RESOLVED,2026-10-26T11:46:00,2026-10-26T11:46:00,2026-10-26T11:51:00
+321,INC-0321,1,25,Warehouse fire in the Mankhurd market area spreading to adjacent shops,5,5,33,RESOLVED,2026-10-26T12:59:00,2026-10-26T12:59:00,2026-10-26T13:04:00
+322,INC-0322,3,4,Bus and truck collision in the Fort market area with injuries,2,1,22,ARCHIVED,2026-10-26T13:51:00,2026-10-26T13:51:00,2026-10-26T13:56:00
+323,INC-0323,3,50,Bus and truck collision at a residential block in Dahisar with injuries,2,2,8,CANCELLED,2026-10-26T14:52:00,2026-10-26T14:52:00,2026-10-26T14:57:00
+324,INC-0324,1,13,Fire reported at a residential block in Lalbaug with heavy smoke,3,2,9,RESOLVED,2026-10-26T15:01:00,2026-10-26T15:01:00,2026-10-26T15:06:00
+325,INC-0325,3,15,"Motorcycle accident near Parel station, traffic blocked",2,1,8,CANCELLED,2026-10-26T15:55:00,2026-10-26T15:55:00,2026-10-26T16:00:00
+326,INC-0326,3,7,"Motorcycle accident near the Malabar Hill flyover, traffic blocked",3,4,37,RESOLVED,2026-10-26T18:42:00,2026-10-26T18:42:00,2026-10-26T18:47:00
+327,INC-0327,2,19,"Elderly resident unconscious in the Dadar market area, ambulance needed",1,1,11,CANCELLED,2026-10-26T19:58:00,2026-10-26T19:58:00,2026-10-26T20:03:00
+328,INC-0328,3,12,"Motorcycle accident at an industrial unit in Byculla, traffic blocked",2,3,43,RESOLVED,2026-10-26T20:39:00,2026-10-26T20:39:00,2026-10-26T20:44:00
+329,INC-0329,7,47,Public safety incident on the main road in Malad: unattended suspicious bag,4,4,46,ARCHIVED,2026-10-26T20:50:00,2026-10-26T20:50:00,2026-10-26T20:55:00
+330,INC-0330,1,21,Warehouse fire near the Matunga flyover spreading to adjacent shops,3,3,9,RESOLVED,2026-10-26T21:10:00,2026-10-26T21:10:00,2026-10-26T21:15:00
+331,INC-0331,1,35,Fire reported near the Sakinaka flyover with heavy smoke,3,3,9,RESOLVED,2026-10-26T23:18:00,2026-10-26T23:18:00,2026-10-26T23:23:00
+332,INC-0332,7,32,Public safety incident near Santacruz station: unattended suspicious bag,2,3,37,RESOLVED,2026-10-26T23:23:00,2026-10-26T23:23:00,2026-10-26T23:28:00
+333,INC-0333,1,4,Warehouse fire on the main road in Fort spreading to adjacent shops,3,2,19,RESOLVED,2026-10-26T23:58:00,2026-10-26T23:58:00,2026-10-27T00:03:00
+334,INC-0334,6,1,Power outage at a residential block in Colaba affecting hundreds of homes,3,4,10,RESOLVED,2026-10-27T01:02:00,2026-10-27T01:02:00,2026-10-27T01:07:00
+335,INC-0335,2,1,Medical emergency in the Colaba market area: patient with chest pain,3,4,6,CANCELLED,2026-10-27T01:50:00,2026-10-27T01:50:00,2026-10-27T01:55:00
+336,INC-0336,4,22,Flooding in the Mahim market area entering ground-floor homes,3,2,9,RESOLVED,2026-10-27T02:28:00,2026-10-27T02:28:00,2026-10-27T02:33:00
+337,INC-0337,1,45,Fire reported in the Goregaon market area with heavy smoke,3,2,23,CANCELLED,2026-10-27T02:28:00,2026-10-27T02:28:00,2026-10-27T02:33:00
+338,INC-0338,2,48,Medical emergency on the main road in Kandivali: patient with chest pain,2,3,1,RESOLVED,2026-10-27T03:47:00,2026-10-27T03:47:00,2026-10-27T03:52:00
+339,INC-0339,1,41,Warehouse fire at an industrial unit in Versova spreading to adjacent shops,1,1,4,RESOLVED,2026-10-27T04:11:00,2026-10-27T04:11:00,2026-10-27T04:16:00
+340,INC-0340,4,15,Severe water logging at a residential block in Parel; vehicles stranded,3,3,34,CANCELLED,2026-10-27T04:25:00,2026-10-27T04:25:00,2026-10-27T04:30:00
+341,INC-0341,2,6,"Elderly resident unconscious near the Girgaon flyover, ambulance needed",3,3,6,RESOLVED,2026-10-27T05:24:00,2026-10-27T05:24:00,2026-10-27T05:29:00
+342,INC-0342,2,4,Multiple people unwell at a residential block in Fort after food poisoning,1,1,4,ARCHIVED,2026-10-27T05:53:00,2026-10-27T05:53:00,2026-10-27T05:58:00
+343,INC-0343,4,18,"Water logging at a residential block in Wadala, drain overflow and stranded commuters",4,3,53,ARCHIVED,2026-10-27T06:41:00,2026-10-27T06:41:00,2026-10-27T06:46:00
+344,INC-0344,1,31,Short-circuit fire near Kurla station; residents evacuating,3,3,18,ARCHIVED,2026-10-27T06:48:00,2026-10-27T06:48:00,2026-10-27T06:53:00
+345,INC-0345,8,4,Tree fall at an industrial unit in Fort blocking road,2,2,81,RESOLVED,2026-10-27T09:50:00,2026-10-27T09:50:00,2026-10-27T09:55:00
+346,INC-0346,4,17,Severe water logging in the Prabhadevi market area; vehicles stranded,5,5,17,CANCELLED,2026-10-27T11:30:00,2026-10-27T11:30:00,2026-10-27T11:35:00
+347,INC-0347,6,43,Gas leak on the main road in Bhandup; area cordoned off,3,3,15,RESOLVED,2026-10-27T12:55:00,2026-10-27T12:55:00,2026-10-27T13:00:00
+348,INC-0348,2,19,Multiple people unwell near Dadar station after food poisoning,2,2,6,ARCHIVED,2026-10-27T12:56:00,2026-10-27T12:56:00,2026-10-27T13:01:00
+349,INC-0349,2,26,Medical emergency at an industrial unit in Govandi: patient with chest pain,3,4,2,ARCHIVED,2026-10-27T13:01:00,2026-10-27T13:01:00,2026-10-27T13:06:00
+350,INC-0350,7,32,Crowd surge at an industrial unit in Santacruz; police assistance requested,2,3,6,RESOLVED,2026-10-27T13:36:00,2026-10-27T13:36:00,2026-10-27T13:41:00
+351,INC-0351,1,44,Warehouse fire at an industrial unit in Aarey Colony spreading to adjacent shops,5,5,18,RESOLVED,2026-10-27T13:56:00,2026-10-27T13:56:00,2026-10-27T14:01:00
+352,INC-0352,6,45,Gas leak in the Goregaon market area; area cordoned off,3,3,14,RESOLVED,2026-10-27T13:58:00,2026-10-27T13:58:00,2026-10-27T14:03:00
+353,INC-0353,7,18,Public safety incident near Wadala station: unattended suspicious bag,2,2,9,RESOLVED,2026-10-27T14:08:00,2026-10-27T14:08:00,2026-10-27T14:13:00
+354,INC-0354,1,43,Fire reported near Bhandup station with heavy smoke,4,4,15,RESOLVED,2026-10-27T14:21:00,2026-10-27T14:21:00,2026-10-27T14:26:00
+355,INC-0355,2,32,Multiple people unwell at a residential block in Santacruz after food poisoning,1,1,7,RESOLVED,2026-10-27T14:56:00,2026-10-27T14:56:00,2026-10-27T15:01:00
+356,INC-0356,1,33,Warehouse fire on the main road in Ghatkopar spreading to adjacent shops,5,5,16,RESOLVED,2026-10-27T16:17:00,2026-10-27T16:17:00,2026-10-27T16:22:00
+357,INC-0357,2,30,"Elderly resident unconscious near Khar station, ambulance needed",5,5,1,RESOLVED,2026-10-27T16:56:00,2026-10-27T16:56:00,2026-10-27T17:01:00
+358,INC-0358,2,3,Medical emergency on the main road in Nariman Point: patient with chest pain,1,1,2,RESOLVED,2026-10-27T17:00:00,2026-10-27T17:00:00,2026-10-27T17:05:00
+359,INC-0359,4,5,"Water logging on the main road in Marine Lines, drain overflow and stranded commuters",2,3,9,ARCHIVED,2026-10-27T17:42:00,2026-10-27T17:42:00,2026-10-27T17:47:00
+360,INC-0360,2,18,Medical emergency near Wadala station: patient with chest pain,4,3,15,CANCELLED,2026-10-27T20:42:00,2026-10-27T20:42:00,2026-10-27T20:47:00
+361,INC-0361,2,39,Medical emergency near the Andheri flyover: patient with chest pain,5,5,4,RESOLVED,2026-10-27T22:03:00,2026-10-27T22:03:00,2026-10-27T22:08:00
+362,INC-0362,3,49,Road accident at an industrial unit in Borivali: two vehicles collided,2,2,18,RESOLVED,2026-10-27T22:57:00,2026-10-27T22:57:00,2026-10-27T23:02:00
+363,INC-0363,1,19,Short-circuit fire near the Dadar flyover; residents evacuating,1,1,7,CANCELLED,2026-10-27T23:15:00,2026-10-27T23:15:00,2026-10-27T23:20:00
+364,INC-0364,4,48,"Water logging at a residential block in Kandivali, drain overflow and stranded commuters",3,3,46,RESOLVED,2026-10-27T23:28:00,2026-10-27T23:28:00,2026-10-27T23:33:00
+365,INC-0365,2,46,Medical emergency on the main road in Mulund: patient with chest pain,2,3,4,RESOLVED,2026-10-27T23:45:00,2026-10-27T23:45:00,2026-10-27T23:50:00
+366,INC-0366,8,16,Tree fall near the Worli flyover blocking road,1,2,4,CANCELLED,2026-10-27T23:57:00,2026-10-27T23:57:00,2026-10-28T00:02:00
+367,INC-0367,6,13,"Water main burst on the main road in Lalbaug, supply disrupted",2,2,10,CANCELLED,2026-10-28T00:19:00,2026-10-28T00:19:00,2026-10-28T00:24:00
+368,INC-0368,3,18,"Motorcycle accident near the Wadala flyover, traffic blocked",2,2,12,CANCELLED,2026-10-28T00:23:00,2026-10-28T00:23:00,2026-10-28T00:28:00
+369,INC-0369,2,36,Multiple people unwell on the main road in Juhu after food poisoning,5,5,3,RESOLVED,2026-10-28T00:44:00,2026-10-28T00:44:00,2026-10-28T00:49:00
+370,INC-0370,8,30,Stranded lift passengers near Khar station,2,2,26,RESOLVED,2026-10-28T01:48:00,2026-10-28T01:48:00,2026-10-28T01:53:00
+371,INC-0371,4,18,Severe water logging at an industrial unit in Wadala; vehicles stranded,2,2,9,RESOLVED,2026-10-28T02:10:00,2026-10-28T02:10:00,2026-10-28T02:15:00
+372,INC-0372,4,44,"Water logging at a residential block in Aarey Colony, drain overflow and stranded commuters",3,3,9,ARCHIVED,2026-10-28T02:18:00,2026-10-28T02:18:00,2026-10-28T02:23:00
+373,INC-0373,2,32,Multiple people unwell on the main road in Santacruz after food poisoning,5,4,7,RESOLVED,2026-10-28T04:25:00,2026-10-28T04:25:00,2026-10-28T04:30:00
+374,INC-0374,4,13,Severe water logging on the main road in Lalbaug; vehicles stranded,3,3,39,RESOLVED,2026-10-28T06:29:00,2026-10-28T06:29:00,2026-10-28T06:34:00
+375,INC-0375,3,11,Road accident in the Tardeo market area: two vehicles collided,3,3,11,RESOLVED,2026-10-28T07:11:00,2026-10-28T07:11:00,2026-10-28T07:16:00
+376,INC-0376,4,24,Severe water logging at an industrial unit in Sion; vehicles stranded,4,4,20,RESOLVED,2026-10-28T07:29:00,2026-10-28T07:29:00,2026-10-28T07:34:00
+377,INC-0377,4,35,Severe water logging in the Sakinaka market area; vehicles stranded,5,5,30,ARCHIVED,2026-10-28T07:30:00,2026-10-28T07:30:00,2026-10-28T07:35:00
+378,INC-0378,6,3,Power outage near Nariman Point station affecting hundreds of homes,3,3,10,RESOLVED,2026-10-28T07:37:00,2026-10-28T07:37:00,2026-10-28T07:42:00
+379,INC-0379,7,37,Public safety incident on the main road in Vikhroli: unattended suspicious bag,1,1,3,RESOLVED,2026-10-28T07:54:00,2026-10-28T07:54:00,2026-10-28T07:59:00
+380,INC-0380,1,49,Short-circuit fire at an industrial unit in Borivali; residents evacuating,4,3,13,RESOLVED,2026-10-28T09:48:00,2026-10-28T09:48:00,2026-10-28T09:53:00
+381,INC-0381,7,14,Public safety incident near the Lower Parel flyover: unattended suspicious bag,2,3,15,CANCELLED,2026-10-28T10:59:00,2026-10-28T10:59:00,2026-10-28T11:04:00
+382,INC-0382,6,25,Gas leak at a residential block in Mankhurd; area cordoned off,3,3,10,ARCHIVED,2026-10-28T11:20:00,2026-10-28T11:20:00,2026-10-28T11:25:00
+383,INC-0383,1,32,Fire reported near Santacruz station with heavy smoke,3,3,17,RESOLVED,2026-10-28T11:36:00,2026-10-28T11:36:00,2026-10-28T11:41:00
+384,INC-0384,3,34,Bus and truck collision in the Vile Parle market area with injuries,3,4,43,RESOLVED,2026-10-28T12:43:00,2026-10-28T12:43:00,2026-10-28T12:48:00
+385,INC-0385,3,30,Road accident at an industrial unit in Khar: two vehicles collided,3,3,9,RESOLVED,2026-10-28T12:43:00,2026-10-28T12:43:00,2026-10-28T12:48:00
+386,INC-0386,2,48,Multiple people unwell near Kandivali station after food poisoning,2,2,2,RESOLVED,2026-10-28T12:44:00,2026-10-28T12:44:00,2026-10-28T12:49:00
+387,INC-0387,3,5,Road accident near the Marine Lines flyover: two vehicles collided,2,1,13,CANCELLED,2026-10-28T12:53:00,2026-10-28T12:53:00,2026-10-28T12:58:00
+388,INC-0388,3,36,Bus and truck collision at a residential block in Juhu with injuries,2,1,8,RESOLVED,2026-10-28T13:48:00,2026-10-28T13:48:00,2026-10-28T13:53:00
+389,INC-0389,2,39,Medical emergency in the Andheri market area: patient with chest pain,3,4,9,RESOLVED,2026-10-28T14:07:00,2026-10-28T14:07:00,2026-10-28T14:12:00
+390,INC-0390,6,21,Gas leak on the main road in Matunga; area cordoned off,2,3,6,RESOLVED,2026-10-28T14:59:00,2026-10-28T14:59:00,2026-10-28T15:04:00
+391,INC-0391,2,49,Multiple people unwell at an industrial unit in Borivali after food poisoning,2,1,1,RESOLVED,2026-10-28T15:10:00,2026-10-28T15:10:00,2026-10-28T15:15:00
+392,INC-0392,2,5,Multiple people unwell at a residential block in Marine Lines after food poisoning,2,1,4,RESOLVED,2026-10-28T15:43:00,2026-10-28T15:43:00,2026-10-28T15:48:00
+393,INC-0393,6,17,Power outage at a residential block in Prabhadevi affecting hundreds of homes,4,4,18,ARCHIVED,2026-10-28T16:25:00,2026-10-28T16:25:00,2026-10-28T16:30:00
+394,INC-0394,2,39,"Elderly resident unconscious near Andheri station, ambulance needed",5,5,6,ARCHIVED,2026-10-28T16:54:00,2026-10-28T16:54:00,2026-10-28T16:59:00
+395,INC-0395,3,37,Road accident near Vikhroli station: two vehicles collided,3,3,10,ARCHIVED,2026-10-28T19:27:00,2026-10-28T19:27:00,2026-10-28T19:32:00
+396,INC-0396,2,12,Multiple people unwell at a residential block in Byculla after food poisoning,5,5,4,RESOLVED,2026-10-28T19:29:00,2026-10-28T19:29:00,2026-10-28T19:34:00
+397,INC-0397,3,32,Bus and truck collision near the Santacruz flyover with injuries,4,4,13,ARCHIVED,2026-10-28T20:07:00,2026-10-28T20:07:00,2026-10-28T20:12:00
+398,INC-0398,2,10,Multiple people unwell near the Mazgaon flyover after food poisoning,2,2,9,RESOLVED,2026-10-28T22:15:00,2026-10-28T22:15:00,2026-10-28T22:20:00
+399,INC-0399,2,1,Medical emergency near Colaba station: patient with chest pain,1,2,4,ARCHIVED,2026-10-28T22:54:00,2026-10-28T22:54:00,2026-10-28T22:59:00
+400,INC-0400,6,30,Power outage at a residential block in Khar affecting hundreds of homes,1,2,10,ARCHIVED,2026-10-28T23:42:00,2026-10-28T23:42:00,2026-10-28T23:47:00
+401,INC-0401,2,40,Medical emergency near Kanjurmarg station: patient with chest pain,2,2,2,RESOLVED,2026-10-28T23:50:00,2026-10-28T23:50:00,2026-10-28T23:55:00
+402,INC-0402,3,40,Road accident at an industrial unit in Kanjurmarg: two vehicles collided,2,1,9,CANCELLED,2026-10-28T23:56:00,2026-10-28T23:56:00,2026-10-29T00:01:00
+403,INC-0403,2,6,"Elderly resident unconscious in the Girgaon market area, ambulance needed",3,2,1,CANCELLED,2026-10-29T00:23:00,2026-10-29T00:23:00,2026-10-29T00:28:00
+404,INC-0404,2,2,"Elderly resident unconscious in the Cuffe Parade market area, ambulance needed",2,2,11,RESOLVED,2026-10-29T00:53:00,2026-10-29T00:53:00,2026-10-29T00:58:00
+405,INC-0405,6,18,"Water main burst at a residential block in Wadala, supply disrupted",1,2,5,ARCHIVED,2026-10-29T00:56:00,2026-10-29T00:56:00,2026-10-29T01:01:00
+406,INC-0406,1,32,Short-circuit fire near Santacruz station; residents evacuating,4,5,14,CANCELLED,2026-10-29T01:51:00,2026-10-29T01:51:00,2026-10-29T01:56:00
+407,INC-0407,8,38,Stranded lift passengers near the Powai flyover,3,3,9,RESOLVED,2026-10-29T02:52:00,2026-10-29T02:52:00,2026-10-29T02:57:00
+408,INC-0408,2,11,Multiple people unwell at an industrial unit in Tardeo after food poisoning,3,4,8,RESOLVED,2026-10-29T04:14:00,2026-10-29T04:14:00,2026-10-29T04:19:00
+409,INC-0409,6,38,"Water main burst near Powai station, supply disrupted",2,3,8,CANCELLED,2026-10-29T04:14:00,2026-10-29T04:14:00,2026-10-29T04:19:00
+410,INC-0410,3,10,Road accident near Mazgaon station: two vehicles collided,3,3,155,ARCHIVED,2026-10-29T04:27:00,2026-10-29T04:27:00,2026-10-29T04:32:00
+411,INC-0411,7,37,Public safety incident at an industrial unit in Vikhroli: unattended suspicious bag,2,2,23,RESOLVED,2026-10-29T04:57:00,2026-10-29T04:57:00,2026-10-29T05:02:00
+412,INC-0412,8,10,Tree fall at a residential block in Mazgaon blocking road,1,1,9,CANCELLED,2026-10-29T04:59:00,2026-10-29T04:59:00,2026-10-29T05:04:00
+413,INC-0413,4,9,Severe water logging near Mumbai Central station; vehicles stranded,5,5,18,RESOLVED,2026-10-29T06:05:00,2026-10-29T06:05:00,2026-10-29T06:10:00
+414,INC-0414,2,11,Medical emergency at an industrial unit in Tardeo: patient with chest pain,2,1,1,RESOLVED,2026-10-29T07:00:00,2026-10-29T07:00:00,2026-10-29T07:05:00
+415,INC-0415,1,5,Warehouse fire at a residential block in Marine Lines spreading to adjacent shops,4,4,12,RESOLVED,2026-10-29T07:16:00,2026-10-29T07:16:00,2026-10-29T07:21:00
+416,INC-0416,2,39,"Elderly resident unconscious in the Andheri market area, ambulance needed",3,4,14,CANCELLED,2026-10-29T08:06:00,2026-10-29T08:06:00,2026-10-29T08:11:00
+417,INC-0417,6,23,Power outage at an industrial unit in Dharavi affecting hundreds of homes,2,2,6,RESOLVED,2026-10-29T10:05:00,2026-10-29T10:05:00,2026-10-29T10:10:00
+418,INC-0418,2,10,Multiple people unwell near Mazgaon station after food poisoning,5,5,3,RESOLVED,2026-10-29T11:22:00,2026-10-29T11:22:00,2026-10-29T11:27:00
+419,INC-0419,1,10,Warehouse fire on the main road in Mazgaon spreading to adjacent shops,5,5,26,ARCHIVED,2026-10-29T12:47:00,2026-10-29T12:47:00,2026-10-29T12:52:00
+420,INC-0420,8,18,Stranded lift passengers at an industrial unit in Wadala,1,1,15,CANCELLED,2026-10-29T13:01:00,2026-10-29T13:01:00,2026-10-29T13:06:00
+421,INC-0421,2,12,Multiple people unwell in the Byculla market area after food poisoning,5,4,4,RESOLVED,2026-10-29T13:22:00,2026-10-29T13:22:00,2026-10-29T13:27:00
+422,INC-0422,4,27,Flooding at an industrial unit in Bandra entering ground-floor homes,3,3,124,RESOLVED,2026-10-29T14:16:00,2026-10-29T14:16:00,2026-10-29T14:21:00
+423,INC-0423,2,39,Medical emergency in the Andheri market area: patient with chest pain,1,1,4,RESOLVED,2026-10-29T14:47:00,2026-10-29T14:47:00,2026-10-29T14:52:00
+424,INC-0424,8,19,Tree fall at a residential block in Dadar blocking road,2,2,100,ARCHIVED,2026-10-29T15:20:00,2026-10-29T15:20:00,2026-10-29T15:25:00
+425,INC-0425,3,38,Road accident on the main road in Powai: two vehicles collided,1,1,3,RESOLVED,2026-10-29T15:45:00,2026-10-29T15:45:00,2026-10-29T15:50:00
+426,INC-0426,4,28,Severe water logging at a residential block in Chembur; vehicles stranded,5,5,22,RESOLVED,2026-10-29T15:47:00,2026-10-29T15:47:00,2026-10-29T15:52:00
+427,INC-0427,5,27,Partial building collapse on the main road in Bandra after heavy rain,5,5,16,RESOLVED,2026-10-29T16:22:00,2026-10-29T16:22:00,2026-10-29T16:27:00
+428,INC-0428,4,47,Severe water logging at an industrial unit in Malad; vehicles stranded,2,3,20,RESOLVED,2026-10-29T16:40:00,2026-10-29T16:40:00,2026-10-29T16:45:00
+429,INC-0429,4,35,Severe water logging near Sakinaka station; vehicles stranded,2,1,10,RESOLVED,2026-10-29T18:21:00,2026-10-29T18:21:00,2026-10-29T18:26:00
+430,INC-0430,2,48,Medical emergency near Kandivali station: patient with chest pain,3,2,1,RESOLVED,2026-10-29T18:50:00,2026-10-29T18:50:00,2026-10-29T18:55:00
+431,INC-0431,2,9,Medical emergency near Mumbai Central station: patient with chest pain,2,3,5,RESOLVED,2026-10-29T19:18:00,2026-10-29T19:18:00,2026-10-29T19:23:00
+432,INC-0432,4,50,Flooding near Dahisar station entering ground-floor homes,4,5,101,RESOLVED,2026-10-29T19:31:00,2026-10-29T19:31:00,2026-10-29T19:36:00
+433,INC-0433,3,12,Bus and truck collision near the Byculla flyover with injuries,2,1,7,CANCELLED,2026-10-29T19:33:00,2026-10-29T19:33:00,2026-10-29T19:38:00
+434,INC-0434,3,47,Road accident near Malad station: two vehicles collided,2,2,8,RESOLVED,2026-10-29T19:41:00,2026-10-29T19:41:00,2026-10-29T19:46:00
+435,INC-0435,7,46,Crowd surge near Mulund station; police assistance requested,2,1,14,RESOLVED,2026-10-29T20:13:00,2026-10-29T20:13:00,2026-10-29T20:18:00
+436,INC-0436,1,34,Fire reported in the Vile Parle market area with heavy smoke,2,2,29,RESOLVED,2026-10-29T20:19:00,2026-10-29T20:19:00,2026-10-29T20:24:00
+437,INC-0437,2,11,Multiple people unwell in the Tardeo market area after food poisoning,3,2,5,ARCHIVED,2026-10-29T21:46:00,2026-10-29T21:46:00,2026-10-29T21:51:00
+438,INC-0438,7,13,Public safety incident at a residential block in Lalbaug: unattended suspicious bag,4,3,41,RESOLVED,2026-10-29T22:23:00,2026-10-29T22:23:00,2026-10-29T22:28:00
+439,INC-0439,2,19,Medical emergency at an industrial unit in Dadar: patient with chest pain,1,1,3,RESOLVED,2026-10-29T23:09:00,2026-10-29T23:09:00,2026-10-29T23:14:00
+440,INC-0440,3,13,Bus and truck collision on the main road in Lalbaug with injuries,1,1,3,RESOLVED,2026-10-29T23:19:00,2026-10-29T23:19:00,2026-10-29T23:24:00
+441,INC-0441,2,42,Multiple people unwell on the main road in Jogeshwari after food poisoning,3,4,4,RESOLVED,2026-10-29T23:44:00,2026-10-29T23:44:00,2026-10-29T23:49:00
+442,INC-0442,5,49,Building collapse near the Borivali flyover; people trapped under debris,5,5,18,RESOLVED,2026-10-30T00:27:00,2026-10-30T00:27:00,2026-10-30T00:32:00
+443,INC-0443,1,42,Short-circuit fire near the Jogeshwari flyover; residents evacuating,1,2,3,RESOLVED,2026-10-30T01:46:00,2026-10-30T01:46:00,2026-10-30T01:51:00
+444,INC-0444,6,50,"Water main burst near Dahisar station, supply disrupted",4,5,37,RESOLVED,2026-10-30T01:48:00,2026-10-30T01:48:00,2026-10-30T01:53:00
+445,INC-0445,3,18,Bus and truck collision at an industrial unit in Wadala with injuries,2,2,95,CANCELLED,2026-10-30T01:59:00,2026-10-30T01:59:00,2026-10-30T02:04:00
+446,INC-0446,4,30,Severe water logging near the Khar flyover; vehicles stranded,4,4,46,RESOLVED,2026-10-30T02:00:00,2026-10-30T02:00:00,2026-10-30T02:05:00
+447,INC-0447,8,24,Stranded lift passengers at an industrial unit in Sion,1,2,4,RESOLVED,2026-10-30T03:10:00,2026-10-30T03:10:00,2026-10-30T03:15:00
+448,INC-0448,3,11,"Motorcycle accident near Tardeo station, traffic blocked",4,4,17,ARCHIVED,2026-10-30T04:01:00,2026-10-30T04:01:00,2026-10-30T04:06:00
+449,INC-0449,6,17,Gas leak at a residential block in Prabhadevi; area cordoned off,4,3,16,RESOLVED,2026-10-30T04:30:00,2026-10-30T04:30:00,2026-10-30T04:35:00
+450,INC-0450,4,23,Severe water logging near the Dharavi flyover; vehicles stranded,5,4,17,CANCELLED,2026-10-30T04:36:00,2026-10-30T04:36:00,2026-10-30T04:41:00
+451,INC-0451,5,40,Partial building collapse near the Kanjurmarg flyover after heavy rain,5,5,23,CANCELLED,2026-10-30T05:39:00,2026-10-30T05:39:00,2026-10-30T05:44:00
+452,INC-0452,2,11,Medical emergency at a residential block in Tardeo: patient with chest pain,2,3,5,CANCELLED,2026-10-30T05:40:00,2026-10-30T05:40:00,2026-10-30T05:45:00
+453,INC-0453,3,47,Bus and truck collision near Malad station with injuries,3,4,367,RESOLVED,2026-10-30T06:08:00,2026-10-30T06:08:00,2026-10-30T06:13:00
+454,INC-0454,1,16,Fire reported on the main road in Worli with heavy smoke,3,4,16,ARCHIVED,2026-10-30T07:02:00,2026-10-30T07:02:00,2026-10-30T07:07:00
+455,INC-0455,3,4,Road accident on the main road in Fort: two vehicles collided,1,2,9,ARCHIVED,2026-10-30T10:04:00,2026-10-30T10:04:00,2026-10-30T10:09:00
+456,INC-0456,7,22,Crowd surge at an industrial unit in Mahim; police assistance requested,2,3,6,RESOLVED,2026-10-30T11:08:00,2026-10-30T11:08:00,2026-10-30T11:13:00
+457,INC-0457,3,50,Road accident at a residential block in Dahisar: two vehicles collided,2,3,8,CANCELLED,2026-10-30T11:14:00,2026-10-30T11:14:00,2026-10-30T11:19:00
+458,INC-0458,2,16,Multiple people unwell at an industrial unit in Worli after food poisoning,1,1,4,RESOLVED,2026-10-30T11:34:00,2026-10-30T11:34:00,2026-10-30T11:39:00
+459,INC-0459,2,39,"Elderly resident unconscious near the Andheri flyover, ambulance needed",2,2,2,RESOLVED,2026-10-30T13:05:00,2026-10-30T13:05:00,2026-10-30T13:10:00
+460,INC-0460,3,26,"Motorcycle accident near Govandi station, traffic blocked",1,1,20,RESOLVED,2026-10-30T15:15:00,2026-10-30T15:15:00,2026-10-30T15:20:00
+461,INC-0461,3,49,Bus and truck collision at a residential block in Borivali with injuries,3,2,9,RESOLVED,2026-10-30T17:17:00,2026-10-30T17:17:00,2026-10-30T17:22:00
+462,INC-0462,1,12,Short-circuit fire on the main road in Byculla; residents evacuating,1,2,14,CANCELLED,2026-10-30T17:48:00,2026-10-30T17:48:00,2026-10-30T17:53:00
+463,INC-0463,6,48,Gas leak on the main road in Kandivali; area cordoned off,4,4,18,RESOLVED,2026-10-30T17:50:00,2026-10-30T17:50:00,2026-10-30T17:55:00
+464,INC-0464,5,35,Building collapse near the Sakinaka flyover; people trapped under debris,5,5,21,RESOLVED,2026-10-30T18:03:00,2026-10-30T18:03:00,2026-10-30T18:08:00
+465,INC-0465,3,48,"Motorcycle accident at an industrial unit in Kandivali, traffic blocked",3,3,10,CANCELLED,2026-10-30T18:26:00,2026-10-30T18:26:00,2026-10-30T18:31:00
+466,INC-0466,3,19,Bus and truck collision at a residential block in Dadar with injuries,1,2,3,ARCHIVED,2026-10-30T18:49:00,2026-10-30T18:49:00,2026-10-30T18:54:00
+467,INC-0467,1,12,Warehouse fire near Byculla station spreading to adjacent shops,5,5,17,ARCHIVED,2026-10-30T21:29:00,2026-10-30T21:29:00,2026-10-30T21:34:00
+468,INC-0468,2,3,Multiple people unwell on the main road in Nariman Point after food poisoning,1,2,6,ARCHIVED,2026-10-30T22:17:00,2026-10-30T22:17:00,2026-10-30T22:22:00
+469,INC-0469,2,4,"Elderly resident unconscious at an industrial unit in Fort, ambulance needed",3,2,1,ARCHIVED,2026-10-30T22:27:00,2026-10-30T22:27:00,2026-10-30T22:32:00
+470,INC-0470,1,16,Warehouse fire at a residential block in Worli spreading to adjacent shops,4,5,14,CANCELLED,2026-10-30T23:55:00,2026-10-30T23:55:00,2026-10-31T00:00:00
+471,INC-0471,1,42,Short-circuit fire in the Jogeshwari market area; residents evacuating,1,1,4,RESOLVED,2026-10-31T00:29:00,2026-10-31T00:29:00,2026-10-31T00:34:00
+472,INC-0472,2,47,Multiple people unwell at an industrial unit in Malad after food poisoning,1,2,4,ARCHIVED,2026-10-31T00:31:00,2026-10-31T00:31:00,2026-10-31T00:36:00
+473,INC-0473,3,3,"Motorcycle accident at an industrial unit in Nariman Point, traffic blocked",2,2,8,RESOLVED,2026-10-31T01:35:00,2026-10-31T01:35:00,2026-10-31T01:40:00
+474,INC-0474,3,21,Road accident on the main road in Matunga: two vehicles collided,3,2,11,CANCELLED,2026-10-31T02:11:00,2026-10-31T02:11:00,2026-10-31T02:16:00
+475,INC-0475,6,17,"Water main burst on the main road in Prabhadevi, supply disrupted",4,5,97,ARCHIVED,2026-10-31T02:18:00,2026-10-31T02:18:00,2026-10-31T02:23:00
+476,INC-0476,4,11,"Water logging near the Tardeo flyover, drain overflow and stranded commuters",5,5,24,CANCELLED,2026-10-31T03:02:00,2026-10-31T03:02:00,2026-10-31T03:07:00
+477,INC-0477,2,14,Multiple people unwell near the Lower Parel flyover after food poisoning,3,3,2,RESOLVED,2026-10-31T03:11:00,2026-10-31T03:11:00,2026-10-31T03:16:00
+478,INC-0478,1,8,Short-circuit fire at a residential block in Grant Road; residents evacuating,3,3,23,RESOLVED,2026-10-31T05:50:00,2026-10-31T05:50:00,2026-10-31T05:55:00
+479,INC-0479,1,46,Short-circuit fire at a residential block in Mulund; residents evacuating,1,1,7,RESOLVED,2026-10-31T05:53:00,2026-10-31T05:53:00,2026-10-31T05:58:00
+480,INC-0480,2,4,Multiple people unwell in the Fort market area after food poisoning,3,4,1,RESOLVED,2026-10-31T05:59:00,2026-10-31T05:59:00,2026-10-31T06:04:00
+481,INC-0481,8,4,Tree fall on the main road in Fort blocking road,2,1,28,RESOLVED,2026-10-31T07:08:00,2026-10-31T07:08:00,2026-10-31T07:13:00
+482,INC-0482,2,27,"Elderly resident unconscious near Bandra station, ambulance needed",2,2,1,CANCELLED,2026-10-31T07:11:00,2026-10-31T07:11:00,2026-10-31T07:16:00
+483,INC-0483,2,45,"Elderly resident unconscious at a residential block in Goregaon, ambulance needed",3,3,1,CANCELLED,2026-10-31T08:01:00,2026-10-31T08:01:00,2026-10-31T08:06:00
+484,INC-0484,1,49,Fire reported at an industrial unit in Borivali with heavy smoke,5,5,77,RESOLVED,2026-10-31T09:15:00,2026-10-31T09:15:00,2026-10-31T09:20:00
+485,INC-0485,1,29,Fire reported at a residential block in Bandra Kurla Complex with heavy smoke,1,1,8,CANCELLED,2026-10-31T09:48:00,2026-10-31T09:48:00,2026-10-31T09:53:00
+486,INC-0486,2,47,"Elderly resident unconscious on the main road in Malad, ambulance needed",3,3,5,RESOLVED,2026-10-31T10:01:00,2026-10-31T10:01:00,2026-10-31T10:06:00
+487,INC-0487,2,13,Medical emergency on the main road in Lalbaug: patient with chest pain,2,2,1,ARCHIVED,2026-10-31T10:09:00,2026-10-31T10:09:00,2026-10-31T10:14:00
+488,INC-0488,7,12,Crowd surge near Byculla station; police assistance requested,3,4,24,RESOLVED,2026-10-31T11:27:00,2026-10-31T11:27:00,2026-10-31T11:32:00
+489,INC-0489,3,20,Bus and truck collision in the Antop Hill market area with injuries,3,2,10,RESOLVED,2026-10-31T11:37:00,2026-10-31T11:37:00,2026-10-31T11:42:00
+490,INC-0490,7,13,Public safety incident at an industrial unit in Lalbaug: unattended suspicious bag,2,3,19,RESOLVED,2026-10-31T12:09:00,2026-10-31T12:09:00,2026-10-31T12:14:00
+491,INC-0491,2,22,Medical emergency at a residential block in Mahim: patient with chest pain,2,2,1,RESOLVED,2026-10-31T12:54:00,2026-10-31T12:54:00,2026-10-31T12:59:00
+492,INC-0492,6,47,"Water main burst near the Malad flyover, supply disrupted",4,3,20,CANCELLED,2026-10-31T13:56:00,2026-10-31T13:56:00,2026-10-31T14:01:00
+493,INC-0493,4,11,"Water logging near Tardeo station, drain overflow and stranded commuters",4,3,14,ARCHIVED,2026-10-31T14:20:00,2026-10-31T14:20:00,2026-10-31T14:25:00
+494,INC-0494,4,2,"Water logging near Cuffe Parade station, drain overflow and stranded commuters",3,2,13,RESOLVED,2026-10-31T14:45:00,2026-10-31T14:45:00,2026-10-31T14:50:00
+495,INC-0495,8,24,Tree fall in the Sion market area blocking road,3,3,25,ARCHIVED,2026-10-31T15:01:00,2026-10-31T15:01:00,2026-10-31T15:06:00
+496,INC-0496,2,12,Multiple people unwell in the Byculla market area after food poisoning,4,4,2,RESOLVED,2026-10-31T15:15:00,2026-10-31T15:15:00,2026-10-31T15:20:00
+497,INC-0497,1,44,Short-circuit fire near Aarey Colony station; residents evacuating,4,4,19,RESOLVED,2026-10-31T16:40:00,2026-10-31T16:40:00,2026-10-31T16:45:00
+498,INC-0498,6,46,Power outage at an industrial unit in Mulund affecting hundreds of homes,3,2,21,ARCHIVED,2026-10-31T17:06:00,2026-10-31T17:06:00,2026-10-31T17:11:00
+499,INC-0499,3,43,Road accident near the Bhandup flyover: two vehicles collided,3,3,11,CANCELLED,2026-10-31T18:27:00,2026-10-31T18:27:00,2026-10-31T18:32:00
+500,INC-0500,4,39,Severe water logging at a residential block in Andheri; vehicles stranded,2,1,9,RESOLVED,2026-10-31T19:23:00,2026-10-31T19:23:00,2026-10-31T19:28:00
+501,INC-0501,3,42,Road accident at a residential block in Jogeshwari: two vehicles collided,3,4,34,RESOLVED,2026-10-31T20:03:00,2026-10-31T20:03:00,2026-10-31T20:08:00
+502,INC-0502,2,13,Medical emergency at a residential block in Lalbaug: patient with chest pain,4,4,5,RESOLVED,2026-10-31T20:28:00,2026-10-31T20:28:00,2026-10-31T20:33:00
+503,INC-0503,6,14,"Water main burst at a residential block in Lower Parel, supply disrupted",2,3,6,ARCHIVED,2026-10-31T21:24:00,2026-10-31T21:24:00,2026-10-31T21:29:00
+504,INC-0504,7,18,Crowd surge at an industrial unit in Wadala; police assistance requested,4,3,16,CANCELLED,2026-10-31T21:43:00,2026-10-31T21:43:00,2026-10-31T21:48:00
+505,INC-0505,3,25,"Motorcycle accident near the Mankhurd flyover, traffic blocked",3,2,10,ARCHIVED,2026-10-31T22:15:00,2026-10-31T22:15:00,2026-10-31T22:20:00
+506,INC-0506,3,32,Bus and truck collision near Santacruz station with injuries,3,3,18,RESOLVED,2026-11-01T00:05:00,2026-11-01T00:05:00,2026-11-01T00:10:00
+507,INC-0507,4,1,"Water logging on the main road in Colaba, drain overflow and stranded commuters",3,3,14,RESOLVED,2026-11-01T00:29:00,2026-11-01T00:29:00,2026-11-01T00:34:00
+508,INC-0508,2,30,Multiple people unwell in the Khar market area after food poisoning,2,2,7,RESOLVED,2026-11-01T01:33:00,2026-11-01T01:33:00,2026-11-01T01:38:00
+509,INC-0509,2,6,Medical emergency on the main road in Girgaon: patient with chest pain,5,5,2,ARCHIVED,2026-11-01T04:07:00,2026-11-01T04:07:00,2026-11-01T04:12:00
+510,INC-0510,2,18,"Elderly resident unconscious on the main road in Wadala, ambulance needed",2,1,1,RESOLVED,2026-11-01T04:26:00,2026-11-01T04:26:00,2026-11-01T04:31:00
+511,INC-0511,4,47,Severe water logging in the Malad market area; vehicles stranded,3,3,43,RESOLVED,2026-11-01T04:43:00,2026-11-01T04:43:00,2026-11-01T04:48:00
+512,INC-0512,6,3,Gas leak in the Nariman Point market area; area cordoned off,1,2,4,RESOLVED,2026-11-01T05:00:00,2026-11-01T05:00:00,2026-11-01T05:05:00
+513,INC-0513,6,49,Power outage at an industrial unit in Borivali affecting hundreds of homes,4,5,36,RESOLVED,2026-11-01T05:42:00,2026-11-01T05:42:00,2026-11-01T05:47:00
+514,INC-0514,1,27,Fire reported at an industrial unit in Bandra with heavy smoke,2,2,6,RESOLVED,2026-11-01T06:00:00,2026-11-01T06:00:00,2026-11-01T06:05:00
+515,INC-0515,5,46,Partial building collapse in the Mulund market area after heavy rain,5,5,19,CANCELLED,2026-11-01T07:09:00,2026-11-01T07:09:00,2026-11-01T07:14:00
+516,INC-0516,2,30,Multiple people unwell in the Khar market area after food poisoning,1,2,1,RESOLVED,2026-11-01T07:52:00,2026-11-01T07:52:00,2026-11-01T07:57:00
+517,INC-0517,6,1,"Water main burst at an industrial unit in Colaba, supply disrupted",2,2,7,RESOLVED,2026-11-01T07:59:00,2026-11-01T07:59:00,2026-11-01T08:04:00
+518,INC-0518,5,23,Building collapse at an industrial unit in Dharavi; people trapped under debris,5,4,38,CANCELLED,2026-11-01T08:11:00,2026-11-01T08:11:00,2026-11-01T08:16:00
+519,INC-0519,7,42,Public safety incident near Jogeshwari station: unattended suspicious bag,4,5,12,CANCELLED,2026-11-01T09:07:00,2026-11-01T09:07:00,2026-11-01T09:12:00
+520,INC-0520,5,11,Partial building collapse near Tardeo station after heavy rain,5,4,16,ARCHIVED,2026-11-01T10:10:00,2026-11-01T10:10:00,2026-11-01T10:15:00
+521,INC-0521,1,7,Short-circuit fire at an industrial unit in Malabar Hill; residents evacuating,3,3,24,RESOLVED,2026-11-01T10:33:00,2026-11-01T10:33:00,2026-11-01T10:38:00
+522,INC-0522,1,14,Fire reported in the Lower Parel market area with heavy smoke,2,3,9,CANCELLED,2026-11-01T11:01:00,2026-11-01T11:01:00,2026-11-01T11:06:00
+523,INC-0523,2,25,Multiple people unwell on the main road in Mankhurd after food poisoning,1,1,1,RESOLVED,2026-11-01T11:36:00,2026-11-01T11:36:00,2026-11-01T11:41:00
+524,INC-0524,3,27,Road accident at an industrial unit in Bandra: two vehicles collided,4,3,14,RESOLVED,2026-11-01T11:57:00,2026-11-01T11:57:00,2026-11-01T12:02:00
+525,INC-0525,3,40,Bus and truck collision on the main road in Kanjurmarg with injuries,3,2,55,CANCELLED,2026-11-01T13:11:00,2026-11-01T13:11:00,2026-11-01T13:16:00
+526,INC-0526,3,14,"Motorcycle accident on the main road in Lower Parel, traffic blocked",3,3,669,CANCELLED,2026-11-01T13:13:00,2026-11-01T13:13:00,2026-11-01T13:18:00
+527,INC-0527,7,11,Crowd surge near the Tardeo flyover; police assistance requested,3,2,9,ARCHIVED,2026-11-01T14:49:00,2026-11-01T14:49:00,2026-11-01T14:54:00
+528,INC-0528,7,6,Public safety incident at a residential block in Girgaon: unattended suspicious bag,2,1,8,ARCHIVED,2026-11-01T16:11:00,2026-11-01T16:11:00,2026-11-01T16:16:00
+529,INC-0529,1,18,Short-circuit fire near Wadala station; residents evacuating,3,2,31,CANCELLED,2026-11-01T17:20:00,2026-11-01T17:20:00,2026-11-01T17:25:00
+530,INC-0530,2,22,Multiple people unwell on the main road in Mahim after food poisoning,1,1,2,CANCELLED,2026-11-01T17:41:00,2026-11-01T17:41:00,2026-11-01T17:46:00
+531,INC-0531,2,26,"Elderly resident unconscious near Govandi station, ambulance needed",3,4,1,RESOLVED,2026-11-01T18:09:00,2026-11-01T18:09:00,2026-11-01T18:14:00
+532,INC-0532,4,17,Severe water logging near the Prabhadevi flyover; vehicles stranded,2,2,9,RESOLVED,2026-11-01T18:18:00,2026-11-01T18:18:00,2026-11-01T18:23:00
+533,INC-0533,1,2,Short-circuit fire near Cuffe Parade station; residents evacuating,3,2,15,ARCHIVED,2026-11-01T21:23:00,2026-11-01T21:23:00,2026-11-01T21:28:00
+534,INC-0534,2,1,Medical emergency at a residential block in Colaba: patient with chest pain,5,5,16,ARCHIVED,2026-11-01T21:31:00,2026-11-01T21:31:00,2026-11-01T21:36:00
+535,INC-0535,4,11,Severe water logging near Tardeo station; vehicles stranded,3,2,9,CANCELLED,2026-11-01T21:32:00,2026-11-01T21:32:00,2026-11-01T21:37:00
+536,INC-0536,7,30,Public safety incident on the main road in Khar: unattended suspicious bag,4,5,15,RESOLVED,2026-11-01T22:02:00,2026-11-01T22:02:00,2026-11-01T22:07:00
+537,INC-0537,3,44,"Motorcycle accident in the Aarey Colony market area, traffic blocked",2,2,21,ARCHIVED,2026-11-01T22:44:00,2026-11-01T22:44:00,2026-11-01T22:49:00
+538,INC-0538,1,19,Fire reported at a residential block in Dadar with heavy smoke,4,3,186,RESOLVED,2026-11-01T23:21:00,2026-11-01T23:21:00,2026-11-01T23:26:00
+539,INC-0539,2,11,Medical emergency in the Tardeo market area: patient with chest pain,3,3,9,RESOLVED,2026-11-01T23:28:00,2026-11-01T23:28:00,2026-11-01T23:33:00
+540,INC-0540,1,49,Fire reported near Borivali station with heavy smoke,2,1,7,RESOLVED,2026-11-02T00:07:00,2026-11-02T00:07:00,2026-11-02T00:12:00
+541,INC-0541,2,20,Multiple people unwell in the Antop Hill market area after food poisoning,5,5,3,CANCELLED,2026-11-02T00:16:00,2026-11-02T00:16:00,2026-11-02T00:21:00
+542,INC-0542,3,17,Bus and truck collision at a residential block in Prabhadevi with injuries,2,3,16,ARCHIVED,2026-11-02T02:13:00,2026-11-02T02:13:00,2026-11-02T02:18:00
+543,INC-0543,4,33,Severe water logging at an industrial unit in Ghatkopar; vehicles stranded,3,2,36,RESOLVED,2026-11-02T03:02:00,2026-11-02T03:02:00,2026-11-02T03:07:00
+544,INC-0544,3,30,Road accident near Khar station: two vehicles collided,2,1,8,ARCHIVED,2026-11-02T04:05:00,2026-11-02T04:05:00,2026-11-02T04:10:00
+545,INC-0545,3,6,Road accident on the main road in Girgaon: two vehicles collided,2,2,11,RESOLVED,2026-11-02T05:17:00,2026-11-02T05:17:00,2026-11-02T05:22:00
+546,INC-0546,2,39,Medical emergency at an industrial unit in Andheri: patient with chest pain,2,2,15,RESOLVED,2026-11-02T05:32:00,2026-11-02T05:32:00,2026-11-02T05:37:00
+547,INC-0547,1,50,Warehouse fire at a residential block in Dahisar spreading to adjacent shops,1,1,4,RESOLVED,2026-11-02T05:46:00,2026-11-02T05:46:00,2026-11-02T05:51:00
+548,INC-0548,3,49,Bus and truck collision at a residential block in Borivali with injuries,4,4,30,RESOLVED,2026-11-02T07:38:00,2026-11-02T07:38:00,2026-11-02T07:43:00
+549,INC-0549,3,35,Bus and truck collision near Sakinaka station with injuries,4,5,12,RESOLVED,2026-11-02T09:26:00,2026-11-02T09:26:00,2026-11-02T09:31:00
+550,INC-0550,2,43,"Elderly resident unconscious on the main road in Bhandup, ambulance needed",2,1,8,CANCELLED,2026-11-02T10:19:00,2026-11-02T10:19:00,2026-11-02T10:24:00
+551,INC-0551,3,17,Bus and truck collision at an industrial unit in Prabhadevi with injuries,1,2,4,RESOLVED,2026-11-02T11:15:00,2026-11-02T11:15:00,2026-11-02T11:20:00
+552,INC-0552,3,17,"Motorcycle accident on the main road in Prabhadevi, traffic blocked",3,4,26,RESOLVED,2026-11-02T11:40:00,2026-11-02T11:40:00,2026-11-02T11:45:00
+553,INC-0553,4,22,Flooding near Mahim station entering ground-floor homes,3,3,48,RESOLVED,2026-11-02T11:53:00,2026-11-02T11:53:00,2026-11-02T11:58:00
+554,INC-0554,6,30,"Water main burst at an industrial unit in Khar, supply disrupted",3,2,14,RESOLVED,2026-11-02T12:36:00,2026-11-02T12:36:00,2026-11-02T12:41:00
+555,INC-0555,3,17,Road accident at a residential block in Prabhadevi: two vehicles collided,2,2,3823,RESOLVED,2026-11-02T15:15:00,2026-11-02T15:15:00,2026-11-02T15:20:00
+556,INC-0556,4,5,"Water logging at an industrial unit in Marine Lines, drain overflow and stranded commuters",4,4,18,RESOLVED,2026-11-02T15:52:00,2026-11-02T15:52:00,2026-11-02T15:57:00
+557,INC-0557,2,46,"Elderly resident unconscious at a residential block in Mulund, ambulance needed",4,4,10,ARCHIVED,2026-11-02T16:35:00,2026-11-02T16:35:00,2026-11-02T16:40:00
+558,INC-0558,7,39,Public safety incident near Andheri station: unattended suspicious bag,2,2,6,RESOLVED,2026-11-02T16:47:00,2026-11-02T16:47:00,2026-11-02T16:52:00
+559,INC-0559,1,49,Short-circuit fire in the Borivali market area; residents evacuating,3,3,17,RESOLVED,2026-11-02T17:57:00,2026-11-02T17:57:00,2026-11-02T18:02:00
+560,INC-0560,2,3,Medical emergency on the main road in Nariman Point: patient with chest pain,2,1,10,ARCHIVED,2026-11-02T18:06:00,2026-11-02T18:06:00,2026-11-02T18:11:00
+561,INC-0561,2,22,Multiple people unwell near Mahim station after food poisoning,3,3,4,RESOLVED,2026-11-02T18:18:00,2026-11-02T18:18:00,2026-11-02T18:23:00
+562,INC-0562,5,47,Building collapse at a residential block in Malad; people trapped under debris,5,5,19,CANCELLED,2026-11-02T19:02:00,2026-11-02T19:02:00,2026-11-02T19:07:00
+563,INC-0563,1,3,Warehouse fire near the Nariman Point flyover spreading to adjacent shops,2,1,12,RESOLVED,2026-11-02T19:13:00,2026-11-02T19:13:00,2026-11-02T19:18:00
+564,INC-0564,6,11,Power outage at a residential block in Tardeo affecting hundreds of homes,2,2,6,RESOLVED,2026-11-02T19:33:00,2026-11-02T19:33:00,2026-11-02T19:38:00
+565,INC-0565,3,13,"Motorcycle accident at an industrial unit in Lalbaug, traffic blocked",2,2,14,RESOLVED,2026-11-02T19:37:00,2026-11-02T19:37:00,2026-11-02T19:42:00
+566,INC-0566,3,44,"Motorcycle accident on the main road in Aarey Colony, traffic blocked",4,4,65,CANCELLED,2026-11-02T19:40:00,2026-11-02T19:40:00,2026-11-02T19:45:00
+567,INC-0567,6,48,Gas leak at a residential block in Kandivali; area cordoned off,3,4,28,RESOLVED,2026-11-02T19:42:00,2026-11-02T19:42:00,2026-11-02T19:47:00
+568,INC-0568,4,18,Flooding near the Wadala flyover entering ground-floor homes,4,4,33,RESOLVED,2026-11-02T20:56:00,2026-11-02T20:56:00,2026-11-02T21:01:00
+569,INC-0569,4,17,Severe water logging at an industrial unit in Prabhadevi; vehicles stranded,4,4,40,RESOLVED,2026-11-02T21:24:00,2026-11-02T21:24:00,2026-11-02T21:29:00
+570,INC-0570,3,39,Bus and truck collision at a residential block in Andheri with injuries,3,3,18,ARCHIVED,2026-11-02T22:51:00,2026-11-02T22:51:00,2026-11-02T22:56:00
+571,INC-0571,2,48,"Elderly resident unconscious at an industrial unit in Kandivali, ambulance needed",2,2,3,RESOLVED,2026-11-02T23:09:00,2026-11-02T23:09:00,2026-11-02T23:14:00
+572,INC-0572,2,6,Multiple people unwell on the main road in Girgaon after food poisoning,1,1,4,RESOLVED,2026-11-02T23:13:00,2026-11-02T23:13:00,2026-11-02T23:18:00
+573,INC-0573,5,20,Partial building collapse at a residential block in Antop Hill after heavy rain,3,4,14,RESOLVED,2026-11-02T23:26:00,2026-11-02T23:26:00,2026-11-02T23:31:00
+574,INC-0574,7,34,Public safety incident near Vile Parle station: unattended suspicious bag,3,3,37,CANCELLED,2026-11-02T23:29:00,2026-11-02T23:29:00,2026-11-02T23:34:00
+575,INC-0575,2,12,Medical emergency in the Byculla market area: patient with chest pain,3,2,3,RESOLVED,2026-11-03T00:38:00,2026-11-03T00:38:00,2026-11-03T00:43:00
+576,INC-0576,4,36,Severe water logging on the main road in Juhu; vehicles stranded,2,1,6,RESOLVED,2026-11-03T01:45:00,2026-11-03T01:45:00,2026-11-03T01:50:00
+577,INC-0577,1,47,Warehouse fire on the main road in Malad spreading to adjacent shops,5,5,18,RESOLVED,2026-11-03T02:33:00,2026-11-03T02:33:00,2026-11-03T02:38:00
+578,INC-0578,7,18,Public safety incident at an industrial unit in Wadala: unattended suspicious bag,3,3,28,RESOLVED,2026-11-03T02:50:00,2026-11-03T02:50:00,2026-11-03T02:55:00
+579,INC-0579,2,43,"Elderly resident unconscious in the Bhandup market area, ambulance needed",3,3,1,RESOLVED,2026-11-03T03:54:00,2026-11-03T03:54:00,2026-11-03T03:59:00
+580,INC-0580,1,4,Warehouse fire at an industrial unit in Fort spreading to adjacent shops,2,1,8,RESOLVED,2026-11-03T05:08:00,2026-11-03T05:08:00,2026-11-03T05:13:00
+581,INC-0581,5,13,Partial building collapse at a residential block in Lalbaug after heavy rain,4,4,12,RESOLVED,2026-11-03T05:09:00,2026-11-03T05:09:00,2026-11-03T05:14:00
+582,INC-0582,1,50,Fire reported on the main road in Dahisar with heavy smoke,2,3,16,RESOLVED,2026-11-03T05:49:00,2026-11-03T05:49:00,2026-11-03T05:54:00
+583,INC-0583,2,11,Medical emergency in the Tardeo market area: patient with chest pain,4,3,10,RESOLVED,2026-11-03T07:04:00,2026-11-03T07:04:00,2026-11-03T07:09:00
+584,INC-0584,3,21,"Motorcycle accident at an industrial unit in Matunga, traffic blocked",3,2,14,ARCHIVED,2026-11-03T07:11:00,2026-11-03T07:11:00,2026-11-03T07:16:00
+585,INC-0585,1,4,Fire reported on the main road in Fort with heavy smoke,3,2,9,RESOLVED,2026-11-03T07:16:00,2026-11-03T07:16:00,2026-11-03T07:21:00
+586,INC-0586,2,14,Medical emergency at an industrial unit in Lower Parel: patient with chest pain,5,5,4,RESOLVED,2026-11-03T10:35:00,2026-11-03T10:35:00,2026-11-03T10:40:00
+587,INC-0587,4,11,Severe water logging at a residential block in Tardeo; vehicles stranded,3,3,41,ARCHIVED,2026-11-03T10:41:00,2026-11-03T10:41:00,2026-11-03T10:46:00
+588,INC-0588,4,36,"Water logging at an industrial unit in Juhu, drain overflow and stranded commuters",3,2,85,RESOLVED,2026-11-03T10:42:00,2026-11-03T10:42:00,2026-11-03T10:47:00
+589,INC-0589,4,20,Severe water logging on the main road in Antop Hill; vehicles stranded,2,2,7,ARCHIVED,2026-11-03T12:17:00,2026-11-03T12:17:00,2026-11-03T12:22:00
+590,INC-0590,1,50,Warehouse fire near the Dahisar flyover spreading to adjacent shops,4,4,14,RESOLVED,2026-11-03T12:39:00,2026-11-03T12:39:00,2026-11-03T12:44:00
+591,INC-0591,5,49,Partial building collapse at an industrial unit in Borivali after heavy rain,5,5,20,ARCHIVED,2026-11-03T13:28:00,2026-11-03T13:28:00,2026-11-03T13:33:00
+592,INC-0592,3,44,Bus and truck collision on the main road in Aarey Colony with injuries,2,2,76,RESOLVED,2026-11-03T14:41:00,2026-11-03T14:41:00,2026-11-03T14:46:00
+593,INC-0593,6,28,"Water main burst at an industrial unit in Chembur, supply disrupted",3,3,13,ARCHIVED,2026-11-03T15:34:00,2026-11-03T15:34:00,2026-11-03T15:39:00
+594,INC-0594,2,13,"Elderly resident unconscious at a residential block in Lalbaug, ambulance needed",2,3,4,CANCELLED,2026-11-03T16:00:00,2026-11-03T16:00:00,2026-11-03T16:05:00
+595,INC-0595,2,36,Multiple people unwell on the main road in Juhu after food poisoning,4,3,3,RESOLVED,2026-11-03T16:39:00,2026-11-03T16:39:00,2026-11-03T16:44:00
+596,INC-0596,2,31,"Elderly resident unconscious near the Kurla flyover, ambulance needed",1,1,2,RESOLVED,2026-11-03T16:51:00,2026-11-03T16:51:00,2026-11-03T16:56:00
+597,INC-0597,8,43,Stranded lift passengers near Bhandup station,3,4,13,RESOLVED,2026-11-03T17:13:00,2026-11-03T17:13:00,2026-11-03T17:18:00
+598,INC-0598,2,4,Multiple people unwell near Fort station after food poisoning,3,4,7,CANCELLED,2026-11-03T17:34:00,2026-11-03T17:34:00,2026-11-03T17:39:00
+599,INC-0599,2,9,"Elderly resident unconscious near Mumbai Central station, ambulance needed",3,2,4,RESOLVED,2026-11-03T18:23:00,2026-11-03T18:23:00,2026-11-03T18:28:00
+600,INC-0600,7,12,Crowd surge in the Byculla market area; police assistance requested,2,2,79,CANCELLED,2026-11-03T18:32:00,2026-11-03T18:32:00,2026-11-03T18:37:00
+601,INC-0601,3,42,"Motorcycle accident near Jogeshwari station, traffic blocked",2,1,6,RESOLVED,2026-11-03T19:27:00,2026-11-03T19:27:00,2026-11-03T19:32:00
+602,INC-0602,4,21,"Water logging at an industrial unit in Matunga, drain overflow and stranded commuters",5,4,20,RESOLVED,2026-11-03T20:41:00,2026-11-03T20:41:00,2026-11-03T20:46:00
+603,INC-0603,6,30,"Water main burst near the Khar flyover, supply disrupted",2,2,28,RESOLVED,2026-11-03T20:43:00,2026-11-03T20:43:00,2026-11-03T20:48:00
+604,INC-0604,4,40,Flooding on the main road in Kanjurmarg entering ground-floor homes,3,2,135,CANCELLED,2026-11-03T20:44:00,2026-11-03T20:44:00,2026-11-03T20:49:00
+605,INC-0605,7,43,Public safety incident in the Bhandup market area: unattended suspicious bag,2,2,7,RESOLVED,2026-11-03T21:23:00,2026-11-03T21:23:00,2026-11-03T21:28:00
+606,INC-0606,1,30,Short-circuit fire at a residential block in Khar; residents evacuating,2,3,8,RESOLVED,2026-11-03T21:31:00,2026-11-03T21:31:00,2026-11-03T21:36:00
+607,INC-0607,3,26,Bus and truck collision near the Govandi flyover with injuries,4,4,14,ARCHIVED,2026-11-03T21:38:00,2026-11-03T21:38:00,2026-11-03T21:43:00
+608,INC-0608,7,49,Crowd surge near Borivali station; police assistance requested,1,1,4,RESOLVED,2026-11-03T21:44:00,2026-11-03T21:44:00,2026-11-03T21:49:00
+609,INC-0609,4,34,Severe water logging in the Vile Parle market area; vehicles stranded,3,3,38,ARCHIVED,2026-11-03T21:47:00,2026-11-03T21:47:00,2026-11-03T21:52:00
+610,INC-0610,7,4,Crowd surge at an industrial unit in Fort; police assistance requested,4,3,14,ARCHIVED,2026-11-03T22:26:00,2026-11-03T22:26:00,2026-11-03T22:31:00
+611,INC-0611,2,1,Multiple people unwell in the Colaba market area after food poisoning,1,1,2,CANCELLED,2026-11-03T23:18:00,2026-11-03T23:18:00,2026-11-03T23:23:00
+612,INC-0612,6,25,Power outage on the main road in Mankhurd affecting hundreds of homes,4,3,13,RESOLVED,2026-11-04T02:10:00,2026-11-04T02:10:00,2026-11-04T02:15:00
+613,INC-0613,7,17,Public safety incident on the main road in Prabhadevi: unattended suspicious bag,1,1,3,RESOLVED,2026-11-04T06:29:00,2026-11-04T06:29:00,2026-11-04T06:34:00
+614,INC-0614,4,2,Flooding on the main road in Cuffe Parade entering ground-floor homes,3,3,27,RESOLVED,2026-11-04T06:43:00,2026-11-04T06:43:00,2026-11-04T06:48:00
+615,INC-0615,7,49,Crowd surge near Borivali station; police assistance requested,1,1,3,RESOLVED,2026-11-04T07:33:00,2026-11-04T07:33:00,2026-11-04T07:38:00
+616,INC-0616,7,18,Public safety incident near the Wadala flyover: unattended suspicious bag,2,2,8,ARCHIVED,2026-11-04T08:00:00,2026-11-04T08:00:00,2026-11-04T08:05:00
+617,INC-0617,4,18,Flooding at a residential block in Wadala entering ground-floor homes,4,4,12,ARCHIVED,2026-11-04T08:45:00,2026-11-04T08:45:00,2026-11-04T08:50:00
+618,INC-0618,7,42,Public safety incident near the Jogeshwari flyover: unattended suspicious bag,2,1,12,RESOLVED,2026-11-04T10:06:00,2026-11-04T10:06:00,2026-11-04T10:11:00
+619,INC-0619,2,27,Medical emergency on the main road in Bandra: patient with chest pain,3,3,3,ARCHIVED,2026-11-04T10:06:00,2026-11-04T10:06:00,2026-11-04T10:11:00
+620,INC-0620,1,42,Fire reported near the Jogeshwari flyover with heavy smoke,4,3,15,ARCHIVED,2026-11-04T10:55:00,2026-11-04T10:55:00,2026-11-04T11:00:00
+621,INC-0621,5,29,Partial building collapse near Bandra Kurla Complex station after heavy rain,3,3,9,RESOLVED,2026-11-04T11:30:00,2026-11-04T11:30:00,2026-11-04T11:35:00
+622,INC-0622,2,34,Medical emergency on the main road in Vile Parle: patient with chest pain,5,5,1,RESOLVED,2026-11-04T12:30:00,2026-11-04T12:30:00,2026-11-04T12:35:00
+623,INC-0623,4,50,Flooding near the Dahisar flyover entering ground-floor homes,3,2,22,CANCELLED,2026-11-04T13:00:00,2026-11-04T13:00:00,2026-11-04T13:05:00
+624,INC-0624,4,29,Severe water logging on the main road in Bandra Kurla Complex; vehicles stranded,3,4,24,RESOLVED,2026-11-04T13:47:00,2026-11-04T13:47:00,2026-11-04T13:52:00
+625,INC-0625,3,17,Bus and truck collision near the Prabhadevi flyover with injuries,4,3,23,RESOLVED,2026-11-04T14:06:00,2026-11-04T14:06:00,2026-11-04T14:11:00
+626,INC-0626,1,18,Fire reported at a residential block in Wadala with heavy smoke,1,1,18,RESOLVED,2026-11-04T14:57:00,2026-11-04T14:57:00,2026-11-04T15:02:00
+627,INC-0627,1,4,Fire reported at an industrial unit in Fort with heavy smoke,5,5,27,RESOLVED,2026-11-04T15:43:00,2026-11-04T15:43:00,2026-11-04T15:48:00
+628,INC-0628,5,12,Partial building collapse near the Byculla flyover after heavy rain,3,3,16,RESOLVED,2026-11-04T16:48:00,2026-11-04T16:48:00,2026-11-04T16:53:00
+629,INC-0629,7,47,Crowd surge near Malad station; police assistance requested,2,2,10,RESOLVED,2026-11-04T16:55:00,2026-11-04T16:55:00,2026-11-04T17:00:00
+630,INC-0630,3,20,Road accident in the Antop Hill market area: two vehicles collided,2,1,12,CANCELLED,2026-11-04T17:29:00,2026-11-04T17:29:00,2026-11-04T17:34:00
+631,INC-0631,7,15,Public safety incident at a residential block in Parel: unattended suspicious bag,4,5,12,RESOLVED,2026-11-04T17:32:00,2026-11-04T17:32:00,2026-11-04T17:37:00
+632,INC-0632,2,12,"Elderly resident unconscious at an industrial unit in Byculla, ambulance needed",3,3,4,ARCHIVED,2026-11-04T18:49:00,2026-11-04T18:49:00,2026-11-04T18:54:00
+633,INC-0633,8,44,Stranded lift passengers in the Aarey Colony market area,1,1,15,RESOLVED,2026-11-04T18:55:00,2026-11-04T18:55:00,2026-11-04T19:00:00
+634,INC-0634,3,46,Bus and truck collision near Mulund station with injuries,2,2,7,RESOLVED,2026-11-04T18:55:00,2026-11-04T18:55:00,2026-11-04T19:00:00
+635,INC-0635,7,15,Public safety incident in the Parel market area: unattended suspicious bag,3,3,13,RESOLVED,2026-11-04T19:16:00,2026-11-04T19:16:00,2026-11-04T19:21:00
+636,INC-0636,4,22,Flooding at a residential block in Mahim entering ground-floor homes,3,2,17,CANCELLED,2026-11-04T19:22:00,2026-11-04T19:22:00,2026-11-04T19:27:00
+637,INC-0637,8,15,Tree fall at a residential block in Parel blocking road,2,1,6,ARCHIVED,2026-11-04T20:38:00,2026-11-04T20:38:00,2026-11-04T20:43:00
+638,INC-0638,4,4,"Water logging near Fort station, drain overflow and stranded commuters",4,4,27,RESOLVED,2026-11-04T20:45:00,2026-11-04T20:45:00,2026-11-04T20:50:00
+639,INC-0639,7,15,Public safety incident near the Parel flyover: unattended suspicious bag,3,2,441,RESOLVED,2026-11-04T21:46:00,2026-11-04T21:46:00,2026-11-04T21:51:00
+640,INC-0640,6,3,Gas leak near Nariman Point station; area cordoned off,2,2,7,ARCHIVED,2026-11-04T23:27:00,2026-11-04T23:27:00,2026-11-04T23:32:00
+641,INC-0641,3,32,"Motorcycle accident on the main road in Santacruz, traffic blocked",3,4,9,RESOLVED,2026-11-04T23:27:00,2026-11-04T23:27:00,2026-11-04T23:32:00
+642,INC-0642,2,15,"Elderly resident unconscious at an industrial unit in Parel, ambulance needed",3,3,2,RESOLVED,2026-11-04T23:59:00,2026-11-04T23:59:00,2026-11-05T00:04:00
+643,INC-0643,7,26,Crowd surge at a residential block in Govandi; police assistance requested,4,5,61,RESOLVED,2026-11-05T00:27:00,2026-11-05T00:27:00,2026-11-05T00:32:00
+644,INC-0644,1,39,Fire reported at a residential block in Andheri with heavy smoke,3,4,12,RESOLVED,2026-11-05T01:39:00,2026-11-05T01:39:00,2026-11-05T01:44:00
+645,INC-0645,1,22,Fire reported at an industrial unit in Mahim with heavy smoke,4,4,21,RESOLVED,2026-11-05T02:13:00,2026-11-05T02:13:00,2026-11-05T02:18:00
+646,INC-0646,2,4,Multiple people unwell at an industrial unit in Fort after food poisoning,2,3,7,CANCELLED,2026-11-05T03:42:00,2026-11-05T03:42:00,2026-11-05T03:47:00
+647,INC-0647,4,25,"Water logging at a residential block in Mankhurd, drain overflow and stranded commuters",3,4,18,CANCELLED,2026-11-05T03:43:00,2026-11-05T03:43:00,2026-11-05T03:48:00
+648,INC-0648,4,16,Severe water logging in the Worli market area; vehicles stranded,5,5,84,RESOLVED,2026-11-05T05:12:00,2026-11-05T05:12:00,2026-11-05T05:17:00
+649,INC-0649,3,30,Bus and truck collision at a residential block in Khar with injuries,2,2,10,ARCHIVED,2026-11-05T09:09:00,2026-11-05T09:09:00,2026-11-05T09:14:00
+650,INC-0650,4,49,Flooding near the Borivali flyover entering ground-floor homes,3,4,12,RESOLVED,2026-11-05T11:44:00,2026-11-05T11:44:00,2026-11-05T11:49:00
+651,INC-0651,5,42,Partial building collapse near the Jogeshwari flyover after heavy rain,3,3,34,ARCHIVED,2026-11-05T12:48:00,2026-11-05T12:48:00,2026-11-05T12:53:00
+652,INC-0652,7,46,Crowd surge at an industrial unit in Mulund; police assistance requested,2,2,8,RESOLVED,2026-11-05T14:42:00,2026-11-05T14:42:00,2026-11-05T14:47:00
+653,INC-0653,2,11,"Elderly resident unconscious on the main road in Tardeo, ambulance needed",4,4,18,RESOLVED,2026-11-05T14:45:00,2026-11-05T14:45:00,2026-11-05T14:50:00
+654,INC-0654,2,11,"Elderly resident unconscious near Tardeo station, ambulance needed",2,3,2,RESOLVED,2026-11-05T15:40:00,2026-11-05T15:40:00,2026-11-05T15:45:00
+655,INC-0655,2,4,Medical emergency on the main road in Fort: patient with chest pain,2,2,3,RESOLVED,2026-11-05T15:55:00,2026-11-05T15:55:00,2026-11-05T16:00:00
+656,INC-0656,7,16,Crowd surge near Worli station; police assistance requested,1,1,3,ARCHIVED,2026-11-05T16:01:00,2026-11-05T16:01:00,2026-11-05T16:06:00
+657,INC-0657,1,45,Fire reported in the Goregaon market area with heavy smoke,3,3,9,CANCELLED,2026-11-05T16:37:00,2026-11-05T16:37:00,2026-11-05T16:42:00
+658,INC-0658,1,17,Short-circuit fire near Prabhadevi station; residents evacuating,3,4,16,RESOLVED,2026-11-05T17:03:00,2026-11-05T17:03:00,2026-11-05T17:08:00
+659,INC-0659,2,4,"Elderly resident unconscious at a residential block in Fort, ambulance needed",3,4,4,RESOLVED,2026-11-05T17:11:00,2026-11-05T17:11:00,2026-11-05T17:16:00
+660,INC-0660,2,43,Multiple people unwell near the Bhandup flyover after food poisoning,2,2,3,RESOLVED,2026-11-05T17:31:00,2026-11-05T17:31:00,2026-11-05T17:36:00
+661,INC-0661,2,11,"Elderly resident unconscious near the Tardeo flyover, ambulance needed",3,4,2,RESOLVED,2026-11-05T17:57:00,2026-11-05T17:57:00,2026-11-05T18:02:00
+662,INC-0662,6,21,Gas leak at an industrial unit in Matunga; area cordoned off,2,3,11,RESOLVED,2026-11-05T18:35:00,2026-11-05T18:35:00,2026-11-05T18:40:00
+663,INC-0663,7,48,Crowd surge in the Kandivali market area; police assistance requested,2,3,10,RESOLVED,2026-11-05T19:29:00,2026-11-05T19:29:00,2026-11-05T19:34:00
+664,INC-0664,2,17,Multiple people unwell near Prabhadevi station after food poisoning,4,4,2,ARCHIVED,2026-11-05T20:35:00,2026-11-05T20:35:00,2026-11-05T20:40:00
+665,INC-0665,5,13,Building collapse near the Lalbaug flyover; people trapped under debris,3,2,17,CANCELLED,2026-11-05T21:49:00,2026-11-05T21:49:00,2026-11-05T21:54:00
+666,INC-0666,2,39,Multiple people unwell near Andheri station after food poisoning,3,2,6,RESOLVED,2026-11-05T22:06:00,2026-11-05T22:06:00,2026-11-05T22:11:00
+667,INC-0667,4,16,"Water logging at an industrial unit in Worli, drain overflow and stranded commuters",3,3,16,RESOLVED,2026-11-05T22:13:00,2026-11-05T22:13:00,2026-11-05T22:18:00
+668,INC-0668,2,1,Medical emergency at an industrial unit in Colaba: patient with chest pain,4,3,1,RESOLVED,2026-11-05T22:17:00,2026-11-05T22:17:00,2026-11-05T22:22:00
+669,INC-0669,3,35,Road accident in the Sakinaka market area: two vehicles collided,2,3,10,RESOLVED,2026-11-05T22:45:00,2026-11-05T22:45:00,2026-11-05T22:50:00
+670,INC-0670,3,42,Road accident in the Jogeshwari market area: two vehicles collided,4,5,14,RESOLVED,2026-11-05T23:14:00,2026-11-05T23:14:00,2026-11-05T23:19:00
+671,INC-0671,5,19,Partial building collapse at a residential block in Dadar after heavy rain,4,4,162,RESOLVED,2026-11-05T23:23:00,2026-11-05T23:23:00,2026-11-05T23:28:00
+672,INC-0672,2,22,Medical emergency at an industrial unit in Mahim: patient with chest pain,5,5,8,ARCHIVED,2026-11-05T23:57:00,2026-11-05T23:57:00,2026-11-06T00:02:00
+673,INC-0673,1,3,Short-circuit fire on the main road in Nariman Point; residents evacuating,5,5,101,CANCELLED,2026-11-05T23:57:00,2026-11-05T23:57:00,2026-11-06T00:02:00
+674,INC-0674,2,7,Multiple people unwell on the main road in Malabar Hill after food poisoning,1,1,10,RESOLVED,2026-11-06T00:30:00,2026-11-06T00:30:00,2026-11-06T00:35:00
+675,INC-0675,3,15,Bus and truck collision at a residential block in Parel with injuries,1,1,3,ARCHIVED,2026-11-06T00:44:00,2026-11-06T00:44:00,2026-11-06T00:49:00
+676,INC-0676,3,43,"Motorcycle accident at a residential block in Bhandup, traffic blocked",4,4,49,RESOLVED,2026-11-06T01:03:00,2026-11-06T01:03:00,2026-11-06T01:08:00
+677,INC-0677,4,25,Flooding on the main road in Mankhurd entering ground-floor homes,5,5,165,ARCHIVED,2026-11-06T02:01:00,2026-11-06T02:01:00,2026-11-06T02:06:00
+678,INC-0678,2,44,Multiple people unwell on the main road in Aarey Colony after food poisoning,2,1,3,RESOLVED,2026-11-06T03:51:00,2026-11-06T03:51:00,2026-11-06T03:56:00
+679,INC-0679,6,41,Power outage in the Versova market area affecting hundreds of homes,1,1,11,ARCHIVED,2026-11-06T05:38:00,2026-11-06T05:38:00,2026-11-06T05:43:00
+680,INC-0680,1,32,Warehouse fire near the Santacruz flyover spreading to adjacent shops,5,5,26,RESOLVED,2026-11-06T05:43:00,2026-11-06T05:43:00,2026-11-06T05:48:00
+681,INC-0681,2,6,"Elderly resident unconscious near Girgaon station, ambulance needed",3,3,7,RESOLVED,2026-11-06T05:58:00,2026-11-06T05:58:00,2026-11-06T06:03:00
+682,INC-0682,1,18,Short-circuit fire at a residential block in Wadala; residents evacuating,5,5,15,RESOLVED,2026-11-06T06:47:00,2026-11-06T06:47:00,2026-11-06T06:52:00
+683,INC-0683,2,33,Multiple people unwell in the Ghatkopar market area after food poisoning,1,1,3,ARCHIVED,2026-11-06T07:01:00,2026-11-06T07:01:00,2026-11-06T07:06:00
+684,INC-0684,3,36,"Motorcycle accident at a residential block in Juhu, traffic blocked",4,4,24,ARCHIVED,2026-11-06T08:06:00,2026-11-06T08:06:00,2026-11-06T08:11:00
+685,INC-0685,6,6,Power outage in the Girgaon market area affecting hundreds of homes,2,2,6,ARCHIVED,2026-11-06T11:10:00,2026-11-06T11:10:00,2026-11-06T11:15:00
+686,INC-0686,2,26,"Elderly resident unconscious at a residential block in Govandi, ambulance needed",2,2,1,CANCELLED,2026-11-06T11:37:00,2026-11-06T11:37:00,2026-11-06T11:42:00
+687,INC-0687,3,33,Bus and truck collision near the Ghatkopar flyover with injuries,3,2,16,RESOLVED,2026-11-06T14:21:00,2026-11-06T14:21:00,2026-11-06T14:26:00
+688,INC-0688,2,24,Medical emergency at a residential block in Sion: patient with chest pain,2,1,14,RESOLVED,2026-11-06T15:19:00,2026-11-06T15:19:00,2026-11-06T15:24:00
+689,INC-0689,2,36,"Elderly resident unconscious near Juhu station, ambulance needed",1,1,3,CANCELLED,2026-11-06T15:37:00,2026-11-06T15:37:00,2026-11-06T15:42:00
+690,INC-0690,7,47,Public safety incident near the Malad flyover: unattended suspicious bag,1,2,3,CANCELLED,2026-11-06T16:55:00,2026-11-06T16:55:00,2026-11-06T17:00:00
+691,INC-0691,3,8,Bus and truck collision on the main road in Grant Road with injuries,3,4,12,RESOLVED,2026-11-06T17:32:00,2026-11-06T17:32:00,2026-11-06T17:37:00
+692,INC-0692,2,16,"Elderly resident unconscious on the main road in Worli, ambulance needed",4,5,5,RESOLVED,2026-11-06T18:24:00,2026-11-06T18:24:00,2026-11-06T18:29:00
+693,INC-0693,3,32,Road accident at a residential block in Santacruz: two vehicles collided,2,3,10,ARCHIVED,2026-11-06T18:52:00,2026-11-06T18:52:00,2026-11-06T18:57:00
+694,INC-0694,3,15,Road accident near Parel station: two vehicles collided,4,4,18,RESOLVED,2026-11-06T19:28:00,2026-11-06T19:28:00,2026-11-06T19:33:00
+695,INC-0695,4,24,Severe water logging at a residential block in Sion; vehicles stranded,3,4,9,ARCHIVED,2026-11-06T20:37:00,2026-11-06T20:37:00,2026-11-06T20:42:00
+696,INC-0696,1,30,Warehouse fire in the Khar market area spreading to adjacent shops,3,3,17,ARCHIVED,2026-11-06T21:10:00,2026-11-06T21:10:00,2026-11-06T21:15:00
+697,INC-0697,2,15,Medical emergency near Parel station: patient with chest pain,5,5,5,RESOLVED,2026-11-06T22:19:00,2026-11-06T22:19:00,2026-11-06T22:24:00
+698,INC-0698,3,27,"Motorcycle accident near the Bandra flyover, traffic blocked",2,2,7,RESOLVED,2026-11-06T22:48:00,2026-11-06T22:48:00,2026-11-06T22:53:00
+699,INC-0699,3,42,"Motorcycle accident on the main road in Jogeshwari, traffic blocked",1,2,5,RESOLVED,2026-11-07T00:07:00,2026-11-07T00:07:00,2026-11-07T00:12:00
+700,INC-0700,2,47,"Elderly resident unconscious near the Malad flyover, ambulance needed",3,3,6,ARCHIVED,2026-11-07T00:21:00,2026-11-07T00:21:00,2026-11-07T00:26:00
+701,INC-0701,2,49,Medical emergency on the main road in Borivali: patient with chest pain,2,3,5,CANCELLED,2026-11-07T02:39:00,2026-11-07T02:39:00,2026-11-07T02:44:00
+702,INC-0702,2,40,Medical emergency near the Kanjurmarg flyover: patient with chest pain,2,3,2,RESOLVED,2026-11-07T02:45:00,2026-11-07T02:45:00,2026-11-07T02:50:00
+703,INC-0703,8,50,Tree fall near Dahisar station blocking road,3,2,22,RESOLVED,2026-11-07T02:53:00,2026-11-07T02:53:00,2026-11-07T02:58:00
+704,INC-0704,3,12,Road accident at a residential block in Byculla: two vehicles collided,1,1,3,CANCELLED,2026-11-07T03:16:00,2026-11-07T03:16:00,2026-11-07T03:21:00
+705,INC-0705,6,44,"Water main burst at an industrial unit in Aarey Colony, supply disrupted",3,2,25,ARCHIVED,2026-11-07T03:27:00,2026-11-07T03:27:00,2026-11-07T03:32:00
+706,INC-0706,4,38,Flooding in the Powai market area entering ground-floor homes,2,1,11,RESOLVED,2026-11-07T03:55:00,2026-11-07T03:55:00,2026-11-07T04:00:00
+707,INC-0707,3,47,Bus and truck collision at an industrial unit in Malad with injuries,4,3,31,ARCHIVED,2026-11-07T04:09:00,2026-11-07T04:09:00,2026-11-07T04:14:00
+708,INC-0708,8,32,Tree fall on the main road in Santacruz blocking road,2,3,7,RESOLVED,2026-11-07T04:10:00,2026-11-07T04:10:00,2026-11-07T04:15:00
+709,INC-0709,3,18,Bus and truck collision in the Wadala market area with injuries,2,2,6,ARCHIVED,2026-11-07T04:36:00,2026-11-07T04:36:00,2026-11-07T04:41:00
+710,INC-0710,2,4,Medical emergency in the Fort market area: patient with chest pain,3,3,5,RESOLVED,2026-11-07T04:51:00,2026-11-07T04:51:00,2026-11-07T04:56:00
+711,INC-0711,1,3,Short-circuit fire near Nariman Point station; residents evacuating,5,5,20,RESOLVED,2026-11-07T05:03:00,2026-11-07T05:03:00,2026-11-07T05:08:00
+712,INC-0712,1,20,Fire reported on the main road in Antop Hill with heavy smoke,1,1,11,RESOLVED,2026-11-07T06:18:00,2026-11-07T06:18:00,2026-11-07T06:23:00
+713,INC-0713,8,43,Tree fall at a residential block in Bhandup blocking road,1,1,7,CANCELLED,2026-11-07T06:39:00,2026-11-07T06:39:00,2026-11-07T06:44:00
+714,INC-0714,3,19,"Motorcycle accident near the Dadar flyover, traffic blocked",3,3,10,RESOLVED,2026-11-07T09:18:00,2026-11-07T09:18:00,2026-11-07T09:23:00
+715,INC-0715,4,3,Flooding at an industrial unit in Nariman Point entering ground-floor homes,3,2,9,RESOLVED,2026-11-07T10:25:00,2026-11-07T10:25:00,2026-11-07T10:30:00
+716,INC-0716,8,3,Stranded lift passengers near Nariman Point station,2,1,7,CANCELLED,2026-11-07T10:38:00,2026-11-07T10:38:00,2026-11-07T10:43:00
+717,INC-0717,2,46,Multiple people unwell in the Mulund market area after food poisoning,2,2,3,RESOLVED,2026-11-07T10:54:00,2026-11-07T10:54:00,2026-11-07T10:59:00
+718,INC-0718,2,45,Multiple people unwell on the main road in Goregaon after food poisoning,3,3,1,CANCELLED,2026-11-07T11:09:00,2026-11-07T11:09:00,2026-11-07T11:14:00
+719,INC-0719,2,40,"Elderly resident unconscious in the Kanjurmarg market area, ambulance needed",5,4,1,RESOLVED,2026-11-07T11:33:00,2026-11-07T11:33:00,2026-11-07T11:38:00
+720,INC-0720,1,46,Warehouse fire near the Mulund flyover spreading to adjacent shops,2,3,12,RESOLVED,2026-11-07T13:01:00,2026-11-07T13:01:00,2026-11-07T13:06:00
+721,INC-0721,2,5,"Elderly resident unconscious near Marine Lines station, ambulance needed",2,1,1,RESOLVED,2026-11-07T13:06:00,2026-11-07T13:06:00,2026-11-07T13:11:00
+722,INC-0722,1,4,Warehouse fire near the Fort flyover spreading to adjacent shops,4,4,27,RESOLVED,2026-11-07T13:39:00,2026-11-07T13:39:00,2026-11-07T13:44:00
+723,INC-0723,4,47,Severe water logging at an industrial unit in Malad; vehicles stranded,4,5,15,RESOLVED,2026-11-07T14:41:00,2026-11-07T14:41:00,2026-11-07T14:46:00
+724,INC-0724,1,33,Fire reported in the Ghatkopar market area with heavy smoke,2,2,10,ARCHIVED,2026-11-07T16:01:00,2026-11-07T16:01:00,2026-11-07T16:06:00
+725,INC-0725,2,10,"Elderly resident unconscious in the Mazgaon market area, ambulance needed",3,4,8,CANCELLED,2026-11-07T16:09:00,2026-11-07T16:09:00,2026-11-07T16:14:00
+726,INC-0726,7,47,Crowd surge near Malad station; police assistance requested,4,4,19,ARCHIVED,2026-11-07T16:18:00,2026-11-07T16:18:00,2026-11-07T16:23:00
+727,INC-0727,5,49,Building collapse at an industrial unit in Borivali; people trapped under debris,4,4,78,RESOLVED,2026-11-07T16:45:00,2026-11-07T16:45:00,2026-11-07T16:50:00
+728,INC-0728,3,8,Road accident on the main road in Grant Road: two vehicles collided,4,4,29,RESOLVED,2026-11-07T16:49:00,2026-11-07T16:49:00,2026-11-07T16:54:00
+729,INC-0729,3,34,Road accident at an industrial unit in Vile Parle: two vehicles collided,2,2,29,RESOLVED,2026-11-07T18:43:00,2026-11-07T18:43:00,2026-11-07T18:48:00
+730,INC-0730,1,9,Fire reported at an industrial unit in Mumbai Central with heavy smoke,4,4,7287,RESOLVED,2026-11-07T18:48:00,2026-11-07T18:48:00,2026-11-07T18:53:00
+731,INC-0731,3,46,Road accident near Mulund station: two vehicles collided,3,2,27,RESOLVED,2026-11-07T18:54:00,2026-11-07T18:54:00,2026-11-07T18:59:00
+732,INC-0732,3,36,"Motorcycle accident at a residential block in Juhu, traffic blocked",4,4,39,RESOLVED,2026-11-07T21:15:00,2026-11-07T21:15:00,2026-11-07T21:20:00
+733,INC-0733,1,10,Short-circuit fire at an industrial unit in Mazgaon; residents evacuating,2,2,8,ARCHIVED,2026-11-07T22:08:00,2026-11-07T22:08:00,2026-11-07T22:13:00
+734,INC-0734,4,22,Severe water logging near Mahim station; vehicles stranded,5,5,41,CANCELLED,2026-11-07T22:33:00,2026-11-07T22:33:00,2026-11-07T22:38:00
+735,INC-0735,6,33,Gas leak on the main road in Ghatkopar; area cordoned off,1,1,4,RESOLVED,2026-11-07T22:46:00,2026-11-07T22:46:00,2026-11-07T22:51:00
+736,INC-0736,2,15,Multiple people unwell near the Parel flyover after food poisoning,3,2,2,RESOLVED,2026-11-07T23:00:00,2026-11-07T23:00:00,2026-11-07T23:05:00
+737,INC-0737,2,45,"Elderly resident unconscious in the Goregaon market area, ambulance needed",1,1,7,RESOLVED,2026-11-07T23:00:00,2026-11-07T23:00:00,2026-11-07T23:05:00
+738,INC-0738,3,44,"Motorcycle accident near Aarey Colony station, traffic blocked",3,3,32,RESOLVED,2026-11-08T00:08:00,2026-11-08T00:08:00,2026-11-08T00:13:00
+739,INC-0739,4,13,Flooding near the Lalbaug flyover entering ground-floor homes,5,4,59,RESOLVED,2026-11-08T01:18:00,2026-11-08T01:18:00,2026-11-08T01:23:00
+740,INC-0740,2,19,Multiple people unwell near the Dadar flyover after food poisoning,3,2,6,CANCELLED,2026-11-08T01:35:00,2026-11-08T01:35:00,2026-11-08T01:40:00
+741,INC-0741,5,38,Building collapse at a residential block in Powai; people trapped under debris,5,5,26,RESOLVED,2026-11-08T02:13:00,2026-11-08T02:13:00,2026-11-08T02:18:00
+742,INC-0742,2,49,"Elderly resident unconscious near the Borivali flyover, ambulance needed",4,4,1,RESOLVED,2026-11-08T02:33:00,2026-11-08T02:33:00,2026-11-08T02:38:00
+743,INC-0743,4,41,"Water logging on the main road in Versova, drain overflow and stranded commuters",4,4,16,ARCHIVED,2026-11-08T04:03:00,2026-11-08T04:03:00,2026-11-08T04:08:00
+744,INC-0744,2,18,"Elderly resident unconscious in the Wadala market area, ambulance needed",3,4,6,CANCELLED,2026-11-08T08:25:00,2026-11-08T08:25:00,2026-11-08T08:30:00
+745,INC-0745,1,21,Short-circuit fire at a residential block in Matunga; residents evacuating,5,4,15,ARCHIVED,2026-11-08T10:50:00,2026-11-08T10:50:00,2026-11-08T10:55:00
+746,INC-0746,2,24,Medical emergency at a residential block in Sion: patient with chest pain,4,3,6,ARCHIVED,2026-11-08T11:30:00,2026-11-08T11:30:00,2026-11-08T11:35:00
+747,INC-0747,4,27,Severe water logging near Bandra station; vehicles stranded,4,4,15,RESOLVED,2026-11-08T11:37:00,2026-11-08T11:37:00,2026-11-08T11:42:00
+748,INC-0748,2,7,Medical emergency at a residential block in Malabar Hill: patient with chest pain,4,4,3,RESOLVED,2026-11-08T12:01:00,2026-11-08T12:01:00,2026-11-08T12:06:00
+749,INC-0749,2,22,"Elderly resident unconscious near Mahim station, ambulance needed",2,2,10,RESOLVED,2026-11-08T12:07:00,2026-11-08T12:07:00,2026-11-08T12:12:00
+750,INC-0750,4,19,Flooding near Dadar station entering ground-floor homes,5,5,50,RESOLVED,2026-11-08T13:04:00,2026-11-08T13:04:00,2026-11-08T13:09:00
+751,INC-0751,3,45,Road accident in the Goregaon market area: two vehicles collided,1,1,8,RESOLVED,2026-11-08T13:21:00,2026-11-08T13:21:00,2026-11-08T13:26:00
+752,INC-0752,2,50,Multiple people unwell at an industrial unit in Dahisar after food poisoning,1,1,1,CANCELLED,2026-11-08T13:25:00,2026-11-08T13:25:00,2026-11-08T13:30:00
+753,INC-0753,3,13,Bus and truck collision near Lalbaug station with injuries,1,1,7,ARCHIVED,2026-11-08T13:29:00,2026-11-08T13:29:00,2026-11-08T13:34:00
+754,INC-0754,6,12,Gas leak at a residential block in Byculla; area cordoned off,3,3,9,RESOLVED,2026-11-08T14:25:00,2026-11-08T14:25:00,2026-11-08T14:30:00
+755,INC-0755,4,25,Severe water logging near the Mankhurd flyover; vehicles stranded,3,4,11,RESOLVED,2026-11-08T14:37:00,2026-11-08T14:37:00,2026-11-08T14:42:00
+756,INC-0756,3,18,"Motorcycle accident on the main road in Wadala, traffic blocked",2,3,7,RESOLVED,2026-11-08T15:18:00,2026-11-08T15:18:00,2026-11-08T15:23:00
+757,INC-0757,2,49,Multiple people unwell near the Borivali flyover after food poisoning,3,4,1,ARCHIVED,2026-11-08T15:36:00,2026-11-08T15:36:00,2026-11-08T15:41:00
+758,INC-0758,2,17,Medical emergency on the main road in Prabhadevi: patient with chest pain,2,1,3,RESOLVED,2026-11-08T15:37:00,2026-11-08T15:37:00,2026-11-08T15:42:00
+759,INC-0759,6,18,Gas leak in the Wadala market area; area cordoned off,1,2,4,RESOLVED,2026-11-08T15:40:00,2026-11-08T15:40:00,2026-11-08T15:45:00
+760,INC-0760,2,19,"Elderly resident unconscious on the main road in Dadar, ambulance needed",2,2,1,RESOLVED,2026-11-08T15:54:00,2026-11-08T15:54:00,2026-11-08T15:59:00
+761,INC-0761,6,40,"Water main burst at an industrial unit in Kanjurmarg, supply disrupted",3,2,16,ARCHIVED,2026-11-08T16:07:00,2026-11-08T16:07:00,2026-11-08T16:12:00
+762,INC-0762,2,46,"Elderly resident unconscious at a residential block in Mulund, ambulance needed",5,5,3,RESOLVED,2026-11-08T16:18:00,2026-11-08T16:18:00,2026-11-08T16:23:00
+763,INC-0763,2,49,Medical emergency at a residential block in Borivali: patient with chest pain,3,3,4,RESOLVED,2026-11-08T16:22:00,2026-11-08T16:22:00,2026-11-08T16:27:00
+764,INC-0764,2,18,Medical emergency in the Wadala market area: patient with chest pain,4,5,16,ARCHIVED,2026-11-08T18:29:00,2026-11-08T18:29:00,2026-11-08T18:34:00
+765,INC-0765,2,21,"Elderly resident unconscious near Matunga station, ambulance needed",3,3,13,CANCELLED,2026-11-08T19:34:00,2026-11-08T19:34:00,2026-11-08T19:39:00
+766,INC-0766,5,48,Building collapse near the Kandivali flyover; people trapped under debris,5,5,31,ARCHIVED,2026-11-08T19:43:00,2026-11-08T19:43:00,2026-11-08T19:48:00
+767,INC-0767,2,23,Multiple people unwell at a residential block in Dharavi after food poisoning,2,1,1,RESOLVED,2026-11-08T20:43:00,2026-11-08T20:43:00,2026-11-08T20:48:00
+768,INC-0768,3,49,"Motorcycle accident in the Borivali market area, traffic blocked",2,2,43,ARCHIVED,2026-11-08T23:27:00,2026-11-08T23:27:00,2026-11-08T23:32:00
+769,INC-0769,2,42,Multiple people unwell in the Jogeshwari market area after food poisoning,4,5,1,RESOLVED,2026-11-09T01:09:00,2026-11-09T01:09:00,2026-11-09T01:14:00
+770,INC-0770,1,36,Short-circuit fire near Juhu station; residents evacuating,5,4,21,CANCELLED,2026-11-09T01:40:00,2026-11-09T01:40:00,2026-11-09T01:45:00
+771,INC-0771,3,44,Road accident near the Aarey Colony flyover: two vehicles collided,3,3,21,CANCELLED,2026-11-09T01:41:00,2026-11-09T01:41:00,2026-11-09T01:46:00
+772,INC-0772,6,20,Power outage at a residential block in Antop Hill affecting hundreds of homes,4,4,13,RESOLVED,2026-11-09T02:13:00,2026-11-09T02:13:00,2026-11-09T02:18:00
+773,INC-0773,7,17,Crowd surge at a residential block in Prabhadevi; police assistance requested,4,5,107,CANCELLED,2026-11-09T03:43:00,2026-11-09T03:43:00,2026-11-09T03:48:00
+774,INC-0774,5,33,Partial building collapse at a residential block in Ghatkopar after heavy rain,5,5,24,CANCELLED,2026-11-09T04:35:00,2026-11-09T04:35:00,2026-11-09T04:40:00
+775,INC-0775,5,18,Partial building collapse at a residential block in Wadala after heavy rain,5,5,26,CANCELLED,2026-11-09T04:56:00,2026-11-09T04:56:00,2026-11-09T05:01:00
+776,INC-0776,2,19,Medical emergency at an industrial unit in Dadar: patient with chest pain,2,2,1,RESOLVED,2026-11-09T05:16:00,2026-11-09T05:16:00,2026-11-09T05:21:00
+777,INC-0777,7,5,Public safety incident in the Marine Lines market area: unattended suspicious bag,1,2,13,CANCELLED,2026-11-09T05:31:00,2026-11-09T05:31:00,2026-11-09T05:36:00
+778,INC-0778,7,12,Crowd surge at an industrial unit in Byculla; police assistance requested,3,2,14,RESOLVED,2026-11-09T07:02:00,2026-11-09T07:02:00,2026-11-09T07:07:00
+779,INC-0779,3,25,Bus and truck collision near Mankhurd station with injuries,4,4,31,CANCELLED,2026-11-09T08:15:00,2026-11-09T08:15:00,2026-11-09T08:20:00
+780,INC-0780,7,18,Public safety incident near Wadala station: unattended suspicious bag,3,3,14,ARCHIVED,2026-11-09T08:48:00,2026-11-09T08:48:00,2026-11-09T08:53:00
+781,INC-0781,3,46,Road accident on the main road in Mulund: two vehicles collided,1,1,6,RESOLVED,2026-11-09T09:52:00,2026-11-09T09:52:00,2026-11-09T09:57:00
+782,INC-0782,2,25,Medical emergency near the Mankhurd flyover: patient with chest pain,3,3,4,RESOLVED,2026-11-09T12:12:00,2026-11-09T12:12:00,2026-11-09T12:17:00
+783,INC-0783,2,18,Medical emergency at an industrial unit in Wadala: patient with chest pain,2,2,2,RESOLVED,2026-11-09T12:27:00,2026-11-09T12:27:00,2026-11-09T12:32:00
+784,INC-0784,5,44,Building collapse near Aarey Colony station; people trapped under debris,5,5,41,RESOLVED,2026-11-09T12:35:00,2026-11-09T12:35:00,2026-11-09T12:40:00
+785,INC-0785,2,32,"Elderly resident unconscious near Santacruz station, ambulance needed",2,2,3,RESOLVED,2026-11-09T14:01:00,2026-11-09T14:01:00,2026-11-09T14:06:00
+786,INC-0786,8,20,Stranded lift passengers at an industrial unit in Antop Hill,2,1,19,RESOLVED,2026-11-09T14:38:00,2026-11-09T14:38:00,2026-11-09T14:43:00
+787,INC-0787,3,17,Road accident near Prabhadevi station: two vehicles collided,3,4,38,RESOLVED,2026-11-09T15:07:00,2026-11-09T15:07:00,2026-11-09T15:12:00
+788,INC-0788,2,11,Multiple people unwell at an industrial unit in Tardeo after food poisoning,3,3,1,ARCHIVED,2026-11-09T15:25:00,2026-11-09T15:25:00,2026-11-09T15:30:00
+789,INC-0789,8,26,Tree fall at an industrial unit in Govandi blocking road,3,4,12,CANCELLED,2026-11-09T16:13:00,2026-11-09T16:13:00,2026-11-09T16:18:00
+790,INC-0790,4,47,"Water logging in the Malad market area, drain overflow and stranded commuters",3,3,21,CANCELLED,2026-11-09T16:23:00,2026-11-09T16:23:00,2026-11-09T16:28:00
+791,INC-0791,1,34,Short-circuit fire near Vile Parle station; residents evacuating,4,5,23,RESOLVED,2026-11-09T17:52:00,2026-11-09T17:52:00,2026-11-09T17:57:00
+792,INC-0792,1,49,Warehouse fire at a residential block in Borivali spreading to adjacent shops,2,1,28,RESOLVED,2026-11-09T18:45:00,2026-11-09T18:45:00,2026-11-09T18:50:00
+793,INC-0793,2,32,Medical emergency at a residential block in Santacruz: patient with chest pain,2,3,1,RESOLVED,2026-11-09T19:00:00,2026-11-09T19:00:00,2026-11-09T19:05:00
+794,INC-0794,3,45,"Motorcycle accident at an industrial unit in Goregaon, traffic blocked",3,3,11,RESOLVED,2026-11-09T19:48:00,2026-11-09T19:48:00,2026-11-09T19:53:00
+795,INC-0795,1,44,Fire reported near the Aarey Colony flyover with heavy smoke,3,4,56,ARCHIVED,2026-11-09T21:04:00,2026-11-09T21:04:00,2026-11-09T21:09:00
+796,INC-0796,2,19,Multiple people unwell in the Dadar market area after food poisoning,4,4,2,RESOLVED,2026-11-09T21:04:00,2026-11-09T21:04:00,2026-11-09T21:09:00
+797,INC-0797,4,6,"Water logging near Girgaon station, drain overflow and stranded commuters",4,4,38,ARCHIVED,2026-11-09T21:24:00,2026-11-09T21:24:00,2026-11-09T21:29:00
+798,INC-0798,1,50,Fire reported near the Dahisar flyover with heavy smoke,5,5,21,RESOLVED,2026-11-09T21:43:00,2026-11-09T21:43:00,2026-11-09T21:48:00
+799,INC-0799,2,13,Multiple people unwell on the main road in Lalbaug after food poisoning,3,4,34,RESOLVED,2026-11-09T21:53:00,2026-11-09T21:53:00,2026-11-09T21:58:00
+800,INC-0800,2,8,Medical emergency near the Grant Road flyover: patient with chest pain,1,1,2,CANCELLED,2026-11-09T22:02:00,2026-11-09T22:02:00,2026-11-09T22:07:00
+801,INC-0801,4,40,Flooding near the Kanjurmarg flyover entering ground-floor homes,3,2,12,ARCHIVED,2026-11-09T22:25:00,2026-11-09T22:25:00,2026-11-09T22:30:00
+802,INC-0802,4,43,Severe water logging at an industrial unit in Bhandup; vehicles stranded,4,5,13,ARCHIVED,2026-11-09T22:39:00,2026-11-09T22:39:00,2026-11-09T22:44:00
+803,INC-0803,3,43,Road accident on the main road in Bhandup: two vehicles collided,3,2,10,ARCHIVED,2026-11-09T22:52:00,2026-11-09T22:52:00,2026-11-09T22:57:00
+804,INC-0804,6,40,Power outage on the main road in Kanjurmarg affecting hundreds of homes,3,4,11,ARCHIVED,2026-11-09T23:16:00,2026-11-09T23:16:00,2026-11-09T23:21:00
+805,INC-0805,2,17,Multiple people unwell near Prabhadevi station after food poisoning,2,3,10,ARCHIVED,2026-11-10T00:49:00,2026-11-10T00:49:00,2026-11-10T00:54:00
+806,INC-0806,6,32,Power outage at an industrial unit in Santacruz affecting hundreds of homes,4,4,14,CANCELLED,2026-11-10T00:56:00,2026-11-10T00:56:00,2026-11-10T01:01:00
+807,INC-0807,3,39,Road accident in the Andheri market area: two vehicles collided,2,2,16,RESOLVED,2026-11-10T01:05:00,2026-11-10T01:05:00,2026-11-10T01:10:00
+808,INC-0808,5,42,Partial building collapse at a residential block in Jogeshwari after heavy rain,5,5,112,RESOLVED,2026-11-10T01:47:00,2026-11-10T01:47:00,2026-11-10T01:52:00
+809,INC-0809,2,44,Multiple people unwell at an industrial unit in Aarey Colony after food poisoning,1,1,2,RESOLVED,2026-11-10T02:07:00,2026-11-10T02:07:00,2026-11-10T02:12:00
+810,INC-0810,2,5,"Elderly resident unconscious near the Marine Lines flyover, ambulance needed",4,5,5,ARCHIVED,2026-11-10T02:11:00,2026-11-10T02:11:00,2026-11-10T02:16:00
+811,INC-0811,2,27,Medical emergency near Bandra station: patient with chest pain,5,4,1,ARCHIVED,2026-11-10T03:51:00,2026-11-10T03:51:00,2026-11-10T03:56:00
+812,INC-0812,2,10,"Elderly resident unconscious on the main road in Mazgaon, ambulance needed",2,2,8,CANCELLED,2026-11-10T04:13:00,2026-11-10T04:13:00,2026-11-10T04:18:00
+813,INC-0813,3,6,Road accident at a residential block in Girgaon: two vehicles collided,1,2,3,RESOLVED,2026-11-10T05:20:00,2026-11-10T05:20:00,2026-11-10T05:25:00
+814,INC-0814,3,42,Bus and truck collision near the Jogeshwari flyover with injuries,4,4,18,RESOLVED,2026-11-10T06:20:00,2026-11-10T06:20:00,2026-11-10T06:25:00
+815,INC-0815,1,4,Warehouse fire in the Fort market area spreading to adjacent shops,2,3,8,ARCHIVED,2026-11-10T08:52:00,2026-11-10T08:52:00,2026-11-10T08:57:00
+816,INC-0816,2,40,Medical emergency on the main road in Kanjurmarg: patient with chest pain,1,1,1,ARCHIVED,2026-11-10T09:17:00,2026-11-10T09:17:00,2026-11-10T09:22:00
+817,INC-0817,1,4,Warehouse fire near the Fort flyover spreading to adjacent shops,5,4,17,RESOLVED,2026-11-10T10:02:00,2026-11-10T10:02:00,2026-11-10T10:07:00
+818,INC-0818,2,27,Medical emergency near Bandra station: patient with chest pain,4,5,2,RESOLVED,2026-11-10T10:07:00,2026-11-10T10:07:00,2026-11-10T10:12:00
+819,INC-0819,4,34,"Water logging at an industrial unit in Vile Parle, drain overflow and stranded commuters",4,3,12,ARCHIVED,2026-11-10T10:42:00,2026-11-10T10:42:00,2026-11-10T10:47:00
+820,INC-0820,1,49,Fire reported in the Borivali market area with heavy smoke,3,2,31,ARCHIVED,2026-11-10T10:51:00,2026-11-10T10:51:00,2026-11-10T10:56:00
+821,INC-0821,2,37,Medical emergency at an industrial unit in Vikhroli: patient with chest pain,4,4,18,CANCELLED,2026-11-10T11:57:00,2026-11-10T11:57:00,2026-11-10T12:02:00
+822,INC-0822,4,33,Flooding near the Ghatkopar flyover entering ground-floor homes,3,3,13,IN_PROGRESS,2026-11-10T12:50:00,2026-11-10T12:50:00,2026-11-10T12:55:00
+823,INC-0823,3,5,Bus and truck collision in the Marine Lines market area with injuries,2,2,6,RESOLVED,2026-11-10T13:29:00,2026-11-10T13:29:00,2026-11-10T13:34:00
+824,INC-0824,2,21,Medical emergency near the Matunga flyover: patient with chest pain,3,4,3,ASSIGNED,2026-11-10T14:10:00,2026-11-10T14:10:00,2026-11-10T14:15:00
+825,INC-0825,4,32,Severe water logging at a residential block in Santacruz; vehicles stranded,3,3,15,REPORTED,2026-11-10T14:19:00,2026-11-10T14:19:00,2026-11-10T14:24:00
+826,INC-0826,2,34,Medical emergency in the Vile Parle market area: patient with chest pain,2,3,2,CANCELLED,2026-11-10T15:26:00,2026-11-10T15:26:00,2026-11-10T15:31:00
+827,INC-0827,4,18,Flooding near the Wadala flyover entering ground-floor homes,4,5,23,ASSIGNED,2026-11-10T16:50:00,2026-11-10T16:50:00,2026-11-10T16:55:00
+828,INC-0828,4,22,Severe water logging at an industrial unit in Mahim; vehicles stranded,4,3,12,REPORTED,2026-11-10T17:08:00,2026-11-10T17:08:00,2026-11-10T17:13:00
+829,INC-0829,4,39,"Water logging at a residential block in Andheri, drain overflow and stranded commuters",3,4,56,REPORTED,2026-11-10T18:04:00,2026-11-10T18:04:00,2026-11-10T18:09:00
+830,INC-0830,5,22,Partial building collapse in the Mahim market area after heavy rain,4,4,40,REPORTED,2026-11-10T18:47:00,2026-11-10T18:47:00,2026-11-10T18:52:00
+831,INC-0831,1,43,Short-circuit fire at a residential block in Bhandup; residents evacuating,5,5,15,IN_PROGRESS,2026-11-10T18:48:00,2026-11-10T18:48:00,2026-11-10T18:53:00
+832,INC-0832,2,43,Multiple people unwell near the Bhandup flyover after food poisoning,1,1,2,ASSIGNED,2026-11-10T19:16:00,2026-11-10T19:16:00,2026-11-10T19:21:00
+833,INC-0833,7,49,Crowd surge at an industrial unit in Borivali; police assistance requested,1,1,5,REPORTED,2026-11-10T19:31:00,2026-11-10T19:31:00,2026-11-10T19:36:00
+834,INC-0834,6,6,Power outage near the Girgaon flyover affecting hundreds of homes,2,2,80,ASSIGNED,2026-11-10T20:03:00,2026-11-10T20:03:00,2026-11-10T20:08:00
+835,INC-0835,2,44,Multiple people unwell in the Aarey Colony market area after food poisoning,3,3,2,RESOLVED,2026-11-10T21:01:00,2026-11-10T21:01:00,2026-11-10T21:06:00
+836,INC-0836,3,4,Road accident in the Fort market area: two vehicles collided,3,3,9,REPORTED,2026-11-10T21:16:00,2026-11-10T21:16:00,2026-11-10T21:21:00
+837,INC-0837,3,12,Bus and truck collision at a residential block in Byculla with injuries,2,2,8,RESOLVED,2026-11-10T21:51:00,2026-11-10T21:51:00,2026-11-10T21:56:00
+838,INC-0838,4,1,Flooding at a residential block in Colaba entering ground-floor homes,4,3,17,REPORTED,2026-11-10T23:11:00,2026-11-10T23:11:00,2026-11-10T23:16:00
+839,INC-0839,2,47,"Elderly resident unconscious at a residential block in Malad, ambulance needed",3,2,1,REPORTED,2026-11-10T23:38:00,2026-11-10T23:38:00,2026-11-10T23:43:00
+840,INC-0840,3,32,Road accident on the main road in Santacruz: two vehicles collided,3,3,32,ASSIGNED,2026-11-11T00:15:00,2026-11-11T00:15:00,2026-11-11T00:20:00
+841,INC-0841,4,13,"Water logging near the Lalbaug flyover, drain overflow and stranded commuters",4,5,63,RESOLVED,2026-11-11T00:22:00,2026-11-11T00:22:00,2026-11-11T00:27:00
+842,INC-0842,3,42,"Motorcycle accident in the Jogeshwari market area, traffic blocked",3,2,18,RESOLVED,2026-11-11T02:34:00,2026-11-11T02:34:00,2026-11-11T02:39:00
+843,INC-0843,2,17,Medical emergency at a residential block in Prabhadevi: patient with chest pain,2,2,1,REPORTED,2026-11-11T03:10:00,2026-11-11T03:10:00,2026-11-11T03:15:00
+844,INC-0844,4,4,"Water logging at an industrial unit in Fort, drain overflow and stranded commuters",5,4,16,REPORTED,2026-11-11T03:22:00,2026-11-11T03:22:00,2026-11-11T03:27:00
+845,INC-0845,2,4,Multiple people unwell on the main road in Fort after food poisoning,2,3,4,REPORTED,2026-11-11T04:04:00,2026-11-11T04:04:00,2026-11-11T04:09:00
+846,INC-0846,5,35,Partial building collapse near the Sakinaka flyover after heavy rain,5,4,18,REPORTED,2026-11-11T05:38:00,2026-11-11T05:38:00,2026-11-11T05:43:00
+847,INC-0847,2,12,Multiple people unwell near Byculla station after food poisoning,3,3,5,ASSIGNED,2026-11-11T06:45:00,2026-11-11T06:45:00,2026-11-11T06:50:00
+848,INC-0848,3,47,"Motorcycle accident near the Malad flyover, traffic blocked",1,1,7,REPORTED,2026-11-11T06:48:00,2026-11-11T06:48:00,2026-11-11T06:53:00
+849,INC-0849,7,12,Public safety incident on the main road in Byculla: unattended suspicious bag,4,5,18,IN_PROGRESS,2026-11-11T07:14:00,2026-11-11T07:14:00,2026-11-11T07:19:00
+850,INC-0850,4,22,Flooding near Mahim station entering ground-floor homes,5,5,15,REPORTED,2026-11-11T07:28:00,2026-11-11T07:28:00,2026-11-11T07:33:00
+851,INC-0851,7,32,Public safety incident at an industrial unit in Santacruz: unattended suspicious bag,4,5,19,REPORTED,2026-11-11T08:06:00,2026-11-11T08:06:00,2026-11-11T08:11:00
+852,INC-0852,3,47,Road accident at a residential block in Malad: two vehicles collided,3,3,10,RESOLVED,2026-11-11T08:56:00,2026-11-11T08:56:00,2026-11-11T09:01:00
+853,INC-0853,6,5,Gas leak at an industrial unit in Marine Lines; area cordoned off,3,4,70,ASSIGNED,2026-11-11T09:49:00,2026-11-11T09:49:00,2026-11-11T09:54:00
+854,INC-0854,1,3,Warehouse fire at a residential block in Nariman Point spreading to adjacent shops,4,4,12,REPORTED,2026-11-11T09:52:00,2026-11-11T09:52:00,2026-11-11T09:57:00
+855,INC-0855,1,49,Warehouse fire at a residential block in Borivali spreading to adjacent shops,4,4,44,ASSIGNED,2026-11-11T11:48:00,2026-11-11T11:48:00,2026-11-11T11:53:00
+856,INC-0856,5,39,Building collapse at an industrial unit in Andheri; people trapped under debris,3,4,17,REPORTED,2026-11-11T12:09:00,2026-11-11T12:09:00,2026-11-11T12:14:00
+857,INC-0857,3,42,Road accident at a residential block in Jogeshwari: two vehicles collided,1,1,7,REPORTED,2026-11-11T13:23:00,2026-11-11T13:23:00,2026-11-11T13:28:00
+858,INC-0858,1,27,Short-circuit fire in the Bandra market area; residents evacuating,5,5,19,REPORTED,2026-11-11T15:48:00,2026-11-11T15:48:00,2026-11-11T15:53:00
+859,INC-0859,6,5,Gas leak in the Marine Lines market area; area cordoned off,2,1,6,RESOLVED,2026-11-11T17:22:00,2026-11-11T17:22:00,2026-11-11T17:27:00
+860,INC-0860,2,1,Medical emergency at a residential block in Colaba: patient with chest pain,3,2,1,REPORTED,2026-11-11T17:37:00,2026-11-11T17:37:00,2026-11-11T17:42:00
+861,INC-0861,7,1,Crowd surge near Colaba station; police assistance requested,2,3,6,REPORTED,2026-11-11T18:29:00,2026-11-11T18:29:00,2026-11-11T18:34:00
+862,INC-0862,2,32,Medical emergency in the Santacruz market area: patient with chest pain,3,2,1,REPORTED,2026-11-11T18:59:00,2026-11-11T18:59:00,2026-11-11T19:04:00
+863,INC-0863,6,43,Gas leak near Bhandup station; area cordoned off,3,3,9,REPORTED,2026-11-11T19:12:00,2026-11-11T19:12:00,2026-11-11T19:17:00
+864,INC-0864,4,49,Severe water logging in the Borivali market area; vehicles stranded,2,1,50,RESOLVED,2026-11-11T19:17:00,2026-11-11T19:17:00,2026-11-11T19:22:00
+865,INC-0865,8,12,Stranded lift passengers near the Byculla flyover,1,1,26,REPORTED,2026-11-11T19:27:00,2026-11-11T19:27:00,2026-11-11T19:32:00
+866,INC-0866,4,8,"Water logging at a residential block in Grant Road, drain overflow and stranded commuters",3,3,15,REPORTED,2026-11-11T19:32:00,2026-11-11T19:32:00,2026-11-11T19:37:00
+867,INC-0867,2,8,"Elderly resident unconscious near Grant Road station, ambulance needed",3,3,4,REPORTED,2026-11-11T19:49:00,2026-11-11T19:49:00,2026-11-11T19:54:00
+868,INC-0868,3,31,Road accident on the main road in Kurla: two vehicles collided,2,2,23,REPORTED,2026-11-11T20:01:00,2026-11-11T20:01:00,2026-11-11T20:06:00
+869,INC-0869,6,49,"Water main burst at an industrial unit in Borivali, supply disrupted",2,2,9,REPORTED,2026-11-11T20:04:00,2026-11-11T20:04:00,2026-11-11T20:09:00
+870,INC-0870,8,37,Tree fall in the Vikhroli market area blocking road,3,3,9,REPORTED,2026-11-11T20:43:00,2026-11-11T20:43:00,2026-11-11T20:48:00
+871,INC-0871,5,45,Partial building collapse on the main road in Goregaon after heavy rain,3,4,9,REPORTED,2026-11-11T20:47:00,2026-11-11T20:47:00,2026-11-11T20:52:00
+872,INC-0872,8,43,Tree fall near Bhandup station blocking road,1,2,4,REPORTED,2026-11-11T20:48:00,2026-11-11T20:48:00,2026-11-11T20:53:00
+873,INC-0873,4,49,Flooding at a residential block in Borivali entering ground-floor homes,4,3,22,REPORTED,2026-11-11T21:05:00,2026-11-11T21:05:00,2026-11-11T21:10:00
+874,INC-0874,4,46,Severe water logging near Mulund station; vehicles stranded,3,4,11,RESOLVED,2026-11-11T23:33:00,2026-11-11T23:33:00,2026-11-11T23:38:00
+875,INC-0875,3,49,"Motorcycle accident at a residential block in Borivali, traffic blocked",2,2,9,REPORTED,2026-11-12T00:39:00,2026-11-12T00:39:00,2026-11-12T00:44:00
+876,INC-0876,2,50,Multiple people unwell in the Dahisar market area after food poisoning,2,2,2,RESOLVED,2026-11-12T00:48:00,2026-11-12T00:48:00,2026-11-12T00:53:00
+877,INC-0877,8,18,Tree fall on the main road in Wadala blocking road,2,2,6,RESOLVED,2026-11-12T00:50:00,2026-11-12T00:50:00,2026-11-12T00:55:00
+878,INC-0878,3,42,"Motorcycle accident at an industrial unit in Jogeshwari, traffic blocked",2,3,7,REPORTED,2026-11-12T01:02:00,2026-11-12T01:02:00,2026-11-12T01:07:00
+879,INC-0879,6,36,"Water main burst near the Juhu flyover, supply disrupted",1,1,23,RESOLVED,2026-11-12T01:50:00,2026-11-12T01:50:00,2026-11-12T01:55:00
+880,INC-0880,5,5,Partial building collapse near the Marine Lines flyover after heavy rain,3,2,17,RESOLVED,2026-11-12T01:56:00,2026-11-12T01:56:00,2026-11-12T02:01:00
+881,INC-0881,2,4,Multiple people unwell on the main road in Fort after food poisoning,5,5,7,REPORTED,2026-11-12T03:16:00,2026-11-12T03:16:00,2026-11-12T03:21:00
+882,INC-0882,2,32,Medical emergency in the Santacruz market area: patient with chest pain,3,3,2,REPORTED,2026-11-12T03:20:00,2026-11-12T03:20:00,2026-11-12T03:25:00
+883,INC-0883,1,16,Short-circuit fire in the Worli market area; residents evacuating,1,2,12,REPORTED,2026-11-12T04:22:00,2026-11-12T04:22:00,2026-11-12T04:27:00
+884,INC-0884,3,37,Road accident at a residential block in Vikhroli: two vehicles collided,1,1,4,REPORTED,2026-11-12T05:47:00,2026-11-12T05:47:00,2026-11-12T05:52:00
+885,INC-0885,2,12,"Elderly resident unconscious at a residential block in Byculla, ambulance needed",2,1,7,CANCELLED,2026-11-12T05:58:00,2026-11-12T05:58:00,2026-11-12T06:03:00
+886,INC-0886,3,12,Bus and truck collision at a residential block in Byculla with injuries,2,1,9,REPORTED,2026-11-12T06:03:00,2026-11-12T06:03:00,2026-11-12T06:08:00
+887,INC-0887,2,43,"Elderly resident unconscious on the main road in Bhandup, ambulance needed",2,1,9,REPORTED,2026-11-12T06:42:00,2026-11-12T06:42:00,2026-11-12T06:47:00
+888,INC-0888,4,43,Flooding at an industrial unit in Bhandup entering ground-floor homes,4,5,25,REPORTED,2026-11-12T07:58:00,2026-11-12T07:58:00,2026-11-12T08:03:00
+889,INC-0889,1,3,Short-circuit fire at an industrial unit in Nariman Point; residents evacuating,4,5,15,REPORTED,2026-11-12T08:21:00,2026-11-12T08:21:00,2026-11-12T08:26:00
+890,INC-0890,2,30,"Elderly resident unconscious near Khar station, ambulance needed",2,2,5,REPORTED,2026-11-12T08:32:00,2026-11-12T08:32:00,2026-11-12T08:37:00
+891,INC-0891,3,17,Bus and truck collision near Prabhadevi station with injuries,2,2,11,REPORTED,2026-11-12T09:03:00,2026-11-12T09:03:00,2026-11-12T09:08:00
+892,INC-0892,1,3,Warehouse fire at an industrial unit in Nariman Point spreading to adjacent shops,3,2,14,ARCHIVED,2026-11-12T09:24:00,2026-11-12T09:24:00,2026-11-12T09:29:00
+893,INC-0893,3,43,Bus and truck collision near Bhandup station with injuries,2,2,14,RESOLVED,2026-11-12T12:04:00,2026-11-12T12:04:00,2026-11-12T12:09:00
+894,INC-0894,3,49,"Motorcycle accident at an industrial unit in Borivali, traffic blocked",4,4,12,REPORTED,2026-11-12T12:30:00,2026-11-12T12:30:00,2026-11-12T12:35:00
+895,INC-0895,6,12,"Water main burst at a residential block in Byculla, supply disrupted",2,1,8,REPORTED,2026-11-12T12:43:00,2026-11-12T12:43:00,2026-11-12T12:48:00
+896,INC-0896,2,44,Multiple people unwell on the main road in Aarey Colony after food poisoning,4,4,13,REPORTED,2026-11-12T13:03:00,2026-11-12T13:03:00,2026-11-12T13:08:00
+897,INC-0897,1,37,Warehouse fire in the Vikhroli market area spreading to adjacent shops,4,5,13,REPORTED,2026-11-12T14:57:00,2026-11-12T14:57:00,2026-11-12T15:02:00
+898,INC-0898,1,43,Short-circuit fire near the Bhandup flyover; residents evacuating,4,5,14,ARCHIVED,2026-11-12T17:52:00,2026-11-12T17:52:00,2026-11-12T17:57:00
+899,INC-0899,3,39,Road accident at an industrial unit in Andheri: two vehicles collided,2,1,12,REPORTED,2026-11-12T17:52:00,2026-11-12T17:52:00,2026-11-12T17:57:00
+900,INC-0900,2,3,"Elderly resident unconscious on the main road in Nariman Point, ambulance needed",3,2,2,RESOLVED,2026-11-12T18:26:00,2026-11-12T18:26:00,2026-11-12T18:31:00
+901,INC-0901,3,27,"Motorcycle accident at a residential block in Bandra, traffic blocked",3,2,13,REPORTED,2026-11-12T19:01:00,2026-11-12T19:01:00,2026-11-12T19:06:00
+902,INC-0902,1,15,Short-circuit fire at an industrial unit in Parel; residents evacuating,4,3,15,REPORTED,2026-11-12T19:48:00,2026-11-12T19:48:00,2026-11-12T19:53:00
+903,INC-0903,3,21,Road accident on the main road in Matunga: two vehicles collided,2,2,6,REPORTED,2026-11-12T20:55:00,2026-11-12T20:55:00,2026-11-12T21:00:00
+904,INC-0904,3,50,"Motorcycle accident on the main road in Dahisar, traffic blocked",2,1,7,REPORTED,2026-11-12T21:04:00,2026-11-12T21:04:00,2026-11-12T21:09:00
+905,INC-0905,4,47,Flooding near the Malad flyover entering ground-floor homes,4,4,13,REPORTED,2026-11-12T22:49:00,2026-11-12T22:49:00,2026-11-12T22:54:00
+906,INC-0906,2,41,Multiple people unwell in the Versova market area after food poisoning,5,5,1,REPORTED,2026-11-12T23:12:00,2026-11-12T23:12:00,2026-11-12T23:17:00
+907,INC-0907,1,44,Fire reported at a residential block in Aarey Colony with heavy smoke,3,4,17,RESOLVED,2026-11-13T00:58:00,2026-11-13T00:58:00,2026-11-13T01:03:00
+908,INC-0908,3,50,Road accident in the Dahisar market area: two vehicles collided,3,2,10,REPORTED,2026-11-13T01:29:00,2026-11-13T01:29:00,2026-11-13T01:34:00
+909,INC-0909,7,14,Public safety incident at an industrial unit in Lower Parel: unattended suspicious bag,2,2,8,REPORTED,2026-11-13T02:27:00,2026-11-13T02:27:00,2026-11-13T02:32:00
+910,INC-0910,7,20,Crowd surge at an industrial unit in Antop Hill; police assistance requested,1,2,6,REPORTED,2026-11-13T02:33:00,2026-11-13T02:33:00,2026-11-13T02:38:00
+911,INC-0911,8,6,Tree fall near Girgaon station blocking road,1,1,4,REPORTED,2026-11-13T03:49:00,2026-11-13T03:49:00,2026-11-13T03:54:00
+912,INC-0912,3,18,"Motorcycle accident near Wadala station, traffic blocked",3,3,113,REPORTED,2026-11-13T05:40:00,2026-11-13T05:40:00,2026-11-13T05:45:00
+913,INC-0913,2,10,Medical emergency in the Mazgaon market area: patient with chest pain,2,2,6,REPORTED,2026-11-13T05:54:00,2026-11-13T05:54:00,2026-11-13T05:59:00
+914,INC-0914,6,22,"Water main burst at an industrial unit in Mahim, supply disrupted",2,2,95,REPORTED,2026-11-13T06:13:00,2026-11-13T06:13:00,2026-11-13T06:18:00
+915,INC-0915,1,24,Fire reported near the Sion flyover with heavy smoke,3,3,83,REPORTED,2026-11-13T07:13:00,2026-11-13T07:13:00,2026-11-13T07:18:00
+916,INC-0916,3,47,"Motorcycle accident at a residential block in Malad, traffic blocked",3,2,17,REPORTED,2026-11-13T07:19:00,2026-11-13T07:19:00,2026-11-13T07:24:00
+917,INC-0917,3,11,Road accident near the Tardeo flyover: two vehicles collided,1,1,11,ARCHIVED,2026-11-13T07:42:00,2026-11-13T07:42:00,2026-11-13T07:47:00
+918,INC-0918,8,47,Tree fall at an industrial unit in Malad blocking road,3,3,21,REPORTED,2026-11-13T08:22:00,2026-11-13T08:22:00,2026-11-13T08:27:00
+919,INC-0919,1,49,Short-circuit fire on the main road in Borivali; residents evacuating,4,5,13,CANCELLED,2026-11-13T09:55:00,2026-11-13T09:55:00,2026-11-13T10:00:00
+920,INC-0920,8,46,Tree fall on the main road in Mulund blocking road,1,1,5,REPORTED,2026-11-13T10:44:00,2026-11-13T10:44:00,2026-11-13T10:49:00
+921,INC-0921,8,42,Stranded lift passengers on the main road in Jogeshwari,2,3,99,REPORTED,2026-11-13T11:03:00,2026-11-13T11:03:00,2026-11-13T11:08:00
+922,INC-0922,2,49,"Elderly resident unconscious in the Borivali market area, ambulance needed",5,5,5,REPORTED,2026-11-13T11:09:00,2026-11-13T11:09:00,2026-11-13T11:14:00
+923,INC-0923,8,1,Tree fall at a residential block in Colaba blocking road,3,2,15,REPORTED,2026-11-13T11:34:00,2026-11-13T11:34:00,2026-11-13T11:39:00
+924,INC-0924,1,10,Fire reported near the Mazgaon flyover with heavy smoke,2,1,13,REPORTED,2026-11-13T12:12:00,2026-11-13T12:12:00,2026-11-13T12:17:00
+925,INC-0925,2,43,Multiple people unwell at an industrial unit in Bhandup after food poisoning,3,3,2,REPORTED,2026-11-13T12:50:00,2026-11-13T12:50:00,2026-11-13T12:55:00
+926,INC-0926,4,11,Flooding at a residential block in Tardeo entering ground-floor homes,4,3,20,REPORTED,2026-11-13T13:11:00,2026-11-13T13:11:00,2026-11-13T13:16:00
+927,INC-0927,3,22,"Motorcycle accident in the Mahim market area, traffic blocked",3,3,10,REPORTED,2026-11-13T14:35:00,2026-11-13T14:35:00,2026-11-13T14:40:00
+928,INC-0928,2,22,Multiple people unwell at a residential block in Mahim after food poisoning,2,3,8,REPORTED,2026-11-13T15:22:00,2026-11-13T15:22:00,2026-11-13T15:27:00
+929,INC-0929,4,20,Flooding on the main road in Antop Hill entering ground-floor homes,5,5,15,REPORTED,2026-11-13T15:22:00,2026-11-13T15:22:00,2026-11-13T15:27:00
+930,INC-0930,6,14,Gas leak in the Lower Parel market area; area cordoned off,3,3,12,RESOLVED,2026-11-13T16:10:00,2026-11-13T16:10:00,2026-11-13T16:15:00
+931,INC-0931,5,33,Partial building collapse on the main road in Ghatkopar after heavy rain,5,5,17,REPORTED,2026-11-13T16:11:00,2026-11-13T16:11:00,2026-11-13T16:16:00
+932,INC-0932,1,24,Short-circuit fire at a residential block in Sion; residents evacuating,4,4,20,REPORTED,2026-11-13T17:14:00,2026-11-13T17:14:00,2026-11-13T17:19:00
+933,INC-0933,2,18,"Elderly resident unconscious near Wadala station, ambulance needed",1,1,2,REPORTED,2026-11-13T17:27:00,2026-11-13T17:27:00,2026-11-13T17:32:00
+934,INC-0934,1,8,Warehouse fire near Grant Road station spreading to adjacent shops,2,1,14,ARCHIVED,2026-11-13T17:30:00,2026-11-13T17:30:00,2026-11-13T17:35:00
+935,INC-0935,2,27,Multiple people unwell on the main road in Bandra after food poisoning,2,2,4,REPORTED,2026-11-13T17:54:00,2026-11-13T17:54:00,2026-11-13T17:59:00
+936,INC-0936,4,18,Flooding at an industrial unit in Wadala entering ground-floor homes,4,4,13,REPORTED,2026-11-13T18:09:00,2026-11-13T18:09:00,2026-11-13T18:14:00
+937,INC-0937,3,5,Road accident near the Marine Lines flyover: two vehicles collided,2,2,10,ARCHIVED,2026-11-13T18:51:00,2026-11-13T18:51:00,2026-11-13T18:56:00
+938,INC-0938,2,22,"Elderly resident unconscious near the Mahim flyover, ambulance needed",3,3,1,REPORTED,2026-11-13T20:04:00,2026-11-13T20:04:00,2026-11-13T20:09:00
+939,INC-0939,3,9,Bus and truck collision at an industrial unit in Mumbai Central with injuries,3,2,11,REPORTED,2026-11-13T20:10:00,2026-11-13T20:10:00,2026-11-13T20:15:00
+940,INC-0940,5,20,Partial building collapse at an industrial unit in Antop Hill after heavy rain,5,4,133,REPORTED,2026-11-13T21:33:00,2026-11-13T21:33:00,2026-11-13T21:38:00
+941,INC-0941,4,27,"Water logging near the Bandra flyover, drain overflow and stranded commuters",2,2,6,REPORTED,2026-11-13T22:23:00,2026-11-13T22:23:00,2026-11-13T22:28:00
+942,INC-0942,2,30,"Elderly resident unconscious near Khar station, ambulance needed",5,4,3,REPORTED,2026-11-13T23:19:00,2026-11-13T23:19:00,2026-11-13T23:24:00
+943,INC-0943,1,45,Warehouse fire near the Goregaon flyover spreading to adjacent shops,4,5,32,REPORTED,2026-11-14T00:08:00,2026-11-14T00:08:00,2026-11-14T00:13:00
+944,INC-0944,7,15,Public safety incident on the main road in Parel: unattended suspicious bag,3,3,20,REPORTED,2026-11-14T01:04:00,2026-11-14T01:04:00,2026-11-14T01:09:00
+945,INC-0945,3,12,Road accident near Byculla station: two vehicles collided,2,2,6,REPORTED,2026-11-14T02:35:00,2026-11-14T02:35:00,2026-11-14T02:40:00
+946,INC-0946,2,46,Multiple people unwell on the main road in Mulund after food poisoning,3,3,1,REPORTED,2026-11-14T03:38:00,2026-11-14T03:38:00,2026-11-14T03:43:00
+947,INC-0947,2,22,"Elderly resident unconscious on the main road in Mahim, ambulance needed",2,3,2,REPORTED,2026-11-14T07:21:00,2026-11-14T07:21:00,2026-11-14T07:26:00
+948,INC-0948,6,44,Power outage near Aarey Colony station affecting hundreds of homes,2,3,6,REPORTED,2026-11-14T07:53:00,2026-11-14T07:53:00,2026-11-14T07:58:00
+949,INC-0949,4,19,Severe water logging at a residential block in Dadar; vehicles stranded,3,3,14,REPORTED,2026-11-14T08:42:00,2026-11-14T08:42:00,2026-11-14T08:47:00
+950,INC-0950,3,32,Bus and truck collision at an industrial unit in Santacruz with injuries,4,5,24,REPORTED,2026-11-14T09:30:00,2026-11-14T09:30:00,2026-11-14T09:35:00
+951,INC-0951,2,13,Multiple people unwell near the Lalbaug flyover after food poisoning,2,1,5,REPORTED,2026-11-14T09:44:00,2026-11-14T09:44:00,2026-11-14T09:49:00
+952,INC-0952,2,45,Medical emergency near the Goregaon flyover: patient with chest pain,2,2,6,REPORTED,2026-11-14T10:10:00,2026-11-14T10:10:00,2026-11-14T10:15:00
+953,INC-0953,2,4,"Elderly resident unconscious near Fort station, ambulance needed",5,4,4,REPORTED,2026-11-14T11:09:00,2026-11-14T11:09:00,2026-11-14T11:14:00
+954,INC-0954,1,48,Warehouse fire at a residential block in Kandivali spreading to adjacent shops,3,3,13,REPORTED,2026-11-14T11:35:00,2026-11-14T11:35:00,2026-11-14T11:40:00
+955,INC-0955,1,18,Fire reported in the Wadala market area with heavy smoke,3,3,14,REPORTED,2026-11-14T11:58:00,2026-11-14T11:58:00,2026-11-14T12:03:00
+956,INC-0956,1,44,Fire reported near Aarey Colony station with heavy smoke,3,2,50,REPORTED,2026-11-14T13:04:00,2026-11-14T13:04:00,2026-11-14T13:09:00
+957,INC-0957,2,27,Multiple people unwell in the Bandra market area after food poisoning,5,4,12,REPORTED,2026-11-14T14:01:00,2026-11-14T14:01:00,2026-11-14T14:06:00
+958,INC-0958,3,39,"Motorcycle accident at an industrial unit in Andheri, traffic blocked",2,1,19,REPORTED,2026-11-14T14:35:00,2026-11-14T14:35:00,2026-11-14T14:40:00
+959,INC-0959,7,48,Public safety incident near the Kandivali flyover: unattended suspicious bag,4,4,14,REPORTED,2026-11-14T15:00:00,2026-11-14T15:00:00,2026-11-14T15:05:00
+960,INC-0960,2,49,Medical emergency in the Borivali market area: patient with chest pain,4,3,7,REPORTED,2026-11-14T17:03:00,2026-11-14T17:03:00,2026-11-14T17:08:00
+961,INC-0961,3,12,"Motorcycle accident in the Byculla market area, traffic blocked",3,3,16,REPORTED,2026-11-14T17:15:00,2026-11-14T17:15:00,2026-11-14T17:20:00
+962,INC-0962,4,44,Flooding at a residential block in Aarey Colony entering ground-floor homes,4,5,15,REPORTED,2026-11-14T17:49:00,2026-11-14T17:49:00,2026-11-14T17:54:00
+963,INC-0963,2,16,"Elderly resident unconscious at a residential block in Worli, ambulance needed",2,2,4,REPORTED,2026-11-14T18:04:00,2026-11-14T18:04:00,2026-11-14T18:09:00
+964,INC-0964,6,17,"Water main burst at a residential block in Prabhadevi, supply disrupted",3,2,10,REPORTED,2026-11-14T18:04:00,2026-11-14T18:04:00,2026-11-14T18:09:00
+965,INC-0965,8,48,Stranded lift passengers near Kandivali station,1,2,3,REPORTED,2026-11-14T18:35:00,2026-11-14T18:35:00,2026-11-14T18:40:00
+966,INC-0966,5,27,Partial building collapse in the Bandra market area after heavy rain,5,5,49,REPORTED,2026-11-14T18:36:00,2026-11-14T18:36:00,2026-11-14T18:41:00
+967,INC-0967,3,47,Road accident near the Malad flyover: two vehicles collided,1,1,3,REPORTED,2026-11-14T19:11:00,2026-11-14T19:11:00,2026-11-14T19:16:00
+968,INC-0968,2,48,"Elderly resident unconscious on the main road in Kandivali, ambulance needed",4,4,2,REPORTED,2026-11-14T19:59:00,2026-11-14T19:59:00,2026-11-14T20:04:00
+969,INC-0969,6,46,Gas leak on the main road in Mulund; area cordoned off,1,2,6,REPORTED,2026-11-14T20:00:00,2026-11-14T20:00:00,2026-11-14T20:05:00
+970,INC-0970,8,38,Stranded lift passengers on the main road in Powai,3,3,175,REPORTED,2026-11-14T21:10:00,2026-11-14T21:10:00,2026-11-14T21:15:00
+971,INC-0971,1,33,Warehouse fire in the Ghatkopar market area spreading to adjacent shops,2,3,17,REPORTED,2026-11-14T21:13:00,2026-11-14T21:13:00,2026-11-14T21:18:00
+972,INC-0972,1,22,Short-circuit fire at a residential block in Mahim; residents evacuating,3,4,12,RESOLVED,2026-11-14T21:53:00,2026-11-14T21:53:00,2026-11-14T21:58:00
+973,INC-0973,2,22,Multiple people unwell on the main road in Mahim after food poisoning,3,3,1,REPORTED,2026-11-14T22:22:00,2026-11-14T22:22:00,2026-11-14T22:27:00
+974,INC-0974,4,11,Flooding at an industrial unit in Tardeo entering ground-floor homes,2,2,36,REPORTED,2026-11-14T23:41:00,2026-11-14T23:41:00,2026-11-14T23:46:00
+975,INC-0975,1,2,Warehouse fire at an industrial unit in Cuffe Parade spreading to adjacent shops,5,5,72,REPORTED,2026-11-15T01:07:00,2026-11-15T01:07:00,2026-11-15T01:12:00
+976,INC-0976,3,16,"Motorcycle accident on the main road in Worli, traffic blocked",2,3,8,REPORTED,2026-11-15T01:12:00,2026-11-15T01:12:00,2026-11-15T01:17:00
+977,INC-0977,7,45,Crowd surge near the Goregaon flyover; police assistance requested,1,1,4,REPORTED,2026-11-15T01:31:00,2026-11-15T01:31:00,2026-11-15T01:36:00
+978,INC-0978,4,49,Severe water logging in the Borivali market area; vehicles stranded,5,5,106,REPORTED,2026-11-15T02:20:00,2026-11-15T02:20:00,2026-11-15T02:25:00
+979,INC-0979,2,40,"Elderly resident unconscious near the Kanjurmarg flyover, ambulance needed",4,3,5,RESOLVED,2026-11-15T02:27:00,2026-11-15T02:27:00,2026-11-15T02:32:00
+980,INC-0980,3,33,"Motorcycle accident near Ghatkopar station, traffic blocked",4,5,17,REPORTED,2026-11-15T03:28:00,2026-11-15T03:28:00,2026-11-15T03:33:00
+981,INC-0981,6,1,"Water main burst near Colaba station, supply disrupted",2,2,6,REPORTED,2026-11-15T03:35:00,2026-11-15T03:35:00,2026-11-15T03:40:00
+982,INC-0982,4,18,Severe water logging on the main road in Wadala; vehicles stranded,3,3,10,RESOLVED,2026-11-15T03:52:00,2026-11-15T03:52:00,2026-11-15T03:57:00
+983,INC-0983,3,41,Bus and truck collision at a residential block in Versova with injuries,1,1,10,REPORTED,2026-11-15T03:54:00,2026-11-15T03:54:00,2026-11-15T03:59:00
+984,INC-0984,1,6,Fire reported on the main road in Girgaon with heavy smoke,5,5,42,REPORTED,2026-11-15T04:05:00,2026-11-15T04:05:00,2026-11-15T04:10:00
+985,INC-0985,2,13,"Elderly resident unconscious on the main road in Lalbaug, ambulance needed",3,2,4,ARCHIVED,2026-11-15T04:17:00,2026-11-15T04:17:00,2026-11-15T04:22:00
+986,INC-0986,4,24,"Water logging near Sion station, drain overflow and stranded commuters",4,3,19,REPORTED,2026-11-15T05:01:00,2026-11-15T05:01:00,2026-11-15T05:06:00
+987,INC-0987,2,33,Medical emergency on the main road in Ghatkopar: patient with chest pain,2,2,1,CANCELLED,2026-11-15T05:19:00,2026-11-15T05:19:00,2026-11-15T05:24:00
+988,INC-0988,4,42,"Water logging in the Jogeshwari market area, drain overflow and stranded commuters",3,3,36,RESOLVED,2026-11-15T05:24:00,2026-11-15T05:24:00,2026-11-15T05:29:00
+989,INC-0989,6,50,"Water main burst near the Dahisar flyover, supply disrupted",4,4,29,REPORTED,2026-11-15T05:51:00,2026-11-15T05:51:00,2026-11-15T05:56:00
+990,INC-0990,3,4,Bus and truck collision in the Fort market area with injuries,3,3,57,CANCELLED,2026-11-15T07:06:00,2026-11-15T07:06:00,2026-11-15T07:11:00
+991,INC-0991,7,31,Public safety incident at an industrial unit in Kurla: unattended suspicious bag,4,4,12,REPORTED,2026-11-15T07:26:00,2026-11-15T07:26:00,2026-11-15T07:31:00
+992,INC-0992,2,12,"Elderly resident unconscious at an industrial unit in Byculla, ambulance needed",2,2,4,REPORTED,2026-11-15T07:48:00,2026-11-15T07:48:00,2026-11-15T07:53:00
+993,INC-0993,3,18,Road accident near Wadala station: two vehicles collided,4,4,25,REPORTED,2026-11-15T08:57:00,2026-11-15T08:57:00,2026-11-15T09:02:00
+994,INC-0994,3,40,Road accident at a residential block in Kanjurmarg: two vehicles collided,1,1,4,RESOLVED,2026-11-15T09:11:00,2026-11-15T09:11:00,2026-11-15T09:16:00
+995,INC-0995,2,18,Multiple people unwell near the Wadala flyover after food poisoning,4,4,1,CANCELLED,2026-11-15T09:46:00,2026-11-15T09:46:00,2026-11-15T09:51:00
+996,INC-0996,3,7,Road accident in the Malabar Hill market area: two vehicles collided,3,2,37,REPORTED,2026-11-15T09:47:00,2026-11-15T09:47:00,2026-11-15T09:52:00
+997,INC-0997,2,29,Medical emergency near Bandra Kurla Complex station: patient with chest pain,2,2,8,REPORTED,2026-11-15T09:54:00,2026-11-15T09:54:00,2026-11-15T09:59:00
+998,INC-0998,1,4,Short-circuit fire at a residential block in Fort; residents evacuating,3,4,10,REPORTED,2026-11-15T10:01:00,2026-11-15T10:01:00,2026-11-15T10:06:00
+999,INC-0999,2,46,"Elderly resident unconscious near Mulund station, ambulance needed",2,2,6,REPORTED,2026-11-15T10:21:00,2026-11-15T10:21:00,2026-11-15T10:26:00
+1000,INC-1000,3,13,"Motorcycle accident at a residential block in Lalbaug, traffic blocked",2,2,10,REPORTED,2026-11-15T11:55:00,2026-11-15T11:55:00,2026-11-15T12:00:00
